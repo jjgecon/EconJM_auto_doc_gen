@@ -177,7 +177,7 @@ def create_request_body(
     model_json_schema,
 ):
     """Creates a request body for the OpenAI API."""
-    historical_event = row[column_name]
+    instruction_prompt = row[column_name]
     body = {
         "custom_id": row[id_var]
         + f";{batch_n}",  # unique identifier for the event + the numbers asked
@@ -187,7 +187,7 @@ def create_request_body(
             "model": model,
             "messages": [
                 {"role": "system", "content": system_prompt},
-                {"role": "user", "content": f"{historical_event}"},
+                {"role": "user", "content": f"{instruction_prompt}"},
             ],
             "max_tokens": max_tokens,
             "response_format": model_json_schema,
