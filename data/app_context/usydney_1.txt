@@ -1,0 +1,32 @@
+START JOB DESCRIPTION
+
+- PhD in Economics (awarded prior to start)
+- Interest and/or experience in economic history
+- Experience working with large datasets
+- Ability to conduct independent research and lead academic papers
+- Proven capacity for collegial collaboration within research teams
+- Evidence of developing publication record and research potential
+- Desirable: expertise in applied microeconometrics, labour/health/environmental/development economics, Indigenous/economic history, economic geography/ArcGIS, machine learning, structural estimation, or text analysis
+- Willingness to relocate to Sydney and participate in an indigenous cultural workshop
+- Commitment to diversity and inclusion
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+- Commitment to education for all and leadership that benefits communities
+- Focus on inclusion and collaboration (Trust)
+- Emphasis on accountability at both individual and collective levels
+- Dedication to excellence in performance and service
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+- ARC Discovery Project led by faculty at University of Sydney and University of Glasgow
+- Project title: The Socio-Economic Impacts of Colonisation in Australia
+- Research areas: health, economic growth, environmental economics, inequality, and culture
+- Utilizes large-scale data collection, archival records, text analysis, and machine learning
+- Focus on assessing the impact of colonisation using diverse methodologies
+
+END ECON DEPT

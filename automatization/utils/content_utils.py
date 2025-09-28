@@ -1,6 +1,14 @@
 import json
 import re
 import pandas as pd
+import tiktoken
+
+
+def n_tokens_from_string(string: str, model_name: str) -> int:
+    """Returns the number of tokens in a text string."""
+    encoding = tiktoken.encoding_for_model(model_name)
+    num_tokens = len(encoding.encode(string))
+    return num_tokens
 
 
 def extract_json(text):

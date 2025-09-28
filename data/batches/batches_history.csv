@@ -1,1 +1,3 @@
 created_at,description,model,cat_type,batch_id,status,processing_status,input_file_id,output_file_id,error_file_id
+2025-09-10 13:32:59.809253,Generate Research Statements,gpt-4.1-mini,rs,batch_68c1c45ccf6c81908c795d1c4400d1ed,completed,True,file-8GAVWNwMEXZn7iTSrr7NG6,file-EkumtddrxuGoaYEfYPGsym,
+2025-09-28 13:15:07.584437,Generate Research Statements,gpt-4.1-mini,rs,batch_68d97b2cde708190955f1672844df193,validating,False,file-3vrNFg4yZTtpWH78Vp5UF7,,

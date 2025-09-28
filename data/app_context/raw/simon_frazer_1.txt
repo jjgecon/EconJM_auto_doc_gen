@@ -1,3 +1,6 @@
+
+START JOB DESCRIPTION
+
 ASSISTANT PROFESSOR OPENING
 
 Simon Fraser University
@@ -32,3 +35,48 @@ All qualified candidates are encouraged to apply; however, Canadian citizens and
 We acknowledge the Squamish (Sḵwx̱wú7mesh Úxwumixw), Musqueam (xʷməθkʷəy̓əm), Tsleil-Waututh (səlilwətaɬ), Katzie (q̓ íc̓əy̓), Kwikwetlem (kʷikʷəƛ̓əm), Qayqayt, Kwantlen, Semiahmoo and Tsawwassen peoples, on whose traditional territories Simon Fraser University's three campuses stand. By recognizing the Unceded Traditional Coast Salish territories, we aspire to create space for reconciliation through dialogue and decolonizing practices.
 
 Personal information that forms part of an application is collected under the general authority of the Freedom of Information and Protection of Privacy Act, applicable University Policies, and the SFUFA/SFU Collective Agreement. For further details see the full Collection Notice.
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+Our Mission
+
+Our goal is to shift the SFU culture by bringing together the community through meaningful connections and working together to improve student experience.
+Our Vision
+
+A connected and supportive learning community that approaches student needs holistically.
+Core Values
+
+    Student participation and involvement is at the core
+
+    Students are at the centre of all SEI work. Their contributions and decisions are key to its success.
+    Student experience is everybody's job
+
+    Everyone at SFU has a direct or indirect impact on student experience. Responsibility for student experience is shared by the entire SFU community—students, staff and faculty.
+    A holistic view of the student is key
+
+    The design of student support acknowledges the intersectional and multi-dimensional nature of student identities and responsibilities. Student support addresses the "whole person."
+    Student experience is different for distinct sub-groups of students—customized approaches will be needed
+
+    An activity intended to enhance student experience may positively affect some sub-groups and negatively affect other sub-groups. The uniqueness of student sub-groups is valued.
+    Student experience should feel seamless across faculties, service units, and campuses—collaboration is essential
+
+    Advancing the student experience requires cross-unit communication and collaboration, including across the Faculties, between the Faculties and Service Units, and across all three campuses in order to provide an integrated system of support.
+
+
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+The dynamic teaching and learning environment of the Simon Fraser University Department of Economics brims with talent, creativity, and global connections. SFU economists develop the tools to think systematically about the world.
+
+The Department of Economics at Simon Fraser University is one of the top economics departments in Canada. Our world-class faculty consistently produce high-quality research published in top economics journals. 
+
+Our undergraduate programs are taught by renowned research professors, and students in our graduate programs are challenged to reach their full academic potential.
+
+Potential Co-authors:
+- Chris Bidner: with his work on gender norms "Marriage, Commitment and Unbundling Gendered Norms" where my data and methods could be used to indentify these gendered norms
+
+END ECON DEPT

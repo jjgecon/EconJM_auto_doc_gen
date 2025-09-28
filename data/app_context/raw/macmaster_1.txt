@@ -1,3 +1,5 @@
+START JOB DESCRIPTION
+
 McMaster University is located on the traditional territories of the Haudenosaunee and Mississauga Nations and within the lands protected by the “Dish With One Spoon” wampum agreement.
 
 Position Description:
@@ -28,3 +30,59 @@ Applicants are required to include a statement describing any contributions made
 Job applicants requiring accommodation to participate in the hiring process should contact the Office of the Dean of Faculty of Social Sciences at admstsoc@mcmaster.ca to communicate accommodation needs.
 
 The Department will begin reviewing applications on October 1. The position will remain open until it is filled. First-round interviews may begin as early as November 3.
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+Our Mission
+
+At McMaster, our purpose is the discovery, communication, and preservation of knowledge. In our teaching, research, and scholarship, we are committed to creativity, innovation, and excellence. We value integrity, quality, inclusiveness, and teamwork in everything we do. We inspire critical thinking, personal growth, and a passion for lifelong learning. We serve the social, cultural, and economic needs of our community and our society.
+
+Our Vision
+
+Impact, Ambition, and Transformation through Excellence, Inclusion, and Community: Advancing Human and Societal Health and Well-being.
+
+The vision statement was adopted in 2021 following several months of consultations and discussions across the campus. It captures both the depth of our collective aspirations and desire for impact, as well as our commitment to inclusive excellence and serving the global community in all that we do. In referencing the current positioning statement, the vision statement links McMaster’s historical and continuing strengths and commitments with our intentions and goals for the future.
+
+Inclusive Excellence
+
+We aspire to embed an inclusive approach that intentionally engages and respects a diversity of peoples, perspectives, and ways of knowing, in everything we do.
+
+Engaging Local, National, Indigenous, and Global Communities
+
+We further develop and expand our network of longstanding and respectful partnerships with communities, partners, research collaborators, and supporters for the benefit of all.
+
+Teaching and Learning
+
+We further advance and support innovation in teaching and learning, within and beyond the classroom, and across disciplines and Faculties, to elevate teaching as a professional discipline, and equip our students with the knowledge and skills needed to make a transformative impact on our world.
+
+Operational Excellence
+
+We enable the administrative operations of the University to most effectively support the institutional vision and aspirations of our community of researchers, scholars, teachers, and learners.
+
+Research and Scholarship
+
+We strive to be the go-to place for world-class researchers and collaborators who share our values and commitment to working together across disciplines, sectors, and borders to develop knowledge, tackle global issues, and advance human understanding.
+
+These priorities form the foundational elements of our plan, with each priority becoming a strategic goal with associated objectives, activities, and metrics. It is intended to be a living and evolving document and will serve as McMaster’s agenda and accountability statement for the next three years.
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+We invite you to browse our website and discover the many programs we have to offer. There are two undergraduate streams of the Honours BA in Economics (the Honours Specialist option and the Honours stream), along with a number of combined Honours degrees and a Minor in Economics. We offer both an MA and a PhD in Economics as well as an MA in Economic Policy at the graduate level. All of our programs provide students with training in economic theory and quantitative methods. In addition, students are given the opportunity to pursue a wide range of specializations.
+
+Explore the research interests of Department faculty members and their exciting projects by visiting the Department’s research page. A number of Canadian research labs and centres are affiliated with the Department, making it a leading research hub.
+
+The Department of Economics at McMaster University has faculty members with expertise in econometrics, experimental economics, environmental economics, health economics, international economics, labour economics, macroeconomics, microeconomics, population economics, and public economics. Most of their research is applied to policy issues and utilizes advanced quantitative techniques.
+
+In recognition of the quality and impact of their research, our faculty members have won numerous awards and honours.
+
+potential co-authors:
+- Katherine Cuff with her interest in inequality and redistriution, where we can explore how other media types affect redistribution attitudes
+
+potential department groups:
+- Mestelman & Muller McMaster Decision Science Laboratory (McDSL)to explore the mechanisms of changes in attitudes with media exposure
+
+END ECON DEPT

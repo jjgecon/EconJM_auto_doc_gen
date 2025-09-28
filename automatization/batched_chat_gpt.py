@@ -2,29 +2,23 @@ import json
 
 # REMEMBER: this is assuming that there are not any in-process batches
 
-# first check what are the telenovelas we are missing
 try:
-    old_val = pd.read_csv(
-        path_content
-        / f"open_ai_{categorization_type}_{model_name.replace('.', '_')}.csv"
-    )
+    old_docs = pd.read_csv(path_output / f"{cat_type}_docs_{model_name}.csv")
 except:
-    old_val = pd.DataFrame(columns=["telenovela_id"])
+    old_docs = pd.DataFrame(columns=["add_id"])
 
-missing_titles = set(telenovelas_df.telenovela_id) - set(old_val.telenovela_id)
-non_cat_df = telenovelas_df.loc[telenovelas_df["telenovela_id"].isin(missing_titles)]
+missing_titles = set(gen_aux.add_id) - set(old_docs.add_id)
+non_cat_df = gen_aux.loc[gen_aux["add_id"].isin(missing_titles)]
 
-# now we need to load the batches
-# check if there completed batches with the same model and categorization type
 model_cat_completed_batches = completed_batches[
     (completed_batches["model"] == model_name)
-    & (completed_batches["cat_type"] == categorization_type)
+    & (completed_batches["cat_type"] == cat_type)
 ]
 model_cat_completed_batches.sort_values(["created_at"], inplace=True)
 
 if not model_cat_completed_batches.empty:
-    print("Found completed batches for", model_name, "and", categorization_type.upper())
-    print("Updating the existing old_val")
+    print("Found completed batches for", model_name, "and", cat_type.upper())
+    print("Updating the existing old_docs")
     # this is to update the existing non_cat_df
     for index, row in model_cat_completed_batches.iterrows():
         # get the output file
@@ -38,18 +32,18 @@ if not model_cat_completed_batches.empty:
                 result["response"]["body"]["choices"][0]["message"]["content"]
             )
             aux_df = json_to_dataframe(answer_json, content_schema)
-            aux_df.loc[:, "telenovela_id"] = result["custom_id"].split(";")[0]
+            aux_df.loc[:, "add_id"] = result["custom_id"].split(";")[0]
             aux_df.loc[:, "batch_id"] = result["custom_id"].split(";")[1]
             results_df = pd.concat([results_df, aux_df], ignore_index=True)
 
         variables_names = [
             col
             for col in results_df.columns.tolist()
-            if col not in ["telenovela_id", "batch_id"]
+            if col not in ["add_id", "batch_id"]
         ]
 
         results_df = results_df.pivot(
-            index="telenovela_id",
+            index="add_id",
             columns="batch_id",
             values=variables_names,
         )
@@ -60,11 +54,10 @@ if not model_cat_completed_batches.empty:
 
         results_df.reset_index(inplace=True)
 
-        old_val = pd.concat([old_val, results_df], ignore_index=True)
-        old_val.drop_duplicates(subset=["telenovela_id"], inplace=True)  # just to check
-        old_val.to_csv(
-            path_content
-            / f"open_ai_{categorization_type}_{model_name.replace('.', '_')}.csv",
+        old_docs = pd.concat([old_docs, results_df], ignore_index=True)
+        old_docs.drop_duplicates(subset=["add_id"], inplace=True)  # just to check
+        old_docs.to_csv(
+            path_output / f"{cat_type}_docs_{model_name}.csv",
             index=False,
         )
 
@@ -77,22 +70,20 @@ if not model_cat_completed_batches.empty:
         # save the batch history
         batch_history.to_csv(path_batch_files / "batches_history.csv", index=False)
 
-# Now we need to recheck the missing titles
-missing_titles = set(telenovelas_df.telenovela_id) - set(old_val.telenovela_id)
-non_cat_df = telenovelas_df.loc[telenovelas_df["telenovela_id"].isin(missing_titles)]
+
+missing_titles = set(gen_aux.add_id) - set(old_docs.add_id)
+non_cat_df = gen_aux.loc[gen_aux["add_id"].isin(missing_titles)]
 
 if non_cat_df.empty:
     gpt_cat = False
-    print(
-        "No telenovelas to identify", categorization_type.upper(), "using", model_name
-    )
+    print("No", cat_type.upper(), "to generate using", model_name)
 else:
     print(
-        "Need to categorize",
+        "Need to generate",
         non_cat_df.shape[0],
-        "telenovelas that contain a",
-        categorization_type.upper(),
-        "component using",
+        cat_type.upper(),
+        "docs that contain a",
+        "using",
         model_name,
     )
     # now we create the new batch
@@ -112,12 +103,12 @@ else:
 
     save_to_jsonl(
         non_cat_df,  # I have subseted this here for now
-        "plot_EN",
-        "telenovela_id",
-        5,  # number of tries for each event
+        "prompt",
+        "add_id",
+        1,  # number of tries for each event
         path_batch_files / f"{name_jsonl}.jsonl",
         model_name,
-        system_instructions,
+        "",  # this is to ignore system instructions
         schema_wrapper,
         max_tokens=5000,
     )
@@ -126,7 +117,7 @@ else:
         "created_at": pd.Timestamp.now(),
         "description": description_batch,
         "model": model_name,
-        "cat_type": categorization_type,
+        "cat_type": cat_type,
         "batch_id": "",
         "status": "",
         "processing_status": False,
