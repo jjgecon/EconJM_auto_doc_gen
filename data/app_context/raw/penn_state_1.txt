@@ -37,12 +37,31 @@ END JOB DESCRIPTION
 
 START INSTITUTIONAL DESCRIPTION
 
+Our instructional mission includes undergraduate, graduate, professional, continuing, and extension education offered through both resident instruction and distance learning. Our educational programs are enriched by the talent, knowledge, diversity, creativity, and teaching and research acumen of our faculty, students, and staff.
 
+Our discovery-oriented, collaborative, and interdisciplinary research and scholarship promote human and economic development, global understanding, and advancement in professional practice through the expansion of knowledge and its applications in the natural and applied sciences, social and behavioral sciences, engineering, technology, arts and humanities, and myriad professions.
+
+As Pennsylvania’s land-grant university, we provide unparalleled access to education and public service to support the citizens of the Commonwealth and beyond. We engage in collaborative activities with private sector, educational, and governmental partners worldwide to generate, integrate, apply, and disseminate knowledge that is valuable to society. 
+
+The Penn State Values should guide our actions and decisions as members of
+the Penn State community:
+
+    Integrity: We act with integrity and honesty in accordance with the highest academic, professional, and ethical standards.
+    Respect: We respect and honor the dignity of each person, embrace civil discourse, and foster a diverse and inclusive community.
+    Responsibility: We act responsibly, and we are accountable for our decisions, actions, and their consequences.
+    Discovery: We seek and create new knowledge and understanding, and foster creativity and innovation, for the benefit of our communities, society, and the environment.
+    Excellence: We strive for excellence in all our endeavors as individuals, an institution, and a leader in higher education.
+    Community: We work together for the betterment of our University, the communities we serve, and the world.
 
 END INSTITUTIONAL DESCRIPTION
 
 START ECON DEPT
 
+Penn State’s Economics Department is dedicated to excellence in research and teaching. Our mission is to conduct cutting-edge research in economics and to teach students at the undergraduate and graduate level the methodology and ideas of modern economics, with the goal of training the next generation of professional economists, for academia, the government, and the private sector. 
 
+The development group studies the experiences of developing countries and the process of development from many perspectives. Research topics include the impact of globalization, contracting issues, credit market imperfections, human capital accumulation, state capacity, and regulation in developing economies.
+
+People I could work with:
+- Ewout Verriest with his work on labor economics and intra-household barganing matches my gender economic interest
 
 END ECON DEPT

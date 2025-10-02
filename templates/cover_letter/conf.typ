@@ -52,9 +52,6 @@
             ], 
            footer: [
             #set align(center)
-            #text(fill: smu_red, weight: "bold")[
-              World Changes Shaped Here
-            ] \
             #text(size:9pt)[
               Southern Methodist University | PO Box 750116   |   Dallas TX 75275-0116   |   214-768-2562   |   Fax 214-768-1611
             ]
@@ -64,14 +61,14 @@
   datetime.today().display("[month repr:long] [day], [year]")
   par()[
     #set align(left)
-    #author.name \
+    #author.name | #author.email \
     #for addr in author.address.split(";") {
       addr.trim()
       linebreak()
     }
   ]
 
-  v(0.6cm)
+
 
   par()[Dear #recepient:]
 
@@ -81,15 +78,10 @@
   doc
 
   // signature
-  v(.5cm)
-  [
-    #set align(left)
-    Kind regards, \
-    #author.name \
-    #author.position \
-    #university \
-    #author.email \
-  ]
+  v(1cm)
+  grid(columns: (1fr, 1fr), align: (left, right),
+  [Sincerely, \ #author.name],
+  [ \ #line(length: 100%)])
   v(2cm)
-  line(end:(50%,0%))
+  
 }

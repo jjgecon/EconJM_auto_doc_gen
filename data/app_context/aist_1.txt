@@ -1,0 +1,35 @@
+START JOB DESCRIPTION
+
+- Seeking postdoctoral Research Fellows in social and behavioral sciences (e.g., anthropology, economics, evolutionary biology, history, mathematics, philosophy, political science, psychology, sociology).
+- Candidates must have a strong disciplinary research background and be open to interdisciplinary collaboration.
+- Applicants should demonstrate interest in and commitment to at least one other IAST discipline.
+- Preference for research interests that complement existing IAST research teams.
+- Expected to participate in seminars, discussions, social events, and possibly summer school.
+- Eligibility: PhD completed after Dec 2022 and before Sept 2026 (exceptions considered with explanation); not open to current tenure-track/tenured faculty.
+- Commitment to equality, diversity, and inclusion; encourages applications from underrepresented groups.
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+- Commitment to interdisciplinary research across social and behavioral sciences
+- Emphasis on rigorous disciplinary training while encouraging collaboration across fields
+- Focus on understanding human behavior as shaped by biology, society, institutions, and beliefs
+- Promotion of teamwork to address complex questions that transcend traditional academic boundaries
+- Value placed on discovering complementarities between diverse scientific approaches
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+reseach teams:
+Leadership, Power and Inequality
+Social Evolution
+Evolution of Technology
+Expanded Morality
+Family, Demography and Health
+Political Economy
+Center for Collective Learning
+
+
+END ECON DEPT

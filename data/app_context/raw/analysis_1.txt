@@ -1,0 +1,75 @@
+START JOB DESCRIPTION
+
+ Overview
+
+About Analysis Group:
+
+Make an impact at Analysis Group, where we provide our clients with thoughtful, pragmatic solutions to their most challenging business and litigation problems—within a collaborative, inclusive culture that values curiosity, teamwork, and continuous learning. Analysis Group is one of the largest private economics consulting firms, with more than 1,500 professionals across 15 offices in North America, Europe, and Asia. Since 1981, we have provided expertise in economics, finance, health care analytics, and strategy to top law firms, Fortune Global 500 companies, and government agencies worldwide. Our internal experts, together with our network of affiliated experts from academia, industry, and government, offer our clients exceptional breadth and depth of expertise.
+
+    We offer cutting-edge analyses and analytical tools to address business challenges that require rigorous, evidence-based research. 
+    We collaborate with top professors from leading institutions to create a bridge between current academic thinking and real business issues.
+    We assist premier law firms in many different litigation contexts, including antitrust, intellectual property and commercial damages, and with all aspects of litigation, including pretrial discovery, development of economic and financial models, preparation of testimony, and critique of opposing experts. 
+    We advise corporate and government clients on a range of business issues that require expert interpretation of economic and financial data, including valuation of companies and assets, securities and financial instruments, tax and transfer pricing issues, cost-effectiveness analyses, market analyses, and evaluation of mergers and acquisitions. 
+    We also help organizations create strategies for growth by analyzing market dynamics and organizational capabilities, enhancing innovation in current products and services, and identifying new market opportunities.
+    We have received the Boston Bar Association’s President’s Award for the firm’s pro bono work on civil legal aid and homelessness, and the firm’s innovative approach to recruitment has been featured prominently in major outlets, including the Financial Times and Leaders magazine.
+    We have also been recognized as a best place to work in several top national surveys, including Glassdoor’s Best Places to Work and Employees’ Choice awards (small and medium business category) and Vault’s Consulting 50, where we ranked 17th overall and as the top-ranked economic consulting firm.
+
+About the Associate Position: 
+
+As an associate, you have the opportunity to work on complex business problems within an inclusive and collaborative environment. Associates can expect to work on multiple projects at a time across various practice areas and industries. Associates can expect to play a critical role in driving the research, analysis, and strategy of cases. Responsibilities may include:
+
+    Quantitative analyses and modeling: you will help lead the development of empirical models to address our clients’ needs using tools such as SAS, R, Stata, Python
+    Qualitative research: you will contribute to and oversee the review of academic and industry research; you will evaluate client documents to develop support to address our clients’ needs
+    Preparation of reports/collaboration with experts: you will assist in the development of expert reports and other client deliverables; you will collaborate with internal and external experts to identify innovative, evidence-based solutions to our clients’ problems
+    Team building and collaboration: you will collaborate with colleagues at all levels and across offices as part of your portfolio of case work, helping to foster a collaborative and inclusive team environment
+    Firm-building initiatives: you will contribute to firm life by participating in recruiting, mentoring, and inclusion initiatives; pro bono work; and business development and marketing activities (including marketing calls and pitch material development)
+
+Analysis Group fosters a progressive and academically oriented work environment, with an emphasis on teamwork and collaboration across diverse areas of expertise. The ideal candidate will possess:
+
+    A Ph.D. in Economics, Finance, Accounting or related discipline.
+    Strong quantitative and research skills, including analytical and creative problem-solving abilities; the ability to apply targeted research to address client challenges; intellectual curiosity with a strong desire to continuously learn; and the ability to anticipate and respond effectively to opposing arguments.
+    Clear and effective written and verbal communication skills, with the ability to present complex ideas clearly and concisely.
+    Demonstrated interpersonal skills and a collaborative mindset, with the ability to work independently and within a team setting.
+    A strong academic track record, with demonstrated attention to detail, organizational skills, and a commitment to producing high-quality work.
+
+Analysis Group embraces equal opportunity. We are committed to building teams that bring a variety of backgrounds, perspectives, and skills, as we believe that a strong and inclusive workforce directly supports our goal of providing the highest-quality work. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other class protected under applicable federal, state, or local law, and we encourage candidates of all backgrounds to apply.
+
+ 
+
+How to Apply
+
+To be considered, please upload a cover letter, your curriculum vitae, and job market paper via the Analysis Group website and submit three letters of recommendation to Associate.Recruiter@analysisgroup.com.
+
+ 
+
+The application deadline for the Associate - Generalist (PhD) position is Monday, November 17, 2025. Interviews will begin in mid-December. After the deadline, we may continue reviewing applications on a rolling basis. If you miss the application deadline and the role remains posted, we will still encourage you to apply and you may be considered pending availability.
+
+ 
+
+Please visit the following link for information related to compensation and benefits for this position: https://www.analysisgroup.com/associate-pay/
+
+ 
+
+For positions based in San Francisco, consideration of qualified candidates with arrest and conviction records will be in a manner consistent with the San Francisco Fair Chance Ordinance.
+
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+Economic and financial analysis is essential in solving many legal and business problems. With the rapid pace of change in technology, financial instruments, and regulatory environments, our clients face challenges that require approaches that are innovative, rigorous, and empirical. We have been directly involved in some of the most significant antitrust and competition, intellectual property, and securities matters in recent years. Our firm is also distinguished by a multidisciplinary health care practice and by our work in policy and business strategy.
+
+From quantifying the cost-effectiveness of health care treatments to analyzing trading patterns in complex investment practices to determining consumer harm from cartels, our consultants and affiliated experts have demonstrated their skills and expertise on a wide range of matters. These have ranged from some of the largest legal disputes to smaller- and medium-sized cases and pro bono engagements with nonprofit organizations, all of which benefited from the application of sophisticated economic, finance, or statistical tools. We are proud of our reputation for delivering the highest quality work and are committed to efficiency in our client service. As a result, returning clients are the most important source of our engagements.
+Our Approach
+
+At Analysis Group, we bring together the best people to do the work, structuring our teams to enhance interaction with clients. We blend efficient project management capabilities with a commitment to client service and rigorous quantitative analysis. Because we believe that excellent ideas benefit our clients no matter where they come from within our organization, we often collaborate across offices, and we encourage and recognize team members at all levels who voice their opinion and contribute. The people who thrive at Analysis Group have an opportunity to contribute in ways that are intellectually stimulating and professionally rewarding, because their work results in a better outcome for our clients.
+
+Our close ties with leading experts from academia, industry, and government ensure that clients have access to the people and ideas that will make a difference in addressing their issues. The rigor they bring to bear means that our work, whether under the direction of our affiliated or internal experts, will meet the most exacting standards of quality in the courtroom, the boardroom, or the media.
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+No ecn department
+
+END ECON DEPT

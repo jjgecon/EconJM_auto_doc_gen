@@ -1,0 +1,28 @@
+START JOB DESCRIPTION
+
+- Ph.D. in Economics, Finance, Accounting, or related discipline required
+- Strong quantitative, analytical, and creative problem-solving skills
+- Experience with empirical modeling and statistical tools (SAS, R, Stata, Python)
+- Excellent written and verbal communication skills; ability to present complex ideas clearly
+- Demonstrated research abilities and intellectual curiosity; eagerness to learn
+- Collaborative mindset and strong interpersonal skills; ability to work independently and in teams
+- High attention to detail, organizational skills, and commitment to high-quality work
+- Commitment to diversity, equity, and inclusion; open to candidates from all backgrounds
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+- Provide innovative, rigorous, and empirical economic and financial analysis to solve legal and business challenges.
+- Deliver high-quality work with a commitment to efficiency and client service.
+- Foster collaboration, intellectual stimulation, and professional growth within multidisciplinary teams.
+- Value diverse perspectives and encourage contributions from all team members.
+- Maintain strong ties with leading experts to ensure the highest standards of quality and impact.
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+No ecn department
+
+END ECON DEPT

@@ -1,0 +1,31 @@
+START JOB DESCRIPTION
+
+- Tenure-track Assistant Professor position in Applied Microeconomics
+- Candidates must have (or expect) a Ph.D. in economics or a related field by start date
+- Strong commitment to high-quality research and teaching is required
+- Expected to publish in leading journals
+- Responsibilities include teaching undergraduate and graduate courses, supervising graduate students, participating in workshops, and serving on department committees
+- Involvement in Ph.D. dissertation committees is expected
+- Application requires cover letter, CV, personal statement (research, teaching, service), and three reference letters
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+- Mission: Develop leaders of character dedicated to serving the greater good.
+- Core Values: Respect, Excellence, Leadership, Loyalty, Integrity, Selfless Service.
+- Honor Code: "An Aggie does not lie, cheat or steal or tolerate those who do."
+- Commitment to sustainability, tradition, and the free exchange of ideas.
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+- The Department of Economics at Texas A&M University is committed to high-quality education and research in microeconomics, macroeconomics, mathematics, statistics, and economic theory.
+- The department values interdisciplinary research, experimental economics, and the application of economic reasoning to social problems.
+- Research strengths include experimental economics, financial economics, econometrics, and the study of media effects on attitudes, charities, and gender gaps.
+- Potential co-authors and research/teaching groups:
+    - Ragan Petrie and Daniella Serra: Experimental economics, mechanisms of media influence.
+    - Jonathan Meer: Media effects on charitable giving.
+    - Catherine C. Eckel: Media and gender gaps.
+
+END ECON DEPT
