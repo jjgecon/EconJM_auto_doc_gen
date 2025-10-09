@@ -2,7 +2,7 @@
 
 
 #show: conf.with(
-  uni_logo: "../../0_media/SMULogo_InformalPeruna_digitalonly_BR.png",
+  uni_logo: "../../../0_media/SMULogo.png",
   university: "Southern Methodist University",
   college: "Deadman College of Humanities and Science",
   department: "Department of Economics",  

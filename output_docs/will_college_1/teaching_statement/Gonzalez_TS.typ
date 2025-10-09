@@ -1,3 +1,24 @@
+#import "conf.typ": *
+
+
+#show: conf.with(
+  uni_logo: "../../../0_media/SMULogo.png",
+  university: "Southern Methodist University",
+  college: "Deadman College of Humanities and Science",
+  department: "Department of Economics",  
+  recepient: [Recepient],
+  author: (
+      name: "Javier Gonzalez",
+      address: "3300 Dyer Street, P.O. Box 0496; Dallas, TX 75275-0496, USA", // Always separate by `;` to create a new line
+      email: "gonzalezjj@smu.edu",
+      phone: "+1 (972) 804-0694",
+      position: "Economics Ph.D. Candidate",
+      webpage: "https://jjgecon.github.io",
+  ),
+)
+
+= Teaching Statement
+
 My goal as an educator is to make the powerful framework of economics accessible and applicable for every student.
 My teaching philosophy is built on two principles: clarity and learning by doing.
 I strive to create an environment where students actively develop the analytical skills and confidence to think like economists, rather than passively receiving information.
@@ -14,8 +35,8 @@ When I taught an undergraduate Price Theory course, I dedicated a significant po
 During these workshops, students tackled problems individually or in small groups, while I circulated through the classroom to offer targeted guidance and ask probing questions.
 At the end, I would go through the entire exercise with them, reinforcing the concepts in a low-stakes environment where mistakes became learning opportunities.
 This dedicated practice proved crucial for solidifying their understanding and building confidence in their problem-solving skills.
-Feedback from the course consistently showed that students not only learned more from this format but also enjoyed it more than traditional lectures, validating the power of active engagement.
-This may be reflected in my student evaluations, which averaged 4.7/5, with comments highlighting my willingness to help, the time I dedicated to in-class examples, and the supportive environment where students felt comfortable asking questions without fear of feeling inadequate.
+Feedback from the course consistently showed that students not only learned more from this format but also enjoyed it more than traditional lectures.
+This is reflected in my student evaluations, which averaged 4.7/5, with comments highlighting my willingness to help, the time I dedicated to in-class examples, and the supportive environment where students felt comfortable asking questions without fear of feeling inadequate.
 
 The most rewarding aspect of teaching is witnessing students’ growth and confidence.
 A highlight was when several student-athletes in my Price Theory course earned perfect scores on the final exam.
