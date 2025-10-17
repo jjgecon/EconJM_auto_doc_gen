@@ -1,0 +1,35 @@
+START JOB DESCRIPTION
+
+
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+he University of Chile was founded on the 19th of November, 1842. It is the oldest higher education institution in Chile. Generating, developing, integrating and communicating knowledge in all the areas of knowledge and culture are the mission and basis of the activities of the University. This makes up the involvedness of their work and directs the education they impart.
+
+Among the first Presidents are the founder, the Venezuelan humanist and jurist Andrés Bello (1843 – 1865), and the Polish scientist and mineralogist Ignacio Domeyko Ancuta (1867 – 1883).
+
+The University is located in the capital city Santiago de Chile and it is a public university with international quality. All the areas of knowledge are elaborated in their lecture halls and today the university is at the top of the Chilean university system with regard to teaching, research, creation and outreach.
+
+    Faculties and Institutes: Distributed in five campuses and several experimental stations in Santiago and other Regions of Chile:
+        16 Faculties: Architecture and Urbanism, Arts, Agricultural Sciences, Chemical and Pharmaceutical Sciences, Communications and Image, Dentistry, Economy and Business, Forestry Sciences, Government, Law, Medicine,  Philosophy and Humanities, Physical and Mathematical Sciences, Sciences, Social Sciences and Veterinary and Animal Sciences.
+        3 Interdisciplinary Institutes: Advanced Studies in Education, International Studies and Nutrition and Food Technology.
+    The University of Chile has 47.307 students (2024)
+
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+Creado en 1992, el Centro de Economía Aplicada (CEA) aplica la teoría económica a problemas concretos. El ser parte de Ingeniería Industrial le permite integrar conceptos y soluciones de las escuelas de ingeniería, negocios y economía permitiendo un enfoque global de los problemas que estudia. El CEA tiene una larga tradición de investigación, focalizándose en áreas como teoría microeconómica, organización industrial, educación, economía laboral, macroeconomía y economía política. Su trabajo en varias de estas áreas ha sido pionero en Chile y ha sido publicado en las mejores revistas académicas a nivel internacional.
+
+Para los académicos que forman parte de este centro, la enseñanza es central. De aquí que participan activamente en el Magíster en Economía Aplicada (MagCEA) y en el Doctorado en Sistemas de Ingeniería, programa que cuenta con una línea de especialización en economía. A nivel de pregrado, los investigadores del CEA dictan los cursos de economía de la carrera de Ingeniería Industrial.
+
+En el frente público, en tanto, los académicos del CEA mantienen una activa participación con artículos de opinión y apariciones en prensa, y su experiencia es frecuentemente requerida en el diseño de políticas públicas, lo que explica su presencia en diversas Comisiones y Paneles Técnicos.
+
+Potential co-authors
+- alejandro corvalan with his work on political economics and redistribution (mathc with my support for redistribution paper)
+- raimundo undurraga with his work on mis perceptions, again close to my redistribution paper and closely linked to my research overall
+
+END ECON DEPT

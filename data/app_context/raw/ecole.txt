@@ -1,0 +1,53 @@
+START JOB DESCRIPTION
+
+
+
+We are looking for a talented researcher to join the Observatory on AI’s Environmental Footprint, one of the leading French initiatives investigating the environmental consequences of AI led by Ecole normale supérieure (ENS), its AI and Society Institute and its Foundation. The position will suit researchers interested in developing state-of-the-art methods in economics to develop our understanding of current and future environmental impacts of artificial intelligence.
+
+This is an open call for applications and candidates are invited to share their research proposals, on themes including but not limited to:
+
+    Current and prospective modeling: develop bottom-up or top-down economic models based on technological building blocks in key economic sectors or on macro-economic data to estimate present and future environmental costs.
+    Economic value of AI and its environmental implications: explore scenarios of AI’s commercial development, particularly the rise of agentic and multi-agent systems, and assess their potential environmental impacts.
+    Indirect effects: estimate the indirect effects of AI, both positive and negative. These may include energy savings from AI deployment in specific sectors, or rebound effects resulting from widespread AI adoption.
+    Cost-benefit evaluations: assess the net environmental impact of AI in specific sectors by conducting cost-benefit analyses that factor in both environmental costs and potential gains.
+
+This research will be central in developing the understanding of AI’s environmental footprint using economic methodologies. Your work is expected to lead to first author high-impact publications.
+
+The Observatory on AI’s Environmental Footprint is a project led by the AI and Society Institute at ENS, with the sponsoring of Capgemini. It aims to advance research on the assessment of the environmental footprint of AI and identify avenues to mitigate its environmental toll. The project contributes to several dimensions of existing research on the environmental footprint of AI: assessing the environmental implications of data center infrastructures renewal; evaluating the indirect effects of AI (the impact that result from AI’s application) and broadening the scopes of evaluation and impact indicators. The Observatory also aims at developing mitigating strategies to reduce the environmental footprint of AI and engage policymakers in order to develop policy solutions.
+
+We are looking for a candidate who can conduct their research independently. By joining the Observatory, you will be part of a vibrant and interdisciplinary team of researchers, including in computer science, pushing the understanding of the environmental footprint of AI. You will be hired by Ecole normale supérieure and work in one of the institutions that are partners of the Observatory: Paris School of Economics (PSE), Mines-PSL and Dauphine-PSL.
+
+Your research project will run over three years. As part of the Observatory, you are expected to communicate on your progress and findings to an interdisciplinary community of academics and policymakers. This can be discussed during the interviews.
+
+Preferred candidates will have a PhD (or equivalent experience) in economics and a strong interest in the intersection between computing, economics and environmental sustainability. Ability to communicate and present results to other scientists, excellent verbal/written communications skills and strong organisational skills are needed.
+
+Candidates must hold a PhD (or possess equivalent experience). Applicants who have submitted their thesis but are awaiting final award may be considered.
+
+As a group, we value and encourage applications from a diversity of backgrounds and experiences to contribute to the highly interdisciplinary research programme. We strongly value and encourage Equity, Diversity and Inclusion as well as a flexible working environment.
+
+Informal enquiries are welcome and can be made to Théophile Lenoir (tmhlenoir@gmail.com).
+
+Where: Paris
+
+When: from January 2026 to August 2028
+
+Salary: 55 000 € (annual gross salary), based on experience – to be discussed
+
+Application deadline: October 31, 2025
+
+In order to apply, please send a CV, a cover letter and two samples of your work. The cover letter should outline (1) why you are applying for this role, (2) how you match the criteria for the post, (3) what research question(s) you would be interested in pursuing (5 pages) and (4) researchers you would be interested in collaborating in the ENS ecosystem and amongst its partner organizations (the Paris School of Economics (PSE), Mines-PSL and Dauphine-PSL).
+
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+
+
+END ECON DEPT

@@ -1,0 +1,35 @@
+START JOB DESCRIPTION
+
+- Position: Researcher at the Observatory on AI’s Environmental Footprint, Ecole normale supérieure (ENS).
+- Focus: Investigating the environmental consequences of AI using economic methodologies.
+- Key Responsibilities:
+    - Develop economic models to estimate environmental costs of AI.
+    - Explore AI's commercial development and its environmental implications.
+    - Assess indirect effects of AI and conduct cost-benefit analyses.
+- Candidate Requirements:
+    - PhD (or equivalent experience) in economics.
+    - Strong interest in computing, economics, and environmental sustainability.
+    - Excellent verbal/written communication and organizational skills.
+    - Ability to conduct independent research.
+- Preferred Attributes:
+    - Experience in interdisciplinary research.
+    - Commitment to Equity, Diversity, and Inclusion.
+- Location: Paris.
+- Duration: January 2026 to August 2028.
+- Salary: 55,000 € (annual gross).
+- Application Deadline: October 31, 2025.
+
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+
+
+END ECON DEPT

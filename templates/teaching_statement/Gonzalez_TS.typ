@@ -6,7 +6,7 @@
   university: "Southern Methodist University",
   college: "Deadman College of Humanities and Science",
   department: "Department of Economics",  
-  recepient: [Recepient],
+  recepient: [Hiring Committee],
   author: (
       name: "Javier Gonzalez",
       address: "3300 Dyer Street, P.O. Box 0496; Dallas, TX 75275-0496, USA", // Always separate by `;` to create a new line

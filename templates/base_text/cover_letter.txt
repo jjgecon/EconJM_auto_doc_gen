@@ -1,7 +1,12 @@
-My research explores how entertainment media both reflects and shapes economic behavior.
-I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
+My research explores how entertainment media both reflects and shapes economic behavior. I develop novel methods using generative AI to extract cultural values from television shows and to test how these values affect individuals' behaviors and attitudes.
 
-My job market paper "Does Watching Women Work, Work?" provides causal evidence that teenage exposure to telenovelas featuring empowered female characters increases women's subsequent labor force participation.
-The effects are driven exclusively by portrayals of women in non-traditional careers and narratives that frame empowerment with joy or anger.
-A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
-My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
+My job market paper "Does Watching Women Work, Work?" provides causal evidence that teenage exposure to telenovelas featuring empowered female characters increases women's subsequent labor force participation. The effects are driven exclusively by portrayals of women in non-traditional careers and narratives that frame empowerment with joy or anger. A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity. My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
+
+CONDITIONAL EXAMPLES:
+[If interdisciplinary research is emphasized] → I was awarded Dedman College Interdisciplinary Institute's Inaugural Graduate Student Summer Research and Writing Fellowship at Southern Methodist University.
+
+[If service/leadership is valued] → I received the Service Melody Rice Memorial Award and served as President of the Economics Graduate Club at Southern Methodist University.
+
+[If teaching/mentoring is important] → I have experience mentoring and teaching through tutoring student athletes.
+
+[If technological fronteir are relevant] → My research demonstrates how AI tools can advance social science research methodologies.

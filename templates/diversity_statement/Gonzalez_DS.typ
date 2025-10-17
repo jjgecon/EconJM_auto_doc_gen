@@ -28,7 +28,7 @@ This philosophy has guided my actions throughout my academic career.
 During my tenure as President of the Graduate Student Association, I received the Service Melody Rice Memorial Award because I successfully translated these values into concrete programs.
 I spearheaded two key initiatives designed to promote a more inclusive and supportive departmental culture.
 First, I established a formal mentorship program that matched incoming first-year students with second-year peers.
-This program was created to demystify the unwritten rules of graduate school and provide a dedicated line of support, ensuring that students from all backgrounds—especially those who might otherwise feel isolated—had an immediate resource to help them navigate academic and social challenges.
+This program was created to demystify the unwritten rules of graduate school and provide a dedicated line of support, ensuring that students from all backgrounds, especially those who might otherwise feel isolated, had an immediate resource to help them navigate academic and social challenges.
 
 Second, to ensure that all students had a chance to develop their voice, I launched a student-led presentation series called "greenbags."
 This series provided a low-stakes, inclusive environment where graduate students could share their research-in-progress with peers without the formal scrutiny of faculty.
