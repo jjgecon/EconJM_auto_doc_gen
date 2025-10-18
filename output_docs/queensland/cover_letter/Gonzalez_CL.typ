@@ -1,0 +1,29 @@
+#import "conf.typ": conf
+
+
+#show: conf.with(
+  uni_logo: "../../../0_media/SMULogo.png",
+  university: "Southern Methodist University",
+  college: "Deadman College of Humanities and Science",
+  department: "Department of Economics",  
+  recepient: [Hiring Committee],
+  author: (
+      name: "Javier Gonzalez",
+      address: "3300 Dyer Street, P.O. Box 0496; Dallas, TX 75275-0496, USA", // Always separate by `;` to create a new line
+      email: "gonzalezjj@smu.edu",
+      position: "Economics Ph.D. Candidate",
+  ),
+)
+
+I am applying for the POSITION position in the INSTITUTION.
+Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My research explores how entertainment media both reflects and shapes economic behavior.
+I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
+
+My job market paper "Does Watching Women Work, Work?" provides causal evidence that teenage exposure to telenovelas featuring empowered female characters increases women's subsequent labor force participation.
+The effects are driven exclusively by portrayals of women in non-traditional careers and narratives that frame empowerment with joy or anger.
+A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
+My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
+
+At the University of Queensland's Economics Department, I am keen to blend my pioneering research on media's influence on economic behavior with the department's commitment to behavioural and experimental economics. My application of generative AI aligns with UQ's emphasis on innovative, agenda-setting research and its interdisciplinary collaboration ethos. For instance, my job market paper provides causal evidence relevant to understanding decision-making processes, resonating with UQ's policy and industry applications focus. Moreover, my mentoring experience complements the department's strong integration of teaching and community engagement, a commitment I witnessed through my role tutoring student athletes. I am excited to contribute to CUBES and engage with faculty like Marco Faravelli to advance behavioural economic sciences within this vibrant research community.

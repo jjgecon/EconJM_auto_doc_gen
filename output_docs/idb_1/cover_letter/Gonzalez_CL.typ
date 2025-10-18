@@ -15,7 +15,7 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Economics Specialist position at the Inter-American Development Bank.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
@@ -26,4 +26,5 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with the Inter-American Development Bank's commitment to fostering sustainable and inclusive development throughout Latin America and the Caribbean. By leveraging innovative generative AI methodologies to analyze cultural narratives in media, my work provides evidence-based insights that inform policies enhancing labor force participation and social equity. This approach resonates with the Economics Department's focus on translating rigorous economic analysis into actionable policy interventions that maximize development impact. Moreover, my collaborative experience across academic and policy settings equips me to contribute effectively to IDB's cross-sector partnerships, ensuring that research generates tangible benefits for diverse communities within the region.
+While my current research centers on culture, I also have a strong background in productivity and misallocation. My work on “Aggregate Costs of a Gender Gap in the Access to Business Resources” demonstrates how financial frictions faced by women entrepreneurs reduce aggregate productivity. This research quantifies the economic costs of gender-based barriers and highlights the importance of addressing resource misallocation to promote inclusive growth. Together with my cultural research, these experiences position me to contribute to evidence-based policies that advance both social equity and economic efficiency.
+Moreover, my collaborative experience across academic and policy settings equips me to contribute effectively to IDB's cross-sector partnerships, ensuring that research generates tangible benefits for diverse communities within the region.
