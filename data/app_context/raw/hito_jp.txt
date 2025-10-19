@@ -1,0 +1,73 @@
+START JOB DESCRIPTION
+
+Institute of Economic Research, Hitotsubashi University invites applications for full-time, open-rank, tenure-line positions beginning July 1, 2026. We welcome outstanding candidates in all areas of economics. We have up to four open positions.
+
+The successful candidate will be expected to pursue excellent scholarship, teach courses related to the candidates' research field, supervise M.A. and Ph.D. students and contribute to the overall academic environment of the Institute of Economic Research and the university. The working language is English or Japanese (Japanese language skills are preferred but not required). The successful candidate must have a Ph.D. in economics or a related field (candidates must have the Ph.D. degree in hand or have fulfilled all requirements for the degree by the start of the appointment) and a record that demonstrates promise of excellent research and teaching.
+
+Hitotsubashi University is one of Japan’s leading research universities in economics. Its Institute of Economic Research, established in 1940, is dedicated to advancing high-quality resear
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+Hitotsubashi University was established as a center of education and research embracing every field of the social sciences, which make up the learning of civil society. The University has contributed to the development of Japan’s political and economic society and the nurturing of its creative driving force through its liberal academic traditions. Its standards of education and research, including those in the humanities, are extremely high, and since its establishment it has produced many highly talented graduates who have been active not only in Japan but also internationally.
+
+Based on this history and record of achievement, our continuing mission is to create intellectual and cultural property which will contribute to the building of free and peaceful political and economic societies in Japan and the world and to train those who will assume positions of leadership. In order to accomplish this mission, Hitotsubashi University lays down the following principles and policies for the active promotion of pioneering and interdisciplinary education and research in the social sciences, with the aim of helping to solve, as a center for Japan and the world, the important problems common to human societies.
+1. Guiding Principles
+
+    To establish a solid foundation for research and for the creation and study of new fields in the social sciences, and to develop, accumulate, and widely publish intellectual and cultural property rich in originality.
+    To contribute intellectually and practically to Japan and the world through active partnerships in business and policy-making, society and culture.
+    To produce creative-thinking specialists, innovators who will act with reason and rationality, and policymakers and businesspeople with leadership skills who are cultured and civil-minded.
+
+2. Basic Policies
+
+    To provide education and conduct research in a spirit of autonomy and intellectual integrity cognizant of the University’s social responsibility and duly respecting law and ethics.
+    To respect the freedom and autonomy, individuality and diversity of those engaged in education and research.
+    To value theoretical research and practical research, basic research and pioneering research equally.
+    To publish the results of research widely both nationally and internationally and to strictly verify such results through objective, fair self-evaluation and external evaluation.
+    To foster an educational environment which is free and inspiring based on the concept of dialogue and two-way education.
+    To make the polishing of students’ individual sensibilities, the training of their powers of reasoning, and the cultivation of their creativity and judgment to be the guiding principles of their education.
+    To cooperate closely and actively with civil society, industry, and government to respond appropriately to the problems facing society.
+    To plan international partnerships in education and research and build information and human networks.
+
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+The Institute of Economic Research (IER) at Hitotsubashi University conducts "comprehensive research on the Japanese economy and the world economy," the statutory objective when the IER was established. Our staff of about thirty faculty members are committed to a rigorous and in-depth approach to their research, while maintaining an intellectually open mindset.
+
+Since its establishment in the 1940s, the crux of IER's research activities has been the collation and supply of historical data on the Japanese economy and society. Since the 1980s, the IER has further expanded its range of research, conducting both theoretical and empirical research and policy analyses linked to economic data, producing many outstanding research outputs. In addition to individual faculty members conducting high-quality research, the IER is positioning itself as a hub for international research networks by conducting multiple large-scale research projects and establishing several affiliated research centers. In FY2022, the IER welcomed 34 researchers as Specially Appointed Professors, Visiting Faculties, and Visiting Scholars. Of these, 26 were overseas researchers (including Japanese researchers affiliated with foreign universities). Almost the same number of domestic researchers engaged in joint research with IER researchers as Research Associates.
+
+In FY2010, the IER was designated as a "Center for Advanced Empirical Analysis of the Japanese and Global Economy" under the Ministry of Education, Culture, Sports, Science and Technology (MEXT)'s Joint Usage and Research Center Program. Since then, the IER has provided an environment that enables efficient and user-friendly access to a wide variety of economic data sets on Japan and other countries--including government survey micro data--catering to a broad range of researchers both in Japan and abroad. In 2021, the IER received the highest "S" rating in the final-year evaluation and new accreditation for the continuation of its activities under the Joint Usage/Integrated Research Center Program for the period from FY2022 to FY2028 by MEXT.
+
+In addition to conducting basic academic research, the IER also undertakes initiatives to address the pressing policy issues that Japan and the world economies face today and aims to contribute to constructive and concrete policy discussions in Japan by presenting the results of economic analyses in an easy-to-understand and useful manner.
+
+Current Major Research Activities
+- Measuring productivity in the Japanese economy and exploring its determinants. Construction of a data set for international comparison of productivity in collaboration with overseas researchers and the Ministry of Economy, Trade and Industry (METI).
+- Estimation of long-term income inequality data in Japan and analysis of the sources of variation: International Comparison with Western Countries
+- Analysis of the relationship between individual perceptions and economic behavior by conducting large-scale surveys (e.g., the relationship between health awareness and views of happiness, work environments of women and the elderly, savings and portfolio allocation)
+- Survey-based analysis of inflation expectations and economic uncertainty. Construction of economic uncertainty indices
+- Role of Bayesian learning in the long-term relationships among economic agents with cognitive biases
+- Development of time-series models and Bayesian statistical methods and their application to macroeconomic and financial analyses
+- Macroeconomic analysis of asset bubbles and policy implications
+- Analysis of retail price movements using POS data
+- Analysis of the interconnectedness of competition with respect to firms' products and labor markets
+- Micro empirical studies of economic development using field surveys (from countries such as Pakistan, India, Bangladesh, and Myanmar.)
+- Impact of government intervention on financing and management performance of SMEs during emergencies (e.g., major natural disasters and coronavirus outbreaks)
+- Impact of globalization on domestic labor conditions and environmental issues
+- Analysis of the Russian economy under economic sanctions after the invasion of Ukraine. Population problems in Russia and the former Soviet Union (declining birth rates and inter-regional migration)
+- Completion of the database of the "Asian Historical Statistics Series" (12 planned volumes) and the start of its provision
+
+Highlights of Past Major Research Activities
+- Publication of Japan's Long-Term Economic Statistics Series (LTES) in 14 volumes from Toyo Keizai Inc. Improvement of the original LTSE data, including the extension of the dataset to earlier periods. 
+- Fundamental research on Japan's long-term economic development.
+- Empirical research on the economic development of Asian countries and construction of a related statistical database ("Asian Historical Statistics Series")
+- Pioneering research on welfare economics and social choice theory
+- Contribution to pension system reform, mainly through the Center for Intergenerational Studies
+- Economic analysis of Japan's industrial policies
+- Basic research on the economies of the Soviet Union (present-day Russia) and Eastern European countries
+
+
+
+END ECON DEPT

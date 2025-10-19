@@ -26,8 +26,7 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-The department's emphasis on experimental approaches and gender economics aligns closely with my work.
-Moreover, the department's tradition of rigorous inquiry and interdisciplinary engagement is well-suited to my research agenda, which applies AI methods to social science questions and requires innovative thinking across disciplines.
-My commitment to interdisciplinary research is demonstrated by my receipt of the Dedman College Interdisciplinary Institute's Fellowship at SMU.
+The department's focus on experimental methods and gender economics aligns closely with my research. In particular, I see opportunities for collaboration with Dr. Petrie and Dr. Serra to show experimental evidence that media exposure positively influences gender norms.
+My commitment to interdisciplinary research is demonstrated by my receipt of the Dedman College Interdisciplinary Institute's Fellowship at SMU, well suited for A&M's interdisciplinary research commitment.
 Beyond research, I am dedicated to mentoring students and fostering an inclusive academic environment, as evidenced by my leadership in the Econ Grad Club, for which I received the Service Melody Rice Memorial Award at SMU.
 I am eager to contribute to Texas A&M's mission of excellence, integrity, and the free exchange of ideas through both my scholarship and teaching.

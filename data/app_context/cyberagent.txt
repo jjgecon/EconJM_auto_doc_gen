@@ -1,0 +1,27 @@
+START JOB DESCRIPTION
+- Seeking Research Scientists (Permanent) for the AI Lab Economics Team at CyberAgent.
+- Candidates should have a Ph.D. in Economics, Business, or a related field; Ph.D. in Computer Science with economics interest also considered.
+- Proven track record of publishing as lead author in peer-reviewed journals/conferences.
+- Strong skills in R and/or Python and statistical analysis tools.
+- Ability to reproduce and extend research based on existing literature.
+- Excellent collaboration skills with multidisciplinary teams (researchers, data scientists, engineers).
+- Business-level proficiency in Japanese required.
+- Focus on combining economics with machine learning to address real-world problems and publish in top journals/conferences.
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+- Drive innovation and revitalize industries through the power of the internet.
+- Foster a culture that values creativity, adaptability, and teamwork.
+- Eliminate traditional seniority systems to promote merit-based growth.
+- Commit to building a global company with a strong focus on internet-driven markets.
+- Maintain high ethical standards and encourage open collaboration.
+- Support risk-taking, continuous learning, and personal development.
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+
+
+END ECON DEPT

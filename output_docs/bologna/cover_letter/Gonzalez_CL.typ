@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the  Department of Economics (DSE) at the University of Bologna.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to return to Europe so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to leave the United States.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research agenda aligns closely with the University of Bologna's dedication to fostering diversity, inclusion, and the societal impact of economics. For example, my job market paper’s focus on how media representations of empowered female characters influence women’s labor force participation directly contributes to understanding gender and political economy, a priority within the department and exemplified by scholars like Giorgio Bellettini. Additionally, my engagement with generative AI as a methodological innovation exemplifies the Department of Economics’ commitment to advancing technological frontiers in economic research. My teaching experience mentoring student-athletes underscores my dedication to inclusivity and individual potential, resonating with the university’s ethos of integrating education, research, and societal engagement to promote the common good.
+My research agenda aligns closely with the University of Bologna's dedication to fostering diversity, inclusion, and the societal impact of economics. For example, my job market paper directly contributes to understanding gender and political economy, a priority within the department and exemplified by scholars like Giorgio Bellettini. Additionally, my engagement with generative AI as a methodological innovation exemplifies the Department of Economics’ commitment to advancing technological frontiers in economic research. My teaching experience mentoring student-athletes underscores my dedication to inclusivity and individual potential, resonating with the university’s ethos of integrating education, research, and societal engagement to promote the common good.

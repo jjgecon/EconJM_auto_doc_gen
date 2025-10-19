@@ -1,0 +1,104 @@
+START JOB DESCRIPTION
+
+Full Text of JOE Listing:
+
+Who We Are
+CyberAgent is a leading Japanese company experiencing rapid growth in the internet industry.
+Within the CyberAgent Group, the AI Tech Studio division focuses on developing cutting-edge services in the digital marketing domain and houses a research and development organization called "AILab." Not only does AILab aim to solve business challenges, but it also strives to contribute to academia through the use of advanced AI research technologies and proactive collaboration with universities and academic institutions. It is a rare research organization in Japan that has a dedicated economics research team.
+
+Team members and paper acceptance track record:
+https://cyberagent.ai/ailab/research/econ/
+
+Field Of Research:
+- Causal Inference
+- Experiment Design
+- Machine Learning Method for predicting CATE/ITE/Uplift
+- Off-Policy Evaluation/Learning
+- Application of Mechanism Design
+- Demand Estimation
+- Pricing
+- Information Intervention
+- Evaluation of Bandit / Reinforcement Learning Algorithm
+※The theme is not limited to the above
+
+Regarding the recruitment positions:
+In the AI Lab Economics Team, we are looking for researchers who focus on cutting-edge theoretical and applied research in economics combined with machine learning. In this position, our goal is to submit research results to top international journals such as Econometrica, and top conferences such as AAAI, ICML, KDD, Recsys, and NeurIPS.
+We are offering a Research Scientist (Permanent) position.
+
+Please refer to the following for the details of the position.
+
+Research Scientist (Permanent)
+This is a permanent position. The main goal of this role is to publish research papers that address real-world problems while communicating with the business side. Therefore, a business-level proficiency in Japanese is required.
+
+Requirements for positions:
+- A Ph.D. in Economics, Business, or a closely related field
+- Candidates with a Ph.D. in Computer Science and an interest in economics are also welcome
+- Demonstrated ability to write and publish research papers as the lead author in peer-reviewed conferences and journals
+- Capability to reproduce research results and conduct further studies based on existing papers
+- Proficiency in R and/or Python, as well as other statistical analysis tools
+- Strong collaboration skills, with the ability to work with team members from diverse backgrounds, such as researchers from different disciplines, data scientists, and engineers
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+
+Purpose
+To break through stagnation with new power and the internet
+
+Contribute to the digital shift of all industries.
+
+Make ABEMA the television of the future, an easily accessible social infrastructure.
+
+Challenge the world with a fusion of technology and creativity.
+
+Eliminate the seniority system and embody the Japanese economy of the 21st century.
+
+Adapt to the changing times and aim to become a global company.
+
+Vitalize Japan with the internet.
+
+
+Vision
+
+To create the 21st century’s leading company
+Mission Statement
+
+Focus on Internet growth markets.
+
+Seize opportunities to enter adjacent markets.
+
+Always keep things FRESH!
+
+Build teams that emphasize character over talent.
+
+Commit ourselves fully to recruitment.
+
+Build an organization that encourages success at all levels; eliminate seniority.
+
+Eliminate the disadvantages of scale.
+
+Be honest when you need help; work together to make things better.
+
+Create an environment that attracts talented, loyal employees.
+
+Holds ourselves to consistently high standards in obeying the law.
+
+Remember that hubris leads to failure.
+
+Risk takers deserve second chances.
+
+Compete creatively.
+
+Always remember that we are Team CyberAgent.
+
+Become a global company by developing Internet services for the world.
+Brand Concept
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+
+
+END ECON DEPT

@@ -1,0 +1,27 @@
+START JOB DESCRIPTION
+
+- Tenure-track faculty position in Data Analytics, starting August 2026, at Berry College's Department of Economics and Data Analytics.
+- Seeks candidates with expertise in data analytics, data science, or related fields; Ph.D. or terminal degree required by start date.
+- Prioritizes ability to teach and mentor students in data-driven decision making, predictive analytics, and business intelligence.
+- Values experience with a range of analytical tools (e.g., PowerBI, R, Python, Tableau, SQL, Stata, machine learning, AI integration).
+- Prefers candidates who engage students in hands-on, real-world projects, especially with industry or nonprofit partners.
+- Expects commitment to excellence in teaching, publishable scholarship, service, and student mentoring in a residential college setting.
+- Seeks collaborative colleagues who can work across disciplines and contribute to the growth of the Data Analytics program.
+- Committed to diversity, equity, and inclusion in hiring and educational practices.
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+- Berry College’s mission is to provide a comprehensive liberal arts education that balances intellectual exploration, practical learning, and character development.
+- Founded on Christian principles such as inclusivity and service, Berry welcomes and respects individuals from all religious backgrounds.
+- The college emphasizes mentorship, personal growth, and a culture of belonging rooted in collaboration, respect, and inclusion.
+- Berry values service, dignity, humility, and the development of students as leaders of integrity who contribute to thriving communities.
+- The institution is committed to providing exceptional educational experiences and professional development opportunities for students from diverse backgrounds.
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+
+
+END ECON DEPT

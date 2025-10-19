@@ -19,11 +19,29 @@
 
 = Research Statement
 
-Research in economics must engage deeply with culture to understand its extensive impact on economic behavior and societal change. My work focuses on entertainment media — including television shows, films, books, and music — not merely as cultural artifacts but as dynamic forces that both reflect and shape social norms, identities, and economic outcomes. By developing innovative generative artificial intelligence methods that convert unstructured narratives into structured data for rigorous econometric analysis, I provide novel insights into how media influences human behavior and contributes to economic trends.
+Entertainment media (e.g., television shows, films, books, and music) are more than entertainment products.
+As a group, they reflect the cultural norms, identities, and values of the societies that produce them.
+Yet media can also be a powerful force for change.
+A single telenovela can drive cultural change by introducing new social issues that challenge the status quo.
+My research explores this dual role as a cultural mirror that reflects societal values and a driver of social change that shapes economic behavior.
+My core contribution is the development of novel methods using generative artificial intelligence (AI) to transform unstructured narratives into structured data for rigorous econometric analysis.
+I apply this framework to Latin American telenovelas, whose deep cultural penetration provides an ideal setting to identify the causal effects of media exposure on real-world economic and social outcomes.
+Ultimately, this approach offers a new, high-frequency, and scalable methodology for the empirical study of culture and its influence on human behavior.
 
-At the heart of my research lies the examination of Latin American telenovelas, whose pervasive cultural reach offers an unparalleled opportunity to identify the causal effects of media exposure. For instance, in my job market paper, “Does Watching Women Work, Work? The Effect of Television on Female Labor Outcomes,” I introduce a Female Empowerment Index derived from nearly 2,000 telenovela synopses using generative AI. Leveraging an instrumental variable approach exploiting quasi-random variation in TV signal loss, I uncover that increased exposure to female empowerment narratives causes meaningful rises in female labor participation in Mexico. This work demonstrates how culturally embedded media narratives can advance gender equality, an area of profound societal importance.
+#sentence_start()[Job Market Paper]
+In "Does Watching Women Work, Work? The Effect of Television on Female Labor Outcomes," I provide causal evidence that media can be a powerful tool for closing gender gaps.
+To measure the content of these narratives, I developed a novel Female Empowerment Index (FEI) by applying a generative AI model to the synopses of nearly 2,000 telenovelas.
+The FEI is based on an augmented Bechdel-Wallace test and includes questions about the employment status of female characters.
+To overcome endogeneity concerns, I employ an instrumental variable strategy in Mexico that leverages quasi-random variation in television signal loss determined by physical topography.
+The central finding is that a 10% increase in FEI exposure (20 units) leads to a 4% relative increase in the likelihood of labor market participation (2 percentage points), accounting for a sizable share of female labor force participation growth in Mexico from 2010 to 2020.
+The effect is driven exclusively by portrayals of women in non-traditional careers and narratives that frame empowerment with positive emotions, demonstrating that how empowerment is portrayed is important.
 
-Complementing this, my study “Drama and Redistribution: The Impact of Telenovelas on Preferences for Redistribution in Latin America” delves into how portrayals of inequality in media can paradoxically decrease support for redistributive policies. Employing cutting-edge Natural Language Processing techniques and pioneering zero-shot classification with ChatGPT, this research unpacks the nuanced framing effects of media on social attitudes. It elucidates how misrepresentation of marginalized groups in television narratives shapes economic policy preferences among viewers.
+A second paper, "Drama and Redistribution: The Impact of Telenovelas on Preferences for Redistribution in Latin America," complements this work by showing that telenovelas depicting inequality lead to a counterintuitive decrease in support for redistribution.
+This study's methodological contribution lies in the comparison of multiple Natural Language Processing (NLP) techniques to identify social class conflict in telenovelas.
+I compared (i) a dictionary-based approach, (ii) a vector embedding model, and (iii) a zero-shot classification using a generative AI model (ChatGPT).
+The ChatGPT approach outperformed the others in accuracy (74%) and precision (80%).
+The analysis reveals that exposure to inequality telenovelas reduces support for redistributive policies by 4%.
+This is because the narratives often misrepresent the experiences of marginalized groups, framing them in ways that downplay systemic issues.
 
 Future directions of my research align strongly with the Department of Economics at the University of Bologna’s commitment to understanding poverty, inequality, immigration, and labor through an interdisciplinary lens and innovative methodology. I aim to expand my analytical framework globally across diverse media forms, leveraging multimodal generative AI models such as GPT-4o and Gemini to integrate textual, visual, and auditory data. This holistic approach will deepen our comprehension of culturally transmitted economic values like trust, environmental awareness, and social inclusion.
 

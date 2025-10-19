@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Unit of Economic Analysis at Universitat Autònoma de Barcelona.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to return to Europe so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to leave the United States.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-At Universitat Autònoma de Barcelona, my interdisciplinary approach and focus on cultural economics align well with the department's commitment to pioneering research and international collaboration. For example, my use of generative AI to analyze media complements the department’s emphasis on integrating advanced methodologies within economic analysis. Additionally, my job market paper on gender representation strongly resonates with faculty like Hanna Wang, facilitating potential collaboration on gender economics. My prior experience mentoring student athletes illustrates my commitment to teaching, mirroring the university's dedication to exceptional postgraduate education and industry engagement. I am eager to contribute to the vibrant seminar culture and support the department’s efforts in fostering innovative research and collegial service.
+At Universitat Autònoma de Barcelona, my use of generative AI to analyze media complements the department’s emphasis on integrating advanced methodologies within economic analysis. Additionally, my job market paper on gender representation strongly resonates with faculty like Hanna Wang, facilitating potential collaboration on gender economics. My prior experience in mentoring student athletes illustrates my commitment to teaching, mirroring the university's dedication to exceptional postgraduate education. I am eager to contribute to the vibrant seminar culture and support the department’s efforts in fostering innovative research and collegial service.

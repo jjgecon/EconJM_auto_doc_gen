@@ -1,0 +1,38 @@
+START JOB DESCRIPTION
+
+UTokyo Economic Consulting Inc. (UTEcon) is looking for economists with the growth of its business. UTEcon was founded in August 2020 with close ties with the Graduate School of Economics, the University of Tokyo.
+UTEcon offers a wide range of economic consulting services to companies, governments, and law firms taking advantage of the expertise of the faculty members of the University of Tokyo and those of the firm’s own experts. Our services include pricing, policy evaluation, machine-learning based prediction of bankruptcy and accounting fraud, market design, antitrust-related analysis, nowcasting, and quantitative and behavioral marketing.
+Economists will have an opportunity to work on various economic problems with top-notch researchers in a startup environment, and will play a central role in managing projects.
+
+UTEcon web site is at https://utecon.net/en/. For questions, contact us at recruit@utecon.net.
+
+Responsibilities
+• Formulate economic arguments and develop analysis strategies
+• Generate reports, proposals, presentation materials
+• Coordinate the timeline, the work product, and the team members
+
+Requirements
+• A Ph.D. in Economics with expertise in industrial organization, econometrics, applied microeconomics, or labor economics
+• Business-level fluency in Japanese
+• Passion for applying academic insights and tools to solve real-world problems
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+Optimize the World
+
+We believe that academic knowledge and insights are a powerful device for improving society. Our goal is to enhance the development of our community by applying state-of-the-art academic knowledge to the solution of complex issues in the real world.
+About UTEcon
+
+UTokyo Economic Consulting Inc. (UTEcon) is an economic consulting firm that offers a wide range of economic consulting services to businesses, governments, international organizations, NGOs, and law firms. UTEcon was founded in August 2020 with close ties with the Graduate School of Economics, the University of Tokyo.
+
+UTEcon offers solutions for client-specific problems and provides reliable analyses taking advantage of the expertise of the faculty members of the University of Tokyo and those of the firm’s own experts in economics, accounting, finance, marketing, and machine learning. With the firm’s wide range of practices, we can provide the best-fit solutions to our clients' needs. Our services include demand forecasting and pricing, policy evaluation, machine-learning based prediction of bankruptcy and accounting fraud, market design, antitrust-related analysis, nowcasting, and quantitative and behavioral marketing.
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+
+
+END ECON DEPT
