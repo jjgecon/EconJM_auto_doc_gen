@@ -15,8 +15,12 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Fixed-term Visiting Assistant Professor position in the The School of Liberal Arts and Sciences at Musashi University.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My family and I are eager to leave the United States.
+We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment.
+We are also willing to learn Japanese to better integrate into the local culture and academic community.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +30,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-Musashi University's commitment to fostering independence, dialogue, and practical application resonates deeply with my academic and teaching philosophy. My interdisciplinary research approach, exemplified by receiving Dedman College Interdisciplinary Institute’s Inaugural Graduate Student Summer Research and Writing Fellowship, aligns with the department’s blend of theoretical and applied economics. I am dedicated to cultivating independent critical thinking and sound decision-making skills among students, evidenced by my mentoring experience with student athletes that enhanced their academic and personal growth. Additionally, my pioneering use of AI tools in research demonstrates an embrace of innovative methodologies consistent with the department’s collaborative and forward-looking ethos. These experiences prepare me to contribute effectively to curriculum development and student engagement in the Parallel Degree Programme, advancing Musashi’s mission to fuse knowledge and practice for societal benefit.
+Musashi University's commitment to fostering independence, dialogue, and practical application resonates deeply with my academic and teaching philosophy. My interdisciplinary research approach, exemplified by receiving Dedman College Interdisciplinary Institute’s Inaugural Graduate Student Fellowship, aligns with the department’s blend of theoretical and applied economics. I am dedicated to cultivating independent critical thinking and sound decision-making skills among students, evidenced by my mentoring experience with student athletes that enhanced their academic and personal growth. 

@@ -15,7 +15,7 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Department of Economics at Cornell University.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
@@ -26,4 +26,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-I am particularly drawn to Cornell's Economics Department because of its dedication to rigorous analysis and real-world relevance, which aligns closely with my research on how media influences economic behavior and societal norms. My job market paper's focus on female labor participation through media representation complements the department's strong emphasis on gender economics and political economy. Furthermore, my interdisciplinary approach, exemplified by earning the Dedman College Interdisciplinary Institute's Graduate Student Fellowship, mirrors Cornell's commitment to broad inquiry and collaborative scholarship. I am eager to contribute to an inclusive academic community that values diversity, as demonstrated by my active mentoring and engagement in diverse educational settings. These experiences position me well to thrive within Cornell's mission of purposeful discovery and public service.
+I am particularly drawn to Cornell's Economics Department because of its dedication to rigorous analysis and real-world relevance. My job market paper's focus on female labor participation through media representation complements the department's strong emphasis on gender economics and political economy. Furthermore, my interdisciplinary approach, exemplified by earning the Dedman College Interdisciplinary Institute's Graduate Student Fellowship, mirrors Cornell's commitment to broad inquiry and collaborative scholarship. I am eager to contribute to an inclusive academic community that values diversity, as demonstrated by my active mentoring and engagement in diverse educational settings. These experiences position me well to thrive within Cornell's mission of purposeful discovery and public service.

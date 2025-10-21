@@ -39,7 +39,7 @@ The effect is driven exclusively by portrayals of women in non-traditional caree
 A second paper, "Drama and Redistribution: The Impact of Telenovelas on Preferences for Redistribution in Latin America," complements this work by showing that telenovelas depicting inequality lead to a counterintuitive decrease in support for redistribution.
 This study's methodological contribution lies in the comparison of multiple Natural Language Processing (NLP) techniques to identify social class conflict in telenovelas.
 I compared (i) a dictionary-based approach, (ii) a vector embedding model, and (iii) a zero-shot classification using a generative AI model (ChatGPT).
-The ChatGPT approach outperformed the others in accuracy (74%) and precision (80%).
+The ChatGPT model outperformed the others in accuracy (74%) and precision (80%).
 The analysis reveals that exposure to inequality telenovelas reduces support for redistributive policies by 4%.
 This is because the narratives often misrepresent the experiences of marginalized groups, framing them in ways that downplay systemic issues.
 

@@ -15,7 +15,7 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Department of Economics at Penn State University.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
@@ -26,4 +26,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with Penn State's commitment to discovery and excellence, particularly within the Economics Department's focus on development economics and labor markets. By utilizing innovative AI methods to analyze cultural values embedded in media, my work contributes to understanding economic behaviors in diverse populations, complementing the department's multi-perspective approach. The emphasis on equity, respect, and community resonates with my dedication to studying gender empowerment and labor participation, promoting inclusive economic outcomes. I look forward to collaborating with colleagues, such as Professor Verriest, to enrich both research and pedagogical activities, fostering accountable scholarship that advances knowledge and societal betterment at Penn State.
+My research aligns closely with Penn State's commitment to discovery and excellence, particularly within the Economics Department's focus on development economics and labor markets. The emphasis on equity, respect, and community resonates with my dedication to studying gender empowerment, promoting inclusive economic outcomes. I look forward to collaborating with colleagues, such as Professor Verriest, to enrich both research and teaching at Penn State.

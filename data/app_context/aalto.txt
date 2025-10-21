@@ -1,0 +1,33 @@
+START JOB DESCRIPTION
+
+- 3-year postdoctoral researcher position in applied microeconomics at Aalto University, starting no later than September 2026.
+- Preferred expertise: urban, transportation, or spatial economics.
+- Candidates should hold (or be near completion of) a PhD in economics or a related field.
+- Selection based on research record, scientific activity, and fit with the research team.
+- Funded by a Research Council of Finland grant on resilient road networks and travel disruptions.
+- Collaboration with an international team of leading researchers.
+- Opportunities for independent research, access to unique data, infrastructure, travel funds, and mentorship.
+- Expected to actively participate in Helsinki GSE’s research community and urban economics group.
+- Responsibilities include graduate student supervision and teaching one six-week course per year on quantitative methods in spatial economics or related field.
+- Full-time residence and work in Finland required.
+- Applications via EconJobMarket.org by February 15, 2026; early applications encouraged.
+- Aalto University values diversity and encourages candidates from all backgrounds.
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+- Mission: Shape a sustainable future through high-quality research, education, and societal impact.
+- Values: Responsibility, courage, and collaboration.
+- Focus: Excellence in science, art, technology, and business; fostering creativity and an entrepreneurial mindset.
+- Community: Encourage participation, curiosity, and well-being among faculty, staff, students, and partners.
+- Strategic priorities: Sustainable solutions, radical creativity, and entrepreneurial mindset across all operations.
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+Professors Prottoy Akbar (Aalto) -> 
+his research explores topics related to urban residential sorting, the cost of mobility within and between cities, and the relationship between the two. he \, like me uses these frequently leverage publicly available non-traditional data sources (such as web-scraping of navigation apps and newly digitized historical maps) to generate novel first-order insights on important but data-sparse settings.
+
+END ECON DEPT

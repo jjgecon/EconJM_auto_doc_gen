@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Lecturer position in the School of Economics at The University of Queensland.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My family and I are eager to leave the United States.
+We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-At the University of Queensland's Economics Department, I am keen to blend my pioneering research on media's influence on economic behavior with the department's commitment to behavioural and experimental economics. My application of generative AI aligns with UQ's emphasis on innovative, agenda-setting research and its interdisciplinary collaboration ethos. For instance, my job market paper provides causal evidence relevant to understanding decision-making processes, resonating with UQ's policy and industry applications focus. Moreover, my mentoring experience complements the department's strong integration of teaching and community engagement, a commitment I witnessed through my role tutoring student athletes. I am excited to contribute to CUBES and engage with faculty like Marco Faravelli to advance behavioural economic sciences within this vibrant research community.
+At the University of Queensland's Economics Department, I believe my research on media's influence on economic behavior complements well with the department's commitment to behavioural and experimental economics. In particular, I am excited to contribute to CUBES and engage with faculty like Marco Faravelli. My application of generative AI aligns with UQ's emphasis on innovative, agenda-setting research. Moreover, my mentoring experience complements the department's strong integration of teaching and community engagement, a commitment I witnessed through my role tutoring student athletes.

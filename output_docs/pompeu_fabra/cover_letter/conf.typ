@@ -77,10 +77,11 @@
   // whole doc bellow
   doc
 
+  set text(size: 8pt)
   // signature
-  v(1cm)
+  // v(1cm)
   grid(columns: (1fr, 1fr), align: (left, right),
   [Sincerely, \ #author.name],
-  [#image("../../../0_media/signature.jpg", width: 60%)])
+  [#image("../../../0_media/signature.jpg", width: 20%)])
   
 }

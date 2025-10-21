@@ -15,7 +15,7 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the  Assistant Professor position in the Department of Economics at Sciences Po.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
@@ -26,4 +26,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with Sciences Po's commitment to advancing social science that informs public debate and addresses societal challenges. By utilizing generative AI to analyze cultural values conveyed through media, my work integrates cutting-edge methodologies with real-world social phenomena, exemplifying the institution's emphasis on linking ideas to action. The interdisciplinary nature of my approach is demonstrated by receiving the Dedman College Interdisciplinary Institute’s Inaugural Graduate Student Summer Research and Writing Fellowship, reflecting the value Sciences Po places on multidisciplinary thinking. Furthermore, my focus on issues of gender and labor economics resonates with the department's strengths and scholars like Suzanna Khalifa and Yann Algan, facilitating collaborative research within this compact, international community. My teaching experience mentoring students underlines my commitment to developing responsible, open-minded leaders through pedagogical innovation and inclusive education, directly supporting Sciences Po's educational mission.
+My research aligns closely with Sciences Po's commitment to advancing social science that addresses societal challenges. The interdisciplinary nature of my methods is demonstrated by receiving the Dedman College Interdisciplinary Institute’s Inaugural Graduate Student Fellowship and reflects the value Sciences Po places on multidisciplinary thinking. Furthermore, my focus on issues of gender and labor economics complements the work of scholars like Suzanna Khalifa and Yann Algan. My teaching experience mentoring students underlines my commitment to developing responsible, open-minded leaders through pedagogical innovation and inclusive education, directly supporting Sciences Po's educational mission.

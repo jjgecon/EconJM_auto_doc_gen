@@ -19,10 +19,25 @@
 
 = Teaching Statement
 
-My goal as an educator at the University of Toronto Mississauga is to make the robust and dynamic framework of economics accessible and applicable to a diverse student body, preparing them for an ever-changing global landscape. Rooted in the department’s commitment to academic excellence and the institution's values of equity and inclusion, my teaching philosophy emphasizes clarity and active engagement as cornerstones of effective learning.
+My goal as an educator is to make the powerful framework of economics accessible and applicable for every student.
+My teaching philosophy is built on two principles: clarity and learning by doing.
 
-I prioritize translating complex international trade theories into clear, relatable concepts, recognizing the diverse academic and cultural backgrounds of our students. By bridging formal economic language with intuitive understanding, I empower students to grasp foundational principles confidently. This approach aligns with the department’s emphasis on fostering a vibrant, collaborative community where students from varied backgrounds thrive.
+My first principle is to translate complex economic theories into clear, simple terms.
+Since the formal language of economics can be a barrier, I act as a translator, bridging the gap between technical jargon and students' everyday intuition.
+This means teaching in "two languages": formal and intuitive.
+For example, while tutoring student-athletes at SMU, I explain elasticity as the sensitivity of quantity demanded to price changes.
+I complement this with formulas and graphs to show how economists use these concepts, translating ideas into math for rigorous analysis.
+This approach helps students from all backgrounds grasp core concepts and build a strong foundation.
 
-Active learning is central to my pedagogy. I integrate problem-solving workshops and collaborative exercises within my courses, encouraging students to apply theory to real-world contexts. This method not only deepens their analytical skills but also creates a supportive environment aligned with the university’s dedication to accessibility and inclusivity. Student feedback has consistently reflected appreciation for this dynamic, hands-on learning style and the encouragement to engage critically and creatively.
+Second, research shows that learning occurs through active engagement with the content.
+In my classroom, economic principles are treated as tools to be used, not facts to be memorized.
+When I taught an undergraduate Price Theory course, I dedicated a significant portion of each class to a hands-on workshop.
+During these workshops, students tackled problems individually or in small groups while I circulated through the classroom to offer targeted guidance and ask probing questions.
+At the end of each workshop, I review the exercise with the class, reinforcing concepts in a low-stakes environment where mistakes are learning opportunities.
+The student evaluations, which averaged 4.7/5, consistently showed that students learned more from this format and enjoyed it more than traditional lectures.
+Comments frequently highlighted the supportive environment where students felt comfortable asking questions, my willingness to help, and the time dedicated to in-class examples.
 
-Witnessing students transform complex ideas into meaningful insights underpins my commitment to empowering future economists. By cultivating an inclusive classroom culture that celebrates diverse perspectives, I contribute to the department’s mission to drive innovative research and societal progress. Ultimately, my teaching aims to equip students at UTM with the critical tools and confidence to analyze and influence the global economic landscape, embodying the university’s vision of a transformative, equitable education.
+The most rewarding aspect of teaching is witnessing students' growth.
+A highlight was when several student-athletes in my Price Theory course earned perfect scores on the final exam.
+Their excitement in mastering a subject they once found intimidating was a powerful affirmation of my philosophy: when complex ideas are made clear and students actively practice, anyone can excel.
+Ultimately, my teaching is driven by the goal of empowering students, transforming economics into a practical toolkit that equips them with the enduring ability to analyze the world around them.

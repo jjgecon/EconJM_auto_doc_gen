@@ -15,7 +15,7 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor teaching stream position in the Department of Economics at the University of Toronto.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
@@ -26,4 +26,6 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research agenda aligns closely with the University of Toronto's commitment to innovative, curiosity-driven research that advances social and economic progress. By developing AI methodologies to analyze cultural values conveyed through media, I contribute to the Department of Economics' strength in international trade and economic policy through interdisciplinary and technology-driven approaches. For example, my award from Dedman College's Interdisciplinary Institute reflects my capacity for cross-disciplinary scholarship, directly complementing U of T's collaborative environment at Max Gluskin House. Additionally, my dedication to fostering diversity and inclusion is evident through mentoring diverse student populations, echoing the institution's deep commitment to equity. I am eager to contribute to U of T's vibrant academic community and support its mission to provide transformative education responsive to global changes.
+My teaching experiences align closely with the University of Toronto's commitment to innovative, curiosity-driven individuals that advances social and economic progress. By developing AI methodologies to analyze cultural values conveyed through media, I embody the use of innovative technologies in research and can translate to creative teaching.
+I deeply enjoy mentoring all types of students, evidenced by running the Econ Grad Club and establishing mentoring programs for first-year graduate students.
+I am eager to contribute to University of Toronto's vibrant academic community and support its mission to provide transformative education responsive to global changes.

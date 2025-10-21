@@ -1,0 +1,53 @@
+START JOB DESCRIPTION
+
+
+
+The Department of Economics at Aalto University invites applications for a 3-year post-doctoral researcher position, starting no later than September 2026. We welcome applicants with experience in applied microeconomics broadly defined and prefer candidates with strengths in urban, transportation or spatial economics. Applicants should hold a doctoral degree (or be near completion of the doctorate) in economics or a related field. The applicants will be reviewed based on their research and activity in the scientific community, and their fit with the research team.
+
+The fellowship is funded by a Research Council of Finland grant titled “Resilient road networks: Evidence from worldwide travel disruptions”. The researcher will be working closely with our international team of collaborators: Professors Prottoy Akbar (Aalto), Victor Couture (Toronto), Gilles Duranton (Wharton), Adam Storeygard (Tufts), Pablo Warnes (Aalto), and Dr. Morgan Ubeda (INRAE), and will work on one or more projects related to the resilience of transportation infrastructure and travel networks to extreme weather and road incidents (some examples of past and ongoing projects: https://citiesinmotionlab.org/). The post-doctoral researcher will also have time to work on their independent research projects, and will have access to remarkable data, infrastructure, travel funds, and mentorship from the team to develop their own research agendas.
+
+The postdoctoral researcher will join a vibrant community of researchers at the Helsinki Graduate School of Economics (Helsinki GSE, https://www.helsinkigse.fi), which brings together economists from three Finnish universities (including University of Helsinki and Hanken School of Economics) and collaborates closely with the VATT Institute for Economic Research. We expect the researcher to be an active member of this community and more specifically the urban economics research group (https://www.helsinkigse.fi/groups/urban-economics), participate in graduate student supervision, and teach one six-week course per academic year on quantitative methods in spatial economics or a related field.
+
+The primary workplace is Aalto University’s Otaniemi campus in Espoo, next to Finland’s capital Helsinki. Consistent with EU insurance and pension regulations, Aalto expects full-time academic employees to reside and work in Finland. The Otaniemi campus is a thriving and vibrant community, and filled with amazing architecture, calming nature, and a variety of cafes, restaurants, services and good connections along the recently opened metro and fast tram lines.
+
+Application Procedure
+
+Applications should be submitted electronically via EconJobMarket.org website by February 15, 2026. Application materials should include a cover letter, CV with a list of publications and working papers, one job market paper, and three letters of reference. Please submit all application materials in English. We encourage interested candidates to apply early, as applications will be reviewed on a rolling basis. Interviews may be scheduled prior to the application deadline, and job offers may be extended during the application period. This means the position could be filled before the application deadline.
+
+Aalto University reserves the right for justified reasons to leave the position open or to extend the application period.
+
+Further information
+
+For questions related to the recruitment process, please contact HR Partner Hanna Multisilta (hanna.multisilta@aalto.fi). For additional information on the position, please contact Professor Prottoy Akbar (prottoy.akbar@aalto.fi).
+
+Aalto University is where science and art meet technology and business. We shape a sustainable future by making research breakthroughs in and across our disciplines, sparking the game changers of tomorrow and creating novel solutions to major global challenges. Our community is made up of 120 nationalities, 14 000 students, 400 professors and close to 5000 faculty and staff working on our dynamic campus in Espoo, Greater Helsinki, Finland. Diversity is part of who we are, and we actively work to ensure our community’s diversity and inclusiveness. This is why we warmly encourage qualified candidates from all backgrounds to join our community.
+
+Want to know more about us and your future colleagues? You can watch these videos:
+
+This is Aalto University!
+Aalto University – Towards a better world
+and Shaping a Sustainable Future.
+
+Read more about working at Aalto: https://www.aalto.fi/en/careers-at-aalto
+
+Check out our new virtual campus experience: https://virtualtour.aalto.fi
+
+About Finland: Finland is a great place for living with or without family – it is a safe, politically stable and well-organized Nordic society. Finland is consistently ranked high in quality of life and was listed again as the happiest country in the world: World Happiness Report 2025
+
+For more information about living in Finland: Aalto Careers for International Staff.
+
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+Professors Prottoy Akbar (Aalto) -> 
+his research explores topics related to urban residential sorting, the cost of mobility within and between cities, and the relationship between the two. he \, like me uses these frequently leverage publicly available non-traditional data sources (such as web-scraping of navigation apps and newly digitized historical maps) to generate novel first-order insights on important but data-sparse settings.
+
+END ECON DEPT

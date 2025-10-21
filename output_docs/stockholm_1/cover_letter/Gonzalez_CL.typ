@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Department of Economics at Stockholm University.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to return to Europe so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to leave the United States.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with Stockholm University's commitment to advancing new knowledge through rigorous, research-based education and collegial governance. By employing generative AI to analyze cultural narratives within entertainment media, I contribute to the university’s pursuit of truth and integrity in uncovering the societal impacts of economic behavior. The Economics Department’s diverse expertise, especially in gender economics and machine-learning applications, presents a stimulating environment for collaboration, enabling me to expand my work on cultural values and economic outcomes. This synergy supports the department’s vision of research excellence and academic freedom, fostering innovative interdisciplinary inquiry that shapes future economic understanding and policy.
+My research aligns closely with Stockholm University's commitment to advancing new knowledge through rigorous, research-based education and collegial governance. By employing generative AI to analyze cultural narratives within entertainment media, I contribute to the university’s pursuit of truth and integrity in uncovering the societal impacts of economic behavior. The Economics Department’s diverse expertise, especially Dr. Jung Lee in gender economics and Dr. Madestam in machine-learning applications, presents a stimulating environment for collaboration, enabling me to expand my work on cultural values and economic outcomes.

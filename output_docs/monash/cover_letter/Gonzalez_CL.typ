@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
-Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+I am applying for the  tenure-track Lecturer position in the Monash Department of Economics.
+Currently, I am a PhD candidate in Economics at Southern Methodist University (SMU), specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My wife and I are eager to leave the United States.
+We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-Integrating my research within Monash University's Economics Department, I align closely with each of its strategic pillars and research groups, particularly DeHiPE and HEELP, due to my focus on cultural influences in economic behavior and gendered labor force dynamics. My employment of generative AI to analyze entertainment media exemplifies how technological frontiers can enrich traditional economic inquiry, echoing the department's commitment to innovative methodologies. Demonstrating global relevance, my work advances understanding of societal norms and economic disparities, mirroring Monash’s mission to create positive global impact. I am equally dedicated to fostering equitable, collaborative academic environments, as evidenced by my leadership experience and mentorship, fully embracing the department's values of discovery, purpose, and inclusiveness.
+My research aligns closely with Monash University's Economics Department, especially with the DeHiPE and HEELP research groups, as I focus on how culture shapes economic behavior and gender dynamics in the labor force. By applying generative AI, I bring innovative methods to economic research, supporting the department's commitment to methodological advancement. I am also committed to building inclusive and collaborative academic communities, demonstrated by my leadership of SMU's Econ Grad Club and my receipt of the SMU Interdisciplinary Institute's Inaugural Graduate Fellowship.

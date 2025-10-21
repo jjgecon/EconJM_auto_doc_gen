@@ -19,12 +19,22 @@
 
 = Teaching Statement
 
-My goal as an educator is to make the rich and versatile framework of economics accessible and meaningful to every student, reflecting Bowdoin College’s commitment to educating smart, kind individuals for the greater good. My teaching philosophy intertwines clarity with active engagement, emphasizing both rigorous understanding and inclusive participation. I aim to create a collaborative environment where students develop analytical skills and confidence, aligned with Bowdoin’s values of empathy, integrity, and community.
+My goal as an educator is to make the rich and versatile framework of economics accessible and meaningful to every student, reflecting Bowdoin College’s commitment to educating smart, kind individuals for the greater good. My teaching philosophy is built on two principles: clarity and learning by doing.
 
-I translate complex economic theories into clear, relatable concepts using both formal and intuitive language. For example, in my previous role tutoring student-athletes, I explained elasticity by connecting everyday experiences to formal models, ensuring accessibility regardless of background. This approach supports Bowdoin’s dedication to diversity and need-blind admission by fostering an inclusive learning environment where all students feel empowered.
+My first principle is to translate complex economic theories into clear, simple terms.
+Since the formal language of economics can be a barrier, I act as a translator, bridging the gap between technical jargon and students' everyday intuition.
+This means teaching in "two languages": formal and intuitive.
+For example, while tutoring student-athletes at SMU, I explain elasticity as the sensitivity of quantity demanded to price changes.
+I complement this with formulas and graphs to show how economists use these concepts, translating ideas into math for rigorous analysis.
+This approach helps students from all backgrounds grasp core concepts and build a strong foundation.
 
-In line with research on effective learning, I prioritize hands-on problem-solving in the classroom. In an undergraduate Price Theory course, I incorporated active workshops where students collaboratively applied economic principles, promoting deep understanding and real-world application. This methodology echoes the Economics Department’s focus on using theory and empirical tools to address social well-being and complex human behaviors across various contexts.
-
+Second, research shows that learning occurs through active engagement with the content.
+In my classroom, economic principles are treated as tools to be used, not facts to be memorized.
+When I taught an undergraduate Price Theory course, I dedicated a significant portion of each class to a hands-on workshop.
+During these workshops, students tackled problems individually or in small groups while I circulated through the classroom to offer targeted guidance and ask probing questions.
+At the end of each workshop, I review the exercise with the class, reinforcing concepts in a low-stakes environment where mistakes are learning opportunities.
+The student evaluations, which averaged 4.7/5, consistently showed that students learned more from this format and enjoyed it more than traditional lectures.
+Comments frequently highlighted the supportive environment where students felt comfortable asking questions, my willingness to help, and the time dedicated to in-class examples.
 Witnessing students’ growth, particularly those who initially found economics challenging, underscores my belief in Bowdoin’s mission of stretching curricula to challenge expectations and foster uncommon promise. My commitment to mentoring, innovation, and professional development aligns perfectly with Bowdoin’s support for teaching innovation and community engagement.
 
 Ultimately, my teaching serves Bowdoin’s ideal of educating students to think critically, act compassionately, and use economics as a tool for positive social impact, preparing them to contribute thoughtfully and inclusively to an interconnected world.
