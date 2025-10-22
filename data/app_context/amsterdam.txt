@@ -1,0 +1,35 @@
+START JOB DESCRIPTION
+
+- Assistant Professor position in Econometrics and Data Science (tenure track) at Amsterdam School of Economics (ASE), University of Amsterdam.
+- Candidates should have (or be close to completing) a PhD in Quantitative Economics, Econometrics, Statistics, Data Science, or related field.
+- High potential for creative and independent research is prioritized.
+- Willingness to collaborate and interact with team members is important.
+- Ability to teach mathematics and quantitative economics courses at undergraduate and graduate levels.
+- Strong communication skills for research presentations in seminars, conferences, and classrooms.
+- Moderate teaching load; most instruction in English, but candidates are expected to learn Dutch.
+- Six-year tenure track with competitive European salary and benefits.
+- Support for housing and partner career development.
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+- The University of Amsterdam (UvA) is an innovative, independent, and internationally leading university committed to a sustainable and prosperous future.
+- UvA promotes interdisciplinary research, cooperation, and scientific innovation.
+- The institution values diversity, inclusion, curiosity, and creativity, fostering an open and welcoming environment for all.
+- UvA aims to equip students with both knowledge and skills to navigate a dynamic world, encouraging debate and respect for individual backgrounds.
+- The university invests in digitalisation, teamwork, and state-of-the-art infrastructure to enhance research and teaching.
+- UvA collaborates with local, national, and international partners to strengthen teaching, research, and societal impact.
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+- The Amsterdam School of Economics (ASE) is a leading European research institute with a strong emphasis on outstanding research and world-class teaching.
+- ASE fosters an ambitious and supportive culture, offering opportunities for personal development in an international environment.
+- Researchers are highly active in international academic networks and collaborate within the Tinbergen Institute, ASE’s graduate school.
+- The Quantitative Economics section leads most quantitative economics courses and produces internationally recognized research.
+- Research programs include Actuarial Science & Mathematical Finance, Econometrics, and Equilibrium, Expectations & Dynamics (CeNDEF).
+- The Experimental & Political Economics group focuses on behavioral determinants of economic decision-making, political economy, and laboratory experiments.
+- Potential co-authors and collaborators span across these research groups, with particular strengths in political participation, voting, and interest group influence.
+
+END ECON DEPT

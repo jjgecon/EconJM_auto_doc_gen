@@ -1,0 +1,36 @@
+START JOB DESCRIPTION
+
+- The Economics Department at Institut Polytechnique de Paris (CREST) seeks candidates for 3 faculty positions (Assistant/Associate Professor).
+- Candidates should demonstrate or show promise of excellence in research and teaching.
+- Applications are welcome from all fields of economics; specific openings in Econometrics, Digital Economics, and Industrial Organization.
+- Successful candidates will join a diverse, interdisciplinary research environment.
+- Knowledge of French is not required.
+- The department values diversity and encourages applications from women and underrepresented minorities.
+
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+- Institut Polytechnique de Paris (IP Paris) aims to deliver world-class education and cutting-edge research in science and technology.
+- The institution values multidisciplinary collaboration, drawing on the strengths of six prestigious engineering schools.
+- IP Paris is committed to innovation, knowledge transfer, and cultivating inventiveness through its dynamic ecosystem and incubators.
+- It emphasizes excellence, selectivity, and adaptability in its educational programs to prepare graduates for a competitive global job market.
+- The institute fosters diversity, internationalization, and the development of high-potential doctoral students through ambitious PhD programs.
+- IP Paris addresses major economic and social challenges via interdisciplinary research centers and partnerships with industry.
+
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+- The Economics Department (CREST) emphasizes quantitative methods, mathematical modeling, and the integration of empirical analysis to address economic and social issues.
+- Main research areas include economics, finance, statistics, actuarial sciences, and sociology.
+- CREST is an interdisciplinary unit with members from CNRS, GENES, École Polytechnique, and Télécom Paris, fostering collaboration across institutions.
+- Research and teaching groups focus on digital economics, cultural consumption, gender studies, and natural language processing.
+- Potential co-authors include:
+    - Samuel Coavoux (digital uses and cultural consumption)
+    - Marion Gousse (gender studies)
+    - Etienne Ollion (natural language processing)
+
+END ECON DEPT
