@@ -1,0 +1,42 @@
+START JOB DESCRIPTION
+
+- Position: Tenure-Track Assistant Professor, Department of Economics, Copenhagen Business School (CBS)
+- Field: Open to all fields of economics
+- Qualifications: PhD (or equivalent) required by start date; open to candidates regardless of age, gender, race, religion, or ethnicity
+- Responsibilities:
+    - High-level research and publication
+    - Active participation in seminars, workshops, and research activities
+    - Research-based teaching and supervision at all levels
+    - Course development and pedagogical initiatives
+    - Development of teaching competences
+    - Fundraising and grant writing
+    - Dissemination of research to relevant audiences
+    - Administrative tasks and collegial engagement
+- Attributes sought: Research excellence, teaching ability, engagement in academic community, openness to collaboration, and professional collegiality
+- Application: Submit online via econjobmarket.org with cover letter, CV, research statement, job market paper, additional papers, teaching evaluations, transcripts/diplomas, and three references
+- Interviews: Conducted remotely by video starting December 2025
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+- Mission: Create positive change through collaboration with external stakeholders.
+- Values: Transformation, curiosity, ambition, and joint responsibility for societal challenges.
+- Strategic focus: Strengthen partnerships with sciences, business, authorities, and civil society.
+- Commitment: Excellent research and education with Nordic roots and international reputation.
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+- CBS_Econ focuses on core areas: microeconomics, macroeconomics, and quantitative methods, with a strong emphasis on business-related economic research.
+- Hosts two research centers: Pension Research Centre (PeRCent) and Copenhagen School of Energy Infrastructure.
+- Offers high-quality education across full-time, part-time, and PhD programs.
+- Values creativity, rigor, openness, curiosity, and transformative teaching aimed at global citizenship.
+- Encourages collaboration and knowledge exchange within a business context.
+- Potential co-authors/groups:
+    - Alexander Christopher Sebald: behavioral economics, especially what behaviorly splanation keep people labor market participation.
+    - Luigi Butera: research on shame, pride, and behavioral drivers.
+
+
+END ECON DEPT

@@ -1,0 +1,29 @@
+START JOB DESCRIPTION
+
+- Postdoctoral Research position at ifo Institute, Munich, Germany (6-year contract)
+- Open to any field of economics, especially those using machine learning, causal inference, and big data (e.g., text, large-scale datasets, satellite imagery)
+- Candidates should demonstrate commitment to high-quality, policy-relevant research and advancing their own research agenda
+- Expected to engage with the public/media and raise third-party research funding
+- No formal teaching obligation, but limited teaching is encouraged
+- Strong support for research: data infrastructure, training, development, and international collaboration
+- Applicants must hold (or soon defend) a PhD in economics
+- Application deadline: November 19, 2025; interviews conducted remotely in December 2025
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+- Advance economic research with policy relevance and empirical rigor.
+- Foster diverse expertise across multiple research centers and units.
+- Provide evidence-based guidance for decision-making in politics, society, and business.
+- Promote international collaboration through the CESifo Research Network.
+- Support open scientific exchange and hands-on policy advice.
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+Focus on my use natural language processing, generative AI and big dataset as a good fit with the institute
+
+
+END ECON DEPT

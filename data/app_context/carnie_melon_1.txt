@@ -1,0 +1,32 @@
+START JOB DESCRIPTION
+- Open-Rank Tenure-Track position in Information Systems at Heinz College, Carnegie Mellon University (Assistant/Associate/Full Professor).
+- Research and teaching focus: Economics of Information Systems, Digitization and AI, Societal/Managerial implications of technology, Digital Privacy/Information Security, Technology and Policy, Human-Centered AI.
+- Candidates should have (or expect to earn by summer 2026) a PhD in Information Systems, Economics, Management, Marketing, Computer Science, Computational Social Science, or related fields.
+- Strong empirical quantitative research skills and a record (or potential) of publishing in leading journals/conferences.
+- Interest in interdisciplinary collaboration across data science, social science, and decision science.
+- Commitment to high-quality education, mentoring, and securing extramural research funding.
+- Dedication to diversity, collaboration, curiosity, and broad participation in academic and public life.
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+- Commitment to academic and research excellence as a core standard.
+- Entrepreneurial spirit encourages tackling complex and unconventional challenges.
+- Focus on pioneering innovation across disciplines, from technology to the arts.
+- Dedication to transforming bold ideas into impactful solutions for society.
+
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+The Heinz College
+
+- Interdisciplinary research at the intersection of data science, decision science, and social science.
+- Focus on societal impact: technology, analytics, and policy to address major societal issues.
+- Collaboration opportunities with the School of Information Systems and Management, School of Public Policy and Management, and the Block Center for Technology and Society.
+- Strong emphasis on educational excellence and advancing the social good.
+- Research groups and potential co-authors in information systems, information security, public policy, and technology & society.
+
+END ECON DEPT

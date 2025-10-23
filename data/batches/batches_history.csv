@@ -48,3 +48,6 @@ created_at,description,model,cat_type,batch_id,status,processing_status,input_fi
 2025-10-21 16:11:38.587652,Generate Cover Letters,gpt-4.1-mini,cl,batch_68f7f70b80fc819091ad32b5918afa83,completed,True,file-TYCPntdoNA5Zhx4Hsmyrx3,file-47WYVMJYGW3vWAHYzYVFTn,
 2025-10-21 16:11:43.370364,Generate Research Statements,gpt-4.1-mini,rs,batch_68f7f70fee0081908ff03cffe2af33d0,completed,True,file-EUsheBEC9xDQZS5wQEw32u,file-7dHK9dDo9v8DYvyyktmLkQ,
 2025-10-21 16:11:46.516754,Generate Teaching Statements,gpt-4.1-mini,ts,batch_68f7f713153c8190a62b931c3fe63723,completed,True,file-Si2WVUxfizgMLU2cbqymaR,file-8SALBNdpfrZ7KMC4sZf7yL,
+2025-10-22 11:19:17.252757,Generate Cover Letters,gpt-4.1-mini,cl,batch_68f904075ffc81909828eaf0079643e9,validating,False,file-678H38Y6LTAJu4E6h4mnTu,,
+2025-10-22 11:19:21.672322,Generate Research Statements,gpt-4.1-mini,rs,batch_68f9040b5c90819095c4c5ebaf0b3761,validating,False,file-QgstttDFwvUAG662Me4Lyh,,
+2025-10-22 11:19:24.011136,Generate Teaching Statements,gpt-4.1-mini,ts,batch_68f9040c8d208190bf956d1409748c55,validating,False,file-QCnA65iTKnBfwuSL2yXsq7,,
