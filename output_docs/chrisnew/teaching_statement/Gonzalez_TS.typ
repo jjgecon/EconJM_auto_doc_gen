@@ -19,8 +19,21 @@
 
 = Teaching Statement
 
-My goal as an educator is to make the powerful framework of economics accessible and applicable for every student, aligning with Christopher Newport University's commitment to fostering a collaborative and inclusive academic community. My teaching philosophy centers on clarity and active engagement, ensuring that complex economic concepts are not only understood but also practiced as practical tools. Recognizing the department's emphasis on liberal arts integration and quantitative skills, I bridge formal economic theory with intuitive understanding, translating technical jargon into accessible language while reinforcing concepts through mathematical rigor.
+My goal as an educator is to make the powerful framework of economics accessible and applicable for every student, aligning with Christopher Newport University's commitment to fostering a collaborative and inclusive academic community. y teaching philosophy is built on two principles: clarity and learning by doing.
 
-In practice, I create an inclusive learning environment where students actively participate through problem-solving workshops. This mirrors the Economics Department's dedication to student-faculty collaboration and applied learning. By circulating during workshops and encouraging inquiry, I foster a supportive atmosphere that values diversity and encourages personal growth. Such engagement prepares students to navigate and analyze policy-relevant economic issues, reflecting the department's research focus and the university’s values of discovery and innovation.
+My first principle is to translate complex economic theories into clear, simple terms.
+Since the formal language of economics can be a barrier, I act as a translator, bridging the gap between technical jargon and students' everyday intuition.
+This means teaching in "two languages": formal and intuitive.
+For example, while tutoring student-athletes at SMU, I explain elasticity as the sensitivity of quantity demanded to price changes.
+I complement this with formulas and graphs to show how economists use these concepts, translating ideas into math for rigorous analysis.
+This approach helps students from all backgrounds grasp core concepts and build a strong foundation.
+
+Second, research shows that learning occurs through active engagement with the content.
+In my classroom, economic principles are treated as tools to be used, not facts to be memorized.
+When I taught an undergraduate Price Theory course, I dedicated a significant portion of each class to a hands-on workshop.
+During these workshops, students tackled problems individually or in small groups while I circulated through the classroom to offer targeted guidance and ask probing questions.
+At the end of each workshop, I review the exercise with the class, reinforcing concepts in a low-stakes environment where mistakes are learning opportunities.
+The student evaluations, which averaged 4.7/5, consistently showed that students learned more from this format and enjoyed it more than traditional lectures.
+Comments frequently highlighted the supportive environment where students felt comfortable asking questions, my willingness to help, and the time dedicated to in-class examples.
 
 My teaching approach resonates with the qualities sought in this tenure-track position, including a commitment to undergraduate excellence and integrating research with classroom instruction. By empowering students of varied backgrounds, including those initially intimidated by economics, I contribute to the university's mission to cultivate lifelong learners adept in quantitative analysis and critical thinking. Ultimately, my objective is to equip students with enduring analytical skills, preparing them to contribute meaningfully to academic and professional communities.

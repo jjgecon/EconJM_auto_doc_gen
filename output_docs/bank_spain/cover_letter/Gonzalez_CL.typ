@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Research Economist position in the Bank of Spain.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
+
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My commitment to advancing economic understanding aligns with the Bank of Spain's mission to inform policy through rigorous research. The Economics Department's focus on policy-oriented analysis resonates with my work employing AI to uncover cultural drivers behind economic behaviors, as exemplified by my job market paper on telenovelas influencing labor force participation. My interdisciplinary approach, recognized through the Dedman College Interdisciplinary Institute Fellowship, complements the collaborative environment valued here. Furthermore, I bring practical teaching and mentoring experience from working with student athletes, supporting the department's emphasis on academic development. Together, these experiences position me well to contribute effectively to the Bank's goals and the department's international research community.
+My dedication to advancing economic knowledge aligns with the Bank of Spain's mission to inform policy through rigorous research. My interdisciplinary approach—recognized by the Dedman College Interdisciplinary Institute Fellowship—has equipped me to collaborate effectively with academics from diverse backgrounds. These experiences prepare me to contribute meaningfully to the Bank's objectives and to its international research community.

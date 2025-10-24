@@ -15,7 +15,7 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Department of Economics at Grinnell College.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
@@ -26,4 +26,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research agenda resonates deeply with Grinnell College's commitment to free inquiry and undergraduate teaching excellence, particularly within the Economics Department's focus on applied research addressing social issues. By leveraging generative AI to analyze cultural values in media, my work employs rigorous data-driven methods aligned with the department's emphasis on economic modeling and empirical analysis. My interest in economic history complements Grinnell's interdisciplinary ethos as I examine cultural shifts influencing labor markets and economic behavior. Furthermore, my dedication to fostering diverse perspectives and critical thinking parallels the college's mission to cultivate an inclusive, respectful academic community engaged in responsible citizenship and social responsibility.
+My research agenda resonates deeply with Grinnell College's commitment to free inquiry and undergraduate teaching excellence, particularly within the Economics Department's focus on applied research addressing social issues. My interest in economic history complements Grinnell's interdisciplinary ethos as I examine past cultural shifts influencing labor markets and economic behavior. Furthermore, my experience as an instructor, teaching assistant, and tutor for undergraduate students equips me to be an effective teacher. In addition, my commitment to mentorship, demonstrated by the mentoring programs I have participated in at SMU, reflects my dedication to cultivating an inclusive academic community.

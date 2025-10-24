@@ -19,8 +19,21 @@
 
 = Teaching Statement
 
-My goal as an educator at Colby College is to make the compelling framework of economics accessible and relevant to every student, aligning with the college’s commitment to intellectual curiosity and active engagement. My teaching philosophy centers on clarity and experiential learning, principles that resonate deeply with Colby’s emphasis on fostering an inclusive and supportive academic environment. To bridge the complexity of economic theories and students’ diverse backgrounds, I translate formal economic language into intuitive concepts, ensuring that all students, regardless of prior experience, can grasp foundational ideas. For example, translating elasticity into everyday terms, complemented by rigorous mathematical representation, equips students to navigate both theory and application.
+My goal as an educator at Colby College is to make the compelling framework of economics accessible and relevant to every student, aligning with the college’s commitment to intellectual curiosity and active engagement. My teaching philosophy is built on two principles: clarity and learning by doing.
 
-In practice, I prioritize active learning by integrating workshops where students engage directly with economic principles through problem-solving and collaborative inquiry, reflecting Colby’s dedication to hands-on education. This approach not only deepens comprehension but cultivates a classroom atmosphere where questions are welcomed and exploration is encouraged, supporting access and opportunity for all students. These methods have yielded strong student outcomes and positive feedback, underscoring the transformative power of making economics a practical toolkit.
+My first principle is to translate complex economic theories into clear, simple terms.
+Since the formal language of economics can be a barrier, I act as a translator, bridging the gap between technical jargon and students' everyday intuition.
+This means teaching in "two languages": formal and intuitive.
+For example, while tutoring student-athletes at SMU, I explain elasticity as the sensitivity of quantity demanded to price changes.
+I complement this with formulas and graphs to show how economists use these concepts, translating ideas into math for rigorous analysis.
+This approach helps students from all backgrounds grasp core concepts and build a strong foundation.
+
+Second, research shows that learning occurs through active engagement with the content.
+In my classroom, economic principles are treated as tools to be used, not facts to be memorized.
+When I taught an undergraduate Price Theory course, I dedicated a significant portion of each class to a hands-on workshop.
+During these workshops, students tackled problems individually or in small groups while I circulated through the classroom to offer targeted guidance and ask probing questions.
+At the end of each workshop, I review the exercise with the class, reinforcing concepts in a low-stakes environment where mistakes are learning opportunities.
+The student evaluations, which averaged 4.7/5, consistently showed that students learned more from this format and enjoyed it more than traditional lectures.
+Comments frequently highlighted the supportive environment where students felt comfortable asking questions, my willingness to help, and the time dedicated to in-class examples.
 
 Additionally, I am committed to contributing to Colby’s macroeconomics curriculum at both introductory and intermediate levels, leveraging my research to inform electives that enhance students’ understanding and critical thinking. My teaching philosophy supports Colby College’s values by promoting inclusion, fostering intellectual growth, and empowering students to apply economic reasoning to real-world challenges. Through this alignment, I seek to contribute meaningfully to Colby’s distinguished tradition of excellence in liberal arts education and research.

@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor  position in the Department of Economics at Universidad Carlos III de Madrid.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
+
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,8 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research and teaching philosophy align closely with Universidad Carlos III’s commitment to academic excellence, interdisciplinary collaboration, and promotion of diversity and inclusion. For example, I received the Dedman College Interdisciplinary Institute’s Inaugural Graduate Student Summer Research and Writing Fellowship, illustrating my ability to conduct rigorous, cross-disciplinary projects that integrate insights from media studies, economics, and AI. My job market paper’s focus on gender gaps and labor participation resonates with the department’s strengths in gender economics and social media research, particularly alongside faculty such as Ignacio Ortuño-Ortín and Matilde P. Machado. Additionally, my use of AI to analyze cultural values exemplifies the department’s emphasis on innovative research methodologies and advancing the technological frontier in economic analysis. I am excited about collaborating with colleagues like Warn N. Lekfuangfu to experimentally test gender norm shifts and with Luigi Minale to expand media bias research. My teaching experience mentoring student athletes reflects my dedication to student development, in line with Universidad Carlos III’s emphasis on holistic education and internationalization.
+My research align closely with Universidad Carlos III’s commitment to academic excellence and interdisciplinary collaboration.
+For example, my interest on media, culture, and gender gaps resonates with the department’s research strengths particularly from faculty such as Luigi Minale, Ignacio Ortuño-Ortín and Matilde P. Machado.
+My use of AI exemplifies the department’s emphasis on innovative research methodologies and advancing the technological frontier in economic analysis.
+In addition, I received the Dedman College Interdisciplinary Institute’s Inaugural Graduate Student Fellowship, illustrating my ability to conduct cross-disciplinary projects.
+I want to be clear that this role is *my preferred position*. I’m truly enthusiastic about the prospect of joining and contributing to the UC3M team.

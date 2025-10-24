@@ -15,7 +15,7 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor of Economics and Business position in the e Department of Economics and Business at Colorado College.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
@@ -26,4 +26,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My commitment to interdisciplinary research and innovative methodologies aligns well with Colorado College's Block Plan, which fosters immersive and focused academic experiences. I bring a strong promise in teaching macroeconomics and international finance, evidenced by my student athlete tutoring and mentoring, paralleling the college's dedication to personalized education and inclusive support. My research, which leverages artificial intelligence to investigate cultural influences on economic behavior, reflects a cutting-edge approach that fits the department's emphasis on active research and engagement with contemporary economic issues. I am particularly drawn to Colorado College's values of diversity, equity, and belonging; my work on media portrayals addresses social narratives affecting equity, underscoring my commitment to inclusive scholarship and service.
+My commitment to interdisciplinary research and innovative methodologies aligns well with Colorado College's Block Plan, which fosters immersive and focused academic experiences. I bring a strong promise in teaching macroeconomics and international finance, evidenced by my student athlete tutoring and mentoring, paralleling the college's dedication to personalized education and inclusive support. My research, which leverages artificial intelligence, reflects a cutting-edge approach that fits the department's emphasis on active research and engagement with contemporary economic issues. I am particularly drawn to Colorado College's values of diversity, equity, and belonging.

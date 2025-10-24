@@ -19,12 +19,21 @@
 
 = Teaching Statement
 
-# Teaching Statement
+My goal as an educator is to make the powerful framework of economics accessible and applicable for every student, particularly within the context of Grinnell College’s commitment to a liberal arts education that fosters critical thinking and civic engagement. My teaching philosophy is built on two principles: clarity and learning by doing.
 
-My goal as an educator is to make the powerful framework of economics accessible and applicable for every student, particularly within the context of Grinnell College’s commitment to a liberal arts education that fosters critical thinking and civic engagement. Building on principles of clarity and experiential learning, I strive to cultivate an inclusive classroom environment where students develop analytical skills and the confidence to think like economists, aligning with the Economics Department’s emphasis on applied research and addressing real-world social problems.
+My first principle is to translate complex economic theories into clear, simple terms.
+Since the formal language of economics can be a barrier, I act as a translator, bridging the gap between technical jargon and students' everyday intuition.
+This means teaching in "two languages": formal and intuitive.
+For example, while tutoring student-athletes at SMU, I explain elasticity as the sensitivity of quantity demanded to price changes.
+I complement this with formulas and graphs to show how economists use these concepts, translating ideas into math for rigorous analysis.
+This approach helps students from all backgrounds grasp core concepts and build a strong foundation.
 
-Central to my approach is translating complex economic theories into clear, relatable terms, bridging the gap between formal economic language and students’ everyday experiences. This pedagogical method supports Grinnell’s value of open inquiry and clear communication by making advanced concepts comprehensible and meaningful. For instance, when discussing elasticity, I blend intuitive explanations with mathematical formalism to ensure students grasp both conceptual and technical dimensions, nurturing their ability to engage in evidence-based argumentation.
-
-Moreover, I emphasize active learning through hands-on workshops where students apply economic models and empirical methods to practical problems, reinforcing the department’s focus on data-driven, interdisciplinary inquiry. This method reflects Grinnell’s educational priority of varied learning experiences and development of critical evaluation skills, enhancing students’ readiness for diverse careers and graduate study.
+Second, research shows that learning occurs through active engagement with the content.
+In my classroom, economic principles are treated as tools to be used, not facts to be memorized.
+When I taught an undergraduate Price Theory course, I dedicated a significant portion of each class to a hands-on workshop.
+During these workshops, students tackled problems individually or in small groups while I circulated through the classroom to offer targeted guidance and ask probing questions.
+At the end of each workshop, I review the exercise with the class, reinforcing concepts in a low-stakes environment where mistakes are learning opportunities.
+The student evaluations, which averaged 4.7/5, consistently showed that students learned more from this format and enjoyed it more than traditional lectures.
+Comments frequently highlighted the supportive environment where students felt comfortable asking questions, my willingness to help, and the time dedicated to in-class examples.
 
 My teaching philosophy resonates strongly with Grinnell’s values of diversity and community. By fostering a supportive and respectful classroom that encourages dialogue among varied perspectives, I aim to contribute to an inclusive campus climate. Ultimately, my commitment is to empower students to use economics as a tool for understanding and addressing societal challenges, embodying the college’s mission to prepare responsible citizens capable of contributing thoughtfully to the common good.

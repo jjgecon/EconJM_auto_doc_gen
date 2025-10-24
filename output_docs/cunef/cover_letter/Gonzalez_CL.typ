@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the  Assistant Professor  position in the CUNEF Universidad.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
+
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,7 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with CUNEF Universidad's mission and values, particularly its commitment to academic rigor, innovation, and social impact. By leveraging generative AI to study cultural influences on economic behavior through media, I contribute to advancing knowledge frontiers at the intersection of economics, data science, and cultural studies. This interdisciplinary approach complements the Economics Department's focus on integrating academic research with practical insights, and resonates with faculty interests in media economics and gender economics. I am eager to contribute to CUNEF's vision of fostering sustainable economic and social development in Madrid, enhancing the department's research environment, and enriching student learning through a blend of theory and real-world application.
+My research aligns closely with CUNEF Universidad's mission and values, particularly its commitment to academic rigor, innovation, and social impact.
+By leveraging generative AI, I contribute to advancing knowledge frontiers at the intersection of economics, data science, and cultural studies.
+This interdisciplinary approach complements Agustín Alberto Casas's work on news media and María González Cabrera's research on gender and labor markets.
+In addition, I am eager to teach the next generation of economists at CUNEF, where I can bring my experience as instructor, teaching assistant, tutor, and mentor.

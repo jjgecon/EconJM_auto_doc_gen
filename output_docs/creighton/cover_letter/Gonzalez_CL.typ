@@ -15,7 +15,7 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Instructor/Assistant Teaching Professor position in the Heider College of Business at Creighton University.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
@@ -26,4 +26,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-Creighton University’s Heider College of Business and its Economics Department emphasize excellence in teaching, applied economics, and interdisciplinary collaboration. This aligns well with my commitment to innovative pedagogy, evidenced by my use of generative AI to study cultural values through economic lenses, enhancing both research and classroom engagement. I have a strong teaching background mentoring student athletes, which complements Creighton’s emphasis on supportive and effective instruction. Moreover, my involvement in interdisciplinary research, recognized by the Dedman College Interdisciplinary Institute fellowship, positions me to contribute to collaborative projects across finance, management, and analytics. I am eager to serve the university’s mission and business community through advising and active faculty participation.
+Creighton University’s Heider College of Business and its Economics Department emphasize excellence in teaching, applied economics, and interdisciplinary collaboration. This aligns well with my commitment to innovative pedagogy, evidenced by my use of generative AI and my experience as an instructor and teaching assistant for undergraduate students. I have a strong teaching background mentoring student athletes, which complements Creighton’s emphasis on supportive and effective instruction. Moreover, my involvement in interdisciplinary research, recognized by the Dedman College Interdisciplinary Institute fellowship, positions me to contribute to collaborative projects across finance, management, and analytics. I am eager to serve the university’s mission and business community.

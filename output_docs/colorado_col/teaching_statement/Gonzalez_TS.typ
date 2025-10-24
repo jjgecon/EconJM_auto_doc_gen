@@ -19,11 +19,22 @@
 
 = Teaching Statement
 
-My approach to teaching economics aligns deeply with Colorado College's commitment to immersive and innovative liberal arts education under the distinctive Block Plan. I strive to make economics not only accessible but also actively engaging by blending clarity with experiential learning, which resonates well with the department's focus on rigorous, student-centered pedagogy.
+My approach to teaching economics aligns deeply with Colorado College's commitment to immersive and innovative liberal arts education under the distinctive Block Plan. My teaching philosophy is built on two principles: clarity and learning by doing.
 
-I prioritize translating complex economic theories into clear, relatable terms while engaging students in active problem-solving that deepens understanding. This dual emphasis supports the college’s mission of fostering an inclusive learning environment where diverse students from various backgrounds can thrive. My illustrative experience teaching student-athletes at SMU reflects my dedication to equity and belonging by adapting my methods to make challenging concepts like elasticity approachable and relevant.
+My first principle is to translate complex economic theories into clear, simple terms.
+Since the formal language of economics can be a barrier, I act as a translator, bridging the gap between technical jargon and students' everyday intuition.
+This means teaching in "two languages": formal and intuitive.
+For example, while tutoring student-athletes at SMU, I explain elasticity as the sensitivity of quantity demanded to price changes.
+I complement this with formulas and graphs to show how economists use these concepts, translating ideas into math for rigorous analysis.
+This approach helps students from all backgrounds grasp core concepts and build a strong foundation.
 
-In alignment with the job’s teaching expectations, I am prepared to contribute to courses in intermediate macroeconomics, international finance, and money and banking, adapting my workshop-based approach to fit short, intensive blocks. By centering hands-on workshops during instructional time, I enable students to apply theoretical tools to real-world scenarios, promoting critical thinking and active engagement—qualities the department values.
+Second, research shows that learning occurs through active engagement with the content.
+In my classroom, economic principles are treated as tools to be used, not facts to be memorized.
+When I taught an undergraduate Price Theory course, I dedicated a significant portion of each class to a hands-on workshop.
+During these workshops, students tackled problems individually or in small groups while I circulated through the classroom to offer targeted guidance and ask probing questions.
+At the end of each workshop, I review the exercise with the class, reinforcing concepts in a low-stakes environment where mistakes are learning opportunities.
+The student evaluations, which averaged 4.7/5, consistently showed that students learned more from this format and enjoyed it more than traditional lectures.
+Comments frequently highlighted the supportive environment where students felt comfortable asking questions, my willingness to help, and the time dedicated to in-class examples.
 
 Furthermore, my enthusiasm for mentoring senior theses and participating in collaborative teaching underscores my commitment to sustaining a vibrant academic community at Colorado College. My educational philosophy encourages students' intellectual growth and practical skills, preparing them to analyze complex economic issues with confidence and adaptability within a dynamic liberal arts framework.
 

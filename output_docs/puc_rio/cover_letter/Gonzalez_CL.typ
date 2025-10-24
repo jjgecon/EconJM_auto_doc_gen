@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the  Assistant Professor position in the Department of Economics at the Pontifical Catholic University of Rio de Janeiro.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My wife, who is Mexican, and I, a Chilean citizen, are eager to *return to our roots in Latin America*.
+We want our newborn daughter to grow up immersed in the culture, and our search for a safe learning environment for her is the primary motivation for our move from the United States
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-At PUC Rio, I am particularly drawn to the department's commitment to addressing complex socioeconomic issues through innovative economic research, which aligns with my own focus on cultural dynamics and economic behavior. My work employing generative AI to analyze media complements PUC Rio's emphasis on leveraging technology to enrich social science inquiry and policy analysis. Furthermore, my experience mentoring students and fostering inclusive academic environments resonates with the institution's dedication to nurturing talent and diversity. By integrating advanced AI methodologies to explore economic narratives in media, I aim to contribute meaningfully to the department's interdisciplinary and impact-driven research culture.
+At PUC Rio, I am drawn to the department’s commitment to addressing complex socioeconomic issues through innovative research, which closely aligns with my focus on cultural dynamics and economic behavior. My experience mentoring students and fostering inclusive academic environments also resonates with the institution’s dedication to nurturing talent and diversity. By integrating advanced AI methodologies to analyze economic narratives in media, I hope to contribute meaningfully to the department’s interdisciplinary and impact-driven research community.

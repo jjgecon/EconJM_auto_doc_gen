@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position at Toulouse School of Economics.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with Université Toulouse Capitole's commitment to advancing international economic knowledge and fostering impactful, interdisciplinary studies. By integrating generative AI methods with economic theory and empirical analysis, I contribute innovative tools that enhance understanding of cultural influences on market behaviors and institutional evolution. This synergy supports the Department of Economics' focus on behavioral and institutional economics, particularly in analyzing social influences and cultural transmission. The department's dedication to linking rigorous research with policy relevance resonates strongly with my goal to ensure that academic insights drive real-world societal improvements. I am eager to collaborate with faculty whose expertise complements my work and to thrive in the department's research-centered environment that balances excellence with civic engagement.
+My research closely aligns with Université Toulouse Capitole’s mission to advance international economic knowledge and promote impactful, interdisciplinary studies. It complements the Department of Economics’ focus on behavioral and institutional economics, especially the work of Ingela Alger on cultural transmission and Victor Gay on long-run cultural change. As evidence of my commitment to interdisciplinary collaboration, I received the Dedman College Interdisciplinary Institute Graduate Fellowship. I am eager to collaborate with faculty whose expertise complements my own and to contribute to the vibrant academic community at Toulouse School of Economics.

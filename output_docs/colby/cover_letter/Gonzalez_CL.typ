@@ -15,7 +15,7 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Economics Department at Colby College.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
@@ -26,4 +26,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-The mission of Colby College deeply resonates with my academic philosophy, particularly its dedication to fostering intellectual curiosity and maintaining rigorous standards in both research and teaching. My methodological innovations using AI to unpack cultural dynamics within entertainment media align with Colby's encouragement of scholarly excellence and innovative inquiry. Committed to inclusive pedagogy, I have mentored student athletes, exemplifying my dedication to access and opportunity in educational settings. Furthermore, the Economics Department's emphasis on macroeconomics and enriching elective offerings matches my aim to contribute to foundational courses and design electives that reflect my evolving research on cultural influences on economic behavior. These experiences demonstrate my readiness to advance Colby's vibrant, inclusive academic community.
+The mission of Colby College deeply resonates with my academic philosophy, particularly its dedication to fostering intellectual curiosity and maintaining rigorous standards in both research and teaching. Committed to inclusive pedagogy, I have mentored student athletes, exemplifying my dedication to access and opportunity in educational settings. Furthermore, the Economics Department's emphasis on macroeconomics and enriching elective offerings matches my aim to contribute to foundational courses and design electives that reflect my evolving research on cultural influences on economic behavior. These experiences demonstrate my readiness to advance Colby's vibrant, inclusive academic community.

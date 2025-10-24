@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the  Assistant Professor position in the Department of Economics at The University of Western Ontario.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My family and I are eager to leave the United States.
+We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns well with the University of Western Ontario's commitment to advancing knowledge through rigorous research and dedicated teaching. By employing innovative generative AI methods to analyze cultural values in entertainment media, my work contributes to the department's strengths in labour economics, political economy, and development economics. This research not only fosters critical thinking and an understanding of societal dynamics but also advances policy-relevant insights that resonate with the institution’s focus on serving society’s interests. Joining Western’s Department of Economics offers an inspiring environment that encourages interdisciplinary collaboration, engagement with diverse perspectives, and integration of research and education — all essential to fulfilling its vision of academic excellence and leadership in Canada.
+My research aligns well with the University of Western Ontario's commitment to advancing knowledge through rigorous research and dedicated teaching, and my use of innovative generative AI methods to analyze cultural values in entertainment media contributes to the department's strengths in labour economics, political economy, and development economics. My commitment to interdisciplinary research is further demonstrated by my receipt of the Dedman College Interdisciplinary Institute Fellowship, which recognizes and supports my efforts to bridge multiple fields in my work.

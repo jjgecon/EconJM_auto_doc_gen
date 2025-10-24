@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Department of Economics at Uppsala University.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,6 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-At Uppsala University’s Economics Department, known for its commitment to rigorous empirical research and fostering an inclusive and innovative scholarly community, my interdisciplinary approach aligns seamlessly with these values. My development of AI-driven methods to extract and analyze cultural values embodies the department’s emphasis on methodological innovation and technological frontiers. The intersection of media and economic behavior in my work reflects Uppsala’s dedication to addressing societal challenges through impactful research. Furthermore, my leadership experiences, such as serving as President of the Economics Graduate Club, demonstrate my commitment to service and fostering a collaborative academic environment that supports both peers and students alike.
+My interdisciplinary approach and commitment, exemplified by the Dedman College Interdisciplinary Institute Fellowship, aligns seamlessly with Uppsala University’s Economics Department.
+My focus on media and economic behavior aligns with Uppsala’s commitment to impactful research, and I am especially eager to collaborate with Professor Yoko Okuyama, whose interests closely match mine.
+Furthermore, my leadership experiences, such as serving as President of the Economics Graduate Club, demonstrate my commitment to service and fostering a collaborative academic environment that supports both peers and students alike.
