@@ -15,8 +15,12 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
-Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+I am applying for the Assistant Professor position in the Institute of Economic Research at Hitotsubashi University.
+Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture, Gender, and Political Economics. I expect to complete my degree by May 2026.
+
+My family and I are eager to *leave the United States*.
+We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment.
+We are also *willing to learn Japanese* to better integrate into the local culture and academic community.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +30,5 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with the Institute of Economic Research’s commitment to rigorous and impactful analysis of economic behavior. By leveraging generative AI and culturally nuanced data, I contribute to advancing innovative methods for understanding social phenomena that parallel IER’s strengths in survey-based studies and labor market research. Winning the Dedman College Interdisciplinary Institute’s fellowship underscores my dedication to interdisciplinary approaches championed by Hitotsubashi University. Additionally, my mentoring of student athletes demonstrates a commitment to cultivating students’ creativity and reasoning, matching the university’s focus on nurturing cultured and rational leaders. I am eager to engage in the vibrant international research community at IER and contribute to collaborative projects addressing pressing economic issues in Japan and beyond.
+My research program on the cultural drivers of economic behavior will broaden IER’s established strengths in labor markets and inequality, providing a new dimension to the department's work.
+Receiving the Dedman College Interdisciplinary Institute fellowship highlights my commitment to interdisciplinary work, which is valued at Hitotsubashi University. Additionally, my experience teaching and mentoring student athletes reflects my dedication to fostering students’ creativity and reasoning. I am enthusiastic about joining and contributing to the international research community at IER.

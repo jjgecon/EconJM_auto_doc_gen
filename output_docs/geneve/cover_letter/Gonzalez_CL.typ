@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the  Postdoctoral Scholar position in the Institute of Economics and Econometrics at the Geneva School of Economics and Management.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,7 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with the University of Geneva's Institute of Economics and Econometrics's commitment to frontier research in labor economics and econometrics. By deploying advanced AI methodologies to quantify cultural values influencing labor force behaviors, my work exemplifies innovative econometric applications that can enrich the department's vibrant research agenda. For instance, my job market paper uses cutting-edge causal inference techniques to demonstrate how media portrayals affect women's labor participation, resonating with the institute's focus on labor economics and human development. Additionally, my dedication to collaborative research is evidenced by prior interdisciplinary fellowships, indicating readiness to engage with the institute's active seminar and conference culture and its partnerships with international organizations addressing inequality and employment issues.
+My research program on the cultural drivers of economic behavior will broaden the Institute's established strengths in labor economics by providing a new cultural dimension.
+By deploying advanced AI methodologies to quantify cultural values, my work exemplifies innovative applications that can enrich the department's vibrant research agenda.
+Additionally, my dedication to collaborative research is evidenced by prior interdisciplinary fellowships, indicating readiness to engage with the institute's active seminar and conference culture.
+I'm eager to contribute to and learn from the dynamic academic community at the Institute of Economics and Econometrics.

@@ -3,10 +3,12 @@ My research explores how entertainment media both reflects and shapes economic b
 My job market paper "Does Watching Women Work, Work?" provides causal evidence that teenage exposure to telenovelas featuring empowered female characters increases women's subsequent labor force participation. The effects are driven exclusively by portrayals of women in non-traditional careers and narratives that frame empowerment with joy or anger. A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity. My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
 CONDITIONAL EXAMPLES:
-[If interdisciplinary research is emphasized] → I was awarded Dedman College Interdisciplinary Institute's Inaugural Graduate Student Summer Research and Writing Fellowship at Southern Methodist University.
+[If interdisciplinary research is emphasized] → I was awarded Dedman College Interdisciplinary Institute Graduate Fellowship at Southern Methodist University.
 
 [If service/leadership is valued] → I received the Service Melody Rice Memorial Award and served as President of the Economics Graduate Club at Southern Methodist University.
 
-[If teaching/mentoring is important] → I have experience mentoring and teaching through tutoring student athletes.
+[If teaching/mentoring is important] → I have experience mentoring, teaching, and tutored student athletes.
 
 [If technological fronteir are relevant] → My research demonstrates how AI tools can advance social science research methodologies.
+
+[If reserach fit is emphasized] → My research program on the cultural drivers of economic behavior will broaden INSTITUTION established strengths in FIELD1 and FIELD2, providing a new dimension to the department's work.
