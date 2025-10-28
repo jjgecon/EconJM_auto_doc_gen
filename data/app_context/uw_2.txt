@@ -1,0 +1,30 @@
+START JOB DESCRIPTION
+
+- Tenure-track Assistant/Associate Professor in Applied Microeconomics, starting August 2026, at UW-Whitewater.
+- Seeks candidates with research and teaching expertise in applied microeconomics; preference for Development Economics, Microeconomics of Banking, Environmental Economics, and Machine Learning Methods.
+- Must demonstrate strong empirical and statistical programming skills, especially with large datasets; experience with machine learning/AI methods is a plus.
+- Requires Ph.D. in Economics (ABD considered if degree completed by contract start date).
+- Evidence of teaching excellence, scholarly potential, and commitment to diversity and inclusion is essential.
+- Responsibilities include teaching undergraduate and graduate courses, maintaining an active research agenda with peer-reviewed publications, advising/mentoring students, and service to the department, college, university, and profession.
+- Ability to teach in multiple formats (in-person, online, hybrid) and ensure digital accessibility of materials.
+- Minimum starting salary $85,000 with excellent benefits.
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+- UW-Whitewater is committed to transforming lives through knowledge, innovation, and inclusive access to education.
+- The institution serves diverse students, including a special mission to support students with disabilities.
+- Academic programs span a wide range of disciplines and degree levels, preparing students for lifelong learning and successful careers.
+- Core values include collaboration, inclusivity and opportunity, integrity, academic excellence, service, social responsibility, and shared governance.
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+- The Department of Economics is part of the AACSB-accredited College of Business and Economics at UW-Whitewater.
+- Research and teaching emphasize applied analysis and empirical methods, with strengths in Development Economics, Microeconomics of Banking, Environmental Economics, and Machine Learning Methods.
+- The department supports three degree programs (BBA, BA/BS, BSE) and has 16 full-time faculty and staff, providing opportunities for collaboration and co-authorship.
+- The College of Business and Economics is the largest AACSB-accredited business school in Wisconsin, enrolling ~3,500 undergraduates and ~1,000 graduate students across 11 majors and several master's/doctoral programs.
+- Faculty and students benefit from a collaborative environment with diverse research and teaching groups, especially in applied microeconomics and data-driven fields.
+
+END ECON DEPT

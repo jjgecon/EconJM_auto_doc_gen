@@ -1,0 +1,40 @@
+START JOB DESCRIPTION
+
+Top candidate attributes (prioritized)
+- Advanced degree in statistics, econometrics or economics with strong quantitative/statistical foundation.  
+- 5+ years’ experience in international trade statistics, business statistics or closely related areas (national admin. or international org. preferred).  
+- Deep command of methodologies for trade/business stats and familiarity with macro accounting frameworks (BOP, SNA).  
+- Strong data-analysis skills and experience with programming (R and/or Python); familiarity with data-science/distributed frameworks is an advantage.  
+- Proven ability to link statistical concepts to economic theory and to draft technical notes/reports clearly.  
+- Experience presenting results to varied audiences and representing organisations in international working groups.  
+- Ability to work independently, supervise junior staff, and collaborate across teams.  
+- Fluency in English or French and willingness/ability to reach good working level in the other language.  
+- Demonstrated behaviours aligned with OECD core competencies (vision, ethics, collaboration, results, innovation).
+
+Key responsibilities (brief)
+- Develop and improve OECD analytical datasets on trade and business statistics; undertake measurement research (digital trade, globalisation, services, MNEs).  
+- Design policy-relevant analytical products; prepare reports, briefings and guidance for internal/external users.  
+- Represent OECD in international groups, workshops and seminars; build relationships with member administrations and partners.
+
+Practical details
+- Open-ended appointment; salary starts at €7,955.19/month (plus eligible allowances).  
+- Application deadline: midnight 23 November (Paris time).
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+
+- The OECD aims to build better policies for better lives, leveraging over 60 years of experience.
+- It focuses on fostering prosperity, opportunity, equality, and well-being.
+- The organization collaborates with policymakers and stakeholders to establish evidence-based international standards.
+- It addresses social, economic, and environmental challenges, including climate change and education.
+- The OECD serves as a unique forum for data, analysis, and best practices in public policy.
+- Its core mission is to support the implementation of international standards and promote stronger, fairer, and cleaner societies.
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT
+
+
+
+END ECON DEPT

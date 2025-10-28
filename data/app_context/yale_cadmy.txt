@@ -1,0 +1,30 @@
+START JOB DESCRIPTION
+
+- Research excellence and interdisciplinarity: strong research record at the intersection of Computer Science, Data Science, and Economics.
+- Relevant technical focus: algorithms, blockchains/cryptocurrency, causal inference, game theory, learning/machine learning, market design, networks.
+- Evidence of productivity: strong publications and research output; job market paper or writing sample required.
+- PhD requirement: PhD completed before appointment start.
+- Collaboration and engagement: expected to contribute to research, publications, and participate in Yale seminars/conferences.
+- On-site commitment: present on campus at least three full days per week; residing in New Haven strongly encouraged.
+- Practical details: one-year PDA appointment (possible second year), start ~July 1, 2026; salary $90k + $15k travel/research stipend; applications due Jan 31, 2026 with review starting Jan 15.
+
+END JOB DESCRIPTION
+
+START INSTITUTIONAL DESCRIPTION
+- Commitment to outstanding research, scholarship, and education.
+- Focus on improving the world for current and future generations.
+- Emphasis on ethical conduct, diversity, and interdependence.
+- Dedication to educating leaders who serve all sectors of society.
+- Promotion of free exchange of ideas within the Yale community.
+
+END INSTITUTIONAL DESCRIPTION
+
+START ECON DEPT 
+
+- CADMY is a multidisciplinary research hub at Yale, uniting faculty and graduate students from economics, computer science, and data science.
+- Research topics include: automated market making on blockchains, optimal taxation in unequal societies, and market design for social good.
+- Builds on collaborations with the Digital Economy Project (Tobin Center), Thurman Arnold Project (Yale SOM), and Information Society Project (Yale Law).
+- Offers opportunities for co-authorship and engagement with diverse research and teaching groups across Yale.
+
+
+END ECON DEPT

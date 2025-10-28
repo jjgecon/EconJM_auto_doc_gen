@@ -12,3 +12,7 @@ CONDITIONAL EXAMPLES:
 [If technological fronteir are relevant] → My research demonstrates how AI tools can advance social science research methodologies.
 
 [If reserach fit is emphasized] → My research program on the cultural drivers of economic behavior will broaden INSTITUTION established strengths in FIELD1 and FIELD2, providing a new dimension to the department's work.
+
+[if teaching macro cousers] → extensive experience beign a teaching assitant on varios macro courses in undergrad and graduate school.
+
+[if teaching micro cousers] → experience on beign a instructor in intermediate micro, TA for several game theory classes and econometrics.
