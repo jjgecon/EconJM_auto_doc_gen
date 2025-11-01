@@ -15,7 +15,7 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position at California State University, Long Beach.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
@@ -26,4 +26,6 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My interdisciplinary research approach aligns well with California State University, Long Beach's commitment to environmental justice and climate change adaptation. For instance, my job market paper integrates cultural analysis with economics to understand social behavior, exemplifying innovative applied microeconomic methods that resonate with the department's focus. I am dedicated to serving diverse and first-generation students, demonstrated by my mentoring experience with student athletes from varied backgrounds. Additionally, my use of advanced AI technologies reflects CSULB's emphasis on interdisciplinary collaboration and technological frontiers, positioning me to contribute meaningfully to the economics department’s mission and the university's inclusive academic culture.
+My interdisciplinary research approach aligns well with California State University, Long Beach's commitment to environmental justice and climate change adaptation. 
+I am dedicated to serving diverse and first-generation students, demonstrated by my mentoring experience with student athletes from varied backgrounds.
+Moreover, my teaching experience as an instructor and teaching assistant in both the US and Chile has shown me that students from different cultures learn in unique ways. My tenure as the Economics Graduate Club president motivated me to create mentorship programs and organize student presentations to strengthen our department’s sense of community. I am eager to contribute to the California State University community in the same way I have done elsewhere.

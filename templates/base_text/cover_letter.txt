@@ -16,3 +16,5 @@ CONDITIONAL EXAMPLES:
 [if teaching macro cousers] → extensive experience beign a teaching assitant on varios macro courses in undergrad and graduate school.
 
 [if teaching micro cousers] → experience on beign a instructor in intermediate micro, TA for several game theory classes and econometrics.
+
+[if teaching at all] → experience as an instructor, teachng assitant and mentor to both undergraduate and graduate students in both micro and macro courses.

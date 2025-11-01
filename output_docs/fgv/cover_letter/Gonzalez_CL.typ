@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the EPGE Escola Brasileira de Economia e Finanças, Fundação Getulio Vargas.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My wife, who is Mexican, and I, a Chilean citizen, are eager to *return to our roots in Latin America*.
+We want our newborn daughter to grow up immersed in the culture, and our search for a safe learning environment for her is the primary motivation for our move from the United States.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My academic profile aligns closely with Fundação Getulio Vargas EPGE’s commitment to integrating research-driven teaching and fostering critical thinking through innovative methodologies. My use of generative AI to analyze cultural values in entertainment media exemplifies embracing new technological frontiers to enrich economic research and education. I have actively engaged in mentoring students, echoing EPGE’s student-centered approach to nurture independent thought, reflecting my role tutoring student athletes. Furthermore, my research on media's influence on social equity directly complements EPGE’s dedication to social equity and high-quality accessible education. These elements collectively illustrate my strong fit with EPGE’s core values and the Economics Department's dynamic academic environment.
+My academic profile aligns closely with Fundação Getulio Vargas EPGE’s commitment to integrating research-driven teaching and fostering critical thinking through innovative methodologies. I have actively engaged in mentoring students, echoing EPGE’s student-centered approach to nurture independent thought, reflecting my role tutoring student athletes. These elements collectively illustrate my strong fit with EPGE’s core values and the Economics Department's dynamic academic environment.

@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Department of Economics at the University of Toronto.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My family and I are eager to *leave the United States*.
+We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns seamlessly with the University of Toronto's and the Economics Department's commitment to innovative, curiosity-driven scholarship that addresses pressing social and economic issues. By applying generative AI to examine cultural values embedded in media, my work pioneers structural empirical methods relevant to applied microeconomics, echoing the department's research strengths in beliefs, misperceptions, and economic policy. This synergy is exemplified by my job market paper, which causally links media representation to labor force participation, reflecting a dedication to impactful, policy-relevant research. Furthermore, my receipt of the Dedman College Interdisciplinary Institute's inaugural fellowship demonstrates my ability to collaborate across disciplines. I am also committed to equity and inclusion, values deeply embraced by the university, shown through my mentorship experiences with diverse student populations. My approach supports the department's culture of collegiality and interdisciplinary engagement, promising both a productive research environment and enriching educational contributions.
+My research aligns with the University of Toronto's and the Economics Department's commitment to innovative, curiosity-driven scholarship that addresses pressing social and economic issues. My research program on the cultural drivers of economic behavior will broaden the University of Toronto's established strengths in beliefs and misperceptions, providing a new dimension to Carolina Arteaga's and Ceren Baysan's work. My award of the Dedman College Interdisciplinary Institute's Fellowship demonstrates my ability to collaborate across disciplines. I am also committed to equity and inclusion. I would be eager to contribute to the department's culture of collegiality and interdisciplinary engagement.
