@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Lecturer position in the Department of Economics at the University of Manchester.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with the University of Manchester's commitment to interdisciplinary collaboration and addressing global economic challenges through innovative approaches. By leveraging generative AI to quantify cultural values, my work complements the department's strengths in applied microeconometrics and development economics, particularly in exploring how media influences labor market outcomes and inequality. For example, my job market paper demonstrates the causal impact of media portrayals on women's labor force participation, resonating with the department's focus on labor economics and poverty dynamics. Moreover, I am eager to engage with scholars like Sofia Izquierdo Sanchez in cultural economics to further enrich this interdisciplinary dialogue, supporting Manchester's dedication to impactful, socially responsible research and teaching excellence.
+My research aligns with the University of Manchester's emphasis on interdisciplinary collaboration. I was awarded the Interdisciplinary Institute Graduate Fellowship at SMU, which reflects that commitment. In addition, my work complements the cultural-economics research of scholars such as Sofia Izquierdo Sanchez. My experience as an instructor, teaching assistant, and mentor to undergraduate and graduate students in varoius courses has prepared me to contribute effectively to your department's teaching mission. As former president of the Econ Grad Club at SMU, I organized initiatives that foster collaborative and inclusive academic communities and learned the importance of service outside of research.

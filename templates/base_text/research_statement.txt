@@ -33,7 +33,7 @@ Thanks to rapidly advancing AI, state-of-the-art multimodal models such as GPT-4
 Applying these tools will enable a far more complete and nuanced extraction of cultural values from these rich media forms.
 
 Lastly, while my research has so far explored the demand side of media, a compelling future direction is the supply side: how producers of these media types decide which narratives to create and disseminate.
-This new agenda will investigate the extent to which political environments shape media content and whether producers tend to conform to the status quo or push the boundaries of social norms.
+This new agenda will investigate the extent to which the political environments shape media content and whether producers tend to conform to the status quo or push the boundaries of social norms.
 
 My research agenda is driven by a central goal: to show that the narratives in our media have a tangible impact on people's economic lives.
 Ultimately, this work argues that behavioral change is not only achieved through laws and policies, but also by transforming the very stories we tell ourselves.

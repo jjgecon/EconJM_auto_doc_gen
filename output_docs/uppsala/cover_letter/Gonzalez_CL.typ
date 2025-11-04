@@ -29,5 +29,5 @@ A second paper shows that telenovelas focused on inequality reduce support for r
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
 My interdisciplinary approach and commitment, exemplified by the Dedman College Interdisciplinary Institute Fellowship, aligns seamlessly with Uppsala University’s Economics Department.
-My focus on media and economic behavior aligns with Uppsala’s commitment to impactful research, and I am especially eager to collaborate with Professor Yoko Okuyama, whose interests closely match mine.
+My focus on media and economic behavior aligns with Uppsala’s commitment to impactful research, and I am especially eager to collaborate with Yoko Okuyama, whose interests closely match mine.
 Furthermore, my leadership experiences, such as serving as President of the Economics Graduate Club, demonstrate my commitment to service and fostering a collaborative academic environment that supports both peers and students alike.

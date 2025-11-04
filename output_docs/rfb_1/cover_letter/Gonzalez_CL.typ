@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Postdoctoral Scholar position in the ROCKWOOL Foundation Berlin.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-I am particularly drawn to Rockwool Foundation Berlin's commitment to addressing pressing economic and societal challenges through rigorous, data-driven research. My work aligns seamlessly with the institute's focus on applied economics and labor markets, as I employ advanced econometric techniques and large-scale media data to uncover cultural drivers of economic behavior and inequality. By leveraging unique datasets and high-performance computing, I aim to contribute to the Foundation’s evidence-based analysis while fostering international collaboration. Moreover, I value RFBerlin’s strong mentoring environment and interdisciplinary community, which offer an ideal platform to advance my research on culture, labor, and inequality within a policy-relevant framework.
+I am particularly drawn to Rockwool Foundation Berlin's commitment to addressing pressing economic and societal challenges through rigorous, data-driven research. My work aligns seamlessly with the institute's focus on applied economics and labor markets, as I employ advanced econometric techniques and large-scale media data to uncover cultural drivers of economic behavior and inequality. Moreover, I value RFBerlin’s strong mentoring environment and interdisciplinary community, which offer an ideal platform to advance my research on culture within a policy-relevant framework.

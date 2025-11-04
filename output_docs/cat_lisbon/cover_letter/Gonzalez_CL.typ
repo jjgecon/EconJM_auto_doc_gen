@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Católica-Lisbon School of Business and Economics.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,7 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-At Catolica Lisbon School of Business and Economics, the integration of rigorous research with societal impact resonates deeply with my scholarly agenda. My research utilizes advanced AI methodologies to dissect cultural influences on economic behavior, aligning with the department's commitment to innovation and interdisciplinary inquiry. For instance, my job market paper that analyzes telenovelas’ impact on labor participation exemplifies how cultural narratives influence economic outcomes, a topic central to the department’s focus on behavioral and cultural economics. Moreover, my experience mentoring student athletes reflects my dedication to inclusive and engaged teaching, complementing Catolica Lisbon’s value of fostering intellectual growth within a diverse community. This synergy between my work and the institution's mission positions me to contribute meaningfully to its vibrant academic environment.
+At the Católica-Lisbon School of Business and Economics, the emphasis on rigorous research with societal impact aligns closely with my scholarly agenda.
+For example, my research on how media shapes economic behavior aligns well with Anna Bernard's work on cultural economics.
+My experience as an instructor, teaching assistant, and mentor for courses in microeconomics and macroeconomics demonstrates a commitment to inclusive, engaged teaching that complements the school's emphasis on fostering intellectual growth within a diverse community.
+These alignments position me to contribute meaningfully to Católica-Lisbon's academic community.

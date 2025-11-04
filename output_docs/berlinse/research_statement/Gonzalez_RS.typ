@@ -19,20 +19,40 @@
 
 = Research Statement
 
-# Research Statement
+Entertainment media (e.g., television shows, films, books, and music) are more than entertainment products.
+As a group, they reflect the cultural norms, identities, and values of the societies that produce them.
+Yet media can also be a powerful force for change.
+A single telenovela can drive cultural change by introducing new social issues that challenge the status quo.
+My research explores this dual role as a cultural mirror that reflects societal values and a driver of social change that shapes economic behavior.
+My core contribution is the development of novel methods using generative artificial intelligence (AI) to transform unstructured narratives into structured data for rigorous econometric analysis.
+I apply this framework to Latin American telenovelas, whose deep cultural penetration provides an ideal setting to identify the causal effects of media exposure on real-world economic and social outcomes.
+Ultimately, this approach offers a new, high-frequency, and scalable methodology for the empirical study of culture and its influence on human behavior.
 
-Entertainment media, encompassing television shows, films, books, and music, function not merely as sources of leisure but as vital conveyors of cultural norms, identities, and societal values. These media forms simultaneously reflect societal realities and serve as catalysts of economic and social change. My research program investigates this duality, focusing on how narratives embedded within entertainment influence economic behavior and social outcomes.
+#sentence_start()[Job Market Paper]
+In "Does Watching Women Work, Work? The Effect of Television on Female Labor Outcomes," I provide causal evidence that media can be a powerful tool for closing gender gaps.
+To measure the content of these narratives, I developed a novel Female Empowerment Index (FEI) by applying a generative AI model to the synopses of nearly 2,000 telenovelas.
+The FEI is based on an augmented Bechdel-Wallace test and includes questions about the employment status of female characters.
+To overcome endogeneity concerns, I employ an instrumental variable strategy in Mexico that leverages quasi-random variation in television signal loss determined by physical topography.
+The central finding is that a 10% increase in FEI exposure (20 units) leads to a 4% relative increase in the likelihood of labor market participation (2 percentage points), accounting for a sizable share of female labor force participation growth in Mexico from 2010 to 2020.
+The effect is driven exclusively by portrayals of women in non-traditional careers and narratives that frame empowerment with positive emotions, demonstrating that how empowerment is portrayed is important.
 
-Central to my contribution is the development of innovative methodologies utilizing generative artificial intelligence to convert unstructured media narratives into structured data amenable to rigorous econometric analysis. This approach has been applied extensively to Latin American telenovelas, which, due to their pervasive cultural influence, present a compelling context to uncover causal relationships between media exposure and real-world impacts.
+A second paper, "Drama and Redistribution: The Impact of Telenovelas on Preferences for Redistribution in Latin America," complements this work by showing that telenovelas depicting inequality lead to a counterintuitive decrease in support for redistribution.
+This study's methodological contribution lies in the comparison of multiple Natural Language Processing (NLP) techniques to identify social class conflict in telenovelas.
+I compared (i) a dictionary-based approach, (ii) a vector embedding model, and (iii) a zero-shot classification using a generative AI model (ChatGPT).
+The ChatGPT model outperformed the others in accuracy (74%) and precision (80%).
+The analysis reveals that exposure to inequality telenovelas reduces support for redistributive policies by 4%.
+This is because the narratives often misrepresent the experiences of marginalized groups, framing them in ways that downplay systemic issues.
 
-My job market paper, "Does Watching Women Work, Work? The Effect of Television on Female Labor Outcomes," offers robust causal evidence on the role of media in reducing gender disparities in labor markets. I crafted a Female Empowerment Index derived via generative AI analyzing nearly two thousand telenovela synopses, capturing nuanced portrayals of female employment. Employing an instrumental variable strategy exploiting quasi-random television signal variation in Mexico, I find that increased exposure to female empowerment narratives translates into significant gains in female labor force participation. Critically, the nature of empowerment portrayal — emphasizing non-traditional careers and positive emotional framing — strongly mediates these effects.
+My future research will be dedicated to expanding this methodological pipeline.
+I plan to scale the measurement of cultural values across multiple forms of media worldwide, moving beyond gender and inequality to include other economically relevant values such as community trust, attitudes towards immigration, and environmental protection.
+Such large-scale data assembly and validation naturally create a collaborative environment.
+Building on my experience managing research assistants, this work will provide ideal opportunities for undergraduates to gain hands-on experience, serving as human coders to collect data and benchmark AI model performance.
+This expansion aligns closely with the Berlin School of Economics' commitment to interdisciplinary excellence and international collaboration, particularly in media economics and behavioral economics.
 
-Complementing this, my second paper, "Drama and Redistribution: The Impact of Telenovelas on Preferences for Redistribution in Latin America," interrogates how media narratives shape economic preferences. By evaluating diverse natural language processing methods, including cutting-edge generative AI classification, I establish that exposure to telenovelas depicting inequality paradoxically diminishes support for redistributive policies. This counterintuitive finding stems from misrepresentations within narratives that downplay systemic marginalization.
+while my research has so far explored the demand side of media, a compelling future direction is the supply side: how producers of these media types decide which narratives to create and disseminate.
+This new agenda will investigate the extent to which the political environments shape media content and whether producers tend to conform to the status quo or push the boundaries of social norms.
 
-Looking forward, I intend to broaden this methodological framework across multiple media formats and cultural contexts, exploring economically salient values such as community trust, immigration attitudes, and environmental concern. The integration of multimodal generative AI models capable of analyzing text, images, and audio simultaneously promises unprecedented insights into the cultural dimensions influencing economic behavior. This expansion aligns closely with the Berlin School of Economics' commitment to interdisciplinary excellence and international collaboration, particularly in media economics and behavioral economics.
+My leadership in managing research assistants and fostering student engagement in data collection and AI model validation resonates with the department's emphasis on integrating research and teaching. I am eager to contribute to the vibrant scholarly environment at the Berlin School of Economics through seminars, workshops, and mentoring initiatives.
 
-Moreover, my research agenda envisions examining the supply side of media production, investigating how political and social milieus shape narrative creation. This dimension offers fertile ground for collaborative interdisciplinary work with Berlin's diverse research community.
-
-Significantly, my leadership in managing research assistants and fostering student engagement in data collection and AI model validation resonates with the department's emphasis on integrating research and teaching. I am eager to contribute to the vibrant scholarly environment at the Berlin School of Economics through seminars, workshops, and mentoring initiatives.
-
-In summary, my research not only advances understanding of how cultural narratives materially affect economic outcomes but also embodies the values and intellectual vitality of the Berlin School of Economics. The combination of methodological innovation, empirical rigor, and a strong fit with the department's focus positions me to contribute meaningfully to ongoing discourse in media and behavioral economics, labor studies, and beyond.
+In summary, my research agenda is driven by a central goal: to show that the narratives in our media have a tangible impact on people's economic lives.
+Ultimately, this work argues that behavioral change is not only achieved through laws and policies, but also by transforming the very stories we tell ourselves.

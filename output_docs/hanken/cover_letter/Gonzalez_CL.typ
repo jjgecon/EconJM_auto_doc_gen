@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Economics Unit at the Department of Finance and Economics of Hanken School of Economics.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
+
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My interdisciplinary approach to economics research aligns well with Hanken’s commitment to academic excellence and international collaboration. For instance, my use of generative AI to analyze cultural values in media exemplifies innovative quantitative methods valued by Hanken’s Economics Department, which emphasizes cutting-edge research and strategic economic thinking. My dedication to societal impact is demonstrated by my job market paper showing how cultural narratives influence labor market outcomes, resonating with Hanken’s focus on connecting research to business and society. Additionally, my experience mentoring student athletes reflects my commitment to teaching and service, integral to Hanken’s dynamic academic community that collaborates across institutions such as the Helsinki Graduate School of Economics.
+My interdisciplinary approach to economics, exemplified by the Interdisciplinary Institute Graduate Fellowship I received, aligns well with Hanken’s commitment to academic excellence and international collaboration. My experience mentoring student‑athletes demonstrates my dedication to teaching and service and would contribute to Hanken’s collaborative community. I am excited about the opportunity to contribute to Hanken's vibrant academic environment and look forward to the possibility of joining your esteemed faculty.

@@ -15,7 +15,7 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Heinz College at Carnegie Mellon University.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
@@ -26,4 +26,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with Carnegie Mellon University's dedication to pushing the boundaries of interdisciplinary inquiry, technological innovation, and societal impact. By integrating generative AI into empirical microeconomics, I embody the department’s commitment to pioneering data science methods that deepen our understanding of cultural and economic decision-making. For instance, my election as a recipient of the Dedman College Interdisciplinary Institute’s Fellowship demonstrates my ability to bridge social science with advanced computational tools, fostering collaboration across disciplines. Furthermore, my teaching experience mentoring student athletes reflects my dedication to student development and educational excellence, resonating with the department’s mission to cultivate future leaders who apply economics to address pressing societal challenges.
+My research aligns closely with Carnegie Mellon University's dedication to pushing the boundaries of interdisciplinary inquiry, technological innovation, and societal impact. By integrating generative AI into empirical microeconomics, I embody the department’s commitment to pioneering data science methods that deepen our understanding of cultural and economic decision-making. For instance, my award of the Dedman College Interdisciplinary Institute’s Fellowship demonstrates my ability to bridge social science with advanced computational tools, fostering collaboration across disciplines. Furthermore, my teaching experience mentoring student athletes reflects my dedication to student development and educational excellence, resonating with the department’s mission to cultivate future leaders who apply economics to address pressing societal challenges.

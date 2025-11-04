@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the  Department of Economics at London School of Economics.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My dedication to rigorous, policy-relevant social science research aligns closely with LSE's mission to understand and address societal challenges. My interdisciplinary approach, exemplified by my winning the Dedman College Interdisciplinary Institute’s Inaugural Graduate Student Summer Research and Writing Fellowship, equips me to contribute meaningfully to LSE's vibrant community and its specialist centres such as the Centre for Analysis of Social Exclusion and the Centre for Economic Performance. My focus on gender, culture, and economic behavior complements the department’s strengths in behavioral and gender economics, offering fertile ground for collaboration with scholars like Nava Ashraf and Oriana Bandiera. I am committed to fostering an inclusive academic environment and preparing students to become impactful global citizens, resonating with LSE’s values of equity, innovation, and intellectual rigor.
+My dedication to rigorous, policy-relevant social science research aligns closely with LSE's mission to understand and address societal challenges. My focus on gender, culture, and economic behavior complements the department’s strengths in behavioral and gender economics, offering fertile ground for collaboration with scholars like Nava Ashraf and Oriana Bandiera. I am committed to fostering an inclusive academic environment and preparing students to become impactful global citizens, resonating with LSE’s values of equity, innovation, and intellectual rigor.

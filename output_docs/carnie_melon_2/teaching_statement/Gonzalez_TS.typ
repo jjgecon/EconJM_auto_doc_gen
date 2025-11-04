@@ -19,11 +19,22 @@
 
 = Teaching Statement
 
-My goal as an educator is to make the powerful framework of economics accessible and applicable for every student, aligning closely with Carnegie Mellon University's commitment to academic and research excellence and societal impact. My teaching philosophy is grounded in clarity and experiential learning, principles that resonate with the department's focus on interdisciplinary collaboration and innovation.
+My goal as an educator is to make the powerful framework of economics accessible and applicable for every student, aligning closely with Carnegie Mellon University's commitment to academic and research excellence and societal impact. My teaching philosophy is built on two principles: clarity and learning by doing.
 
-I strive to bridge complex economic theories and students’ intuitive understanding by communicating in both formal and accessible language. This dual approach ensures that all students, regardless of their background, grasp foundational concepts and appreciate their broad relevance. In practice, I translate technical jargon into relatable examples and complement intuition with rigorous quantitative analysis, preparing students to engage critically with empirical microeconomics.
+My first principle is to translate complex economic theories into clear, simple terms.
+Since the formal language of economics can be a barrier, I act as a translator, bridging the gap between technical jargon and students' everyday intuition.
+This means teaching in "two languages": formal and intuitive.
+For example, while tutoring student-athletes at SMU, I explain elasticity as the sensitivity of quantity demanded to price changes.
+I complement this with formulas and graphs to show how economists use these concepts, translating ideas into math for rigorous analysis.
+This approach helps students from all backgrounds grasp core concepts and build a strong foundation.
 
-Active engagement is central to my teaching methodology, reflecting the department’s emphasis on educational excellence and student development. By incorporating hands-on workshops, I create supportive environments where students apply economic tools to real-world problems, fostering deep learning and critical thinking. This interactive format encourages interdisciplinary dialogue, preparing students to collaborate across fields such as data science and public policy.
+Second, research shows that learning occurs through active engagement with the content.
+In my classroom, economic principles are treated as tools to be used, not facts to be memorized.
+When I taught an undergraduate Price Theory course, I dedicated a significant portion of each class to a hands-on workshop.
+During these workshops, students tackled problems individually or in small groups while I circulated through the classroom to offer targeted guidance and ask probing questions.
+At the end of each workshop, I review the exercise with the class, reinforcing concepts in a low-stakes environment where mistakes are learning opportunities.
+The student evaluations, which averaged 4.7/5, consistently showed that students learned more from this format and enjoyed it more than traditional lectures.
+Comments frequently highlighted the supportive environment where students felt comfortable asking questions, my willingness to help, and the time dedicated to in-class examples.
 
 Witnessing students’ transformation from learners to confident analysts affirms my educational mission. My approach empowers students to use economics as a practical toolkit, equipping them to address complex societal challenges innovatively—echoing Carnegie Mellon’s entrepreneurial spirit and dedication to impactful solutions.
 

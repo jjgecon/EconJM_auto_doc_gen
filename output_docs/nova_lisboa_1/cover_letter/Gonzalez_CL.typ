@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position at the Nova School of Business and Economics.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
+
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,5 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-Building on my expertise in cultural economics and innovative AI methodologies, I am particularly drawn to the Economics Department at University Nova Lisboa due to its commitment to rigorous, socially relevant research and fostering an inclusive, collaborative academic environment. My work on labor market participation and cultural influence complements ongoing faculty research into labor dynamics and social interactions, exemplified by scholars like Pedro Portugal. Moreover, aligning with the institution's values of pluralism and equal opportunity, my interdisciplinary approach aims to deepen understanding of economic behaviors within diverse populations. I am eager to contribute to the department's mission of producing impactful research that informs public policy while upholding integrity, excellence, and service to society.
+I am drawn to Nova SBE's Economics Department for its commitment to rigorous, relevant research and a collaborative academic environment.
+My work on labor market participation and cultural influence complements ongoing faculty research into labor dynamics and social interactions, like Pedro Portugal's work on labor market sorting, social connections, and peer effects. Moreover, aligning with the institution's values of pluralism and equal opportunity, my interdisciplinary approach aims to deepen understanding of economic behaviors within diverse populations. I am eager to contribute to the department's mission of producing impactful research that informs public policy.

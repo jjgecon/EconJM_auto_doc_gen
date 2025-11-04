@@ -19,15 +19,29 @@
 
 = Research Statement
 
-Research Statement
+Entertainment media (e.g., television shows, films, books, and music) are more than entertainment products.
+As a group, they reflect the cultural norms, identities, and values of the societies that produce them.
+Yet media can also be a powerful force for change.
+A single telenovela can drive cultural change by introducing new social issues that challenge the status quo.
+My research explores this dual role as a cultural mirror that reflects societal values and a driver of social change that shapes economic behavior.
+My core contribution is the development of novel methods using generative artificial intelligence (AI) to transform unstructured narratives into structured data for rigorous econometric analysis.
+I apply this framework to Latin American telenovelas, whose deep cultural penetration provides an ideal setting to identify the causal effects of media exposure on real-world economic and social outcomes.
+Ultimately, this approach offers a new, high-frequency, and scalable methodology for the empirical study of culture and its influence on human behavior.
 
-Entertainment media, encompassing television shows, films, books, and music, serve not only as sources of enjoyment but also as reflections of cultural norms, identities, and values embedded within societies. Yet their influence extends beyond mere reflection; media can actively catalyze social transformations that reshape economic behaviors and societal structures. My research agenda investigates this dual role by developing innovative methodologies that harness generative artificial intelligence to convert unstructured narrative data into structured forms suitable for rigorous econometric analysis.
+#sentence_start()[Job Market Paper]
+In "Does Watching Women Work, Work? The Effect of Television on Female Labor Outcomes," I provide causal evidence that media can be a powerful tool for closing gender gaps.
+To measure the content of these narratives, I developed a novel Female Empowerment Index (FEI) by applying a generative AI model to the synopses of nearly 2,000 telenovelas.
+The FEI is based on an augmented Bechdel-Wallace test and includes questions about the employment status of female characters.
+To overcome endogeneity concerns, I employ an instrumental variable strategy in Mexico that leverages quasi-random variation in television signal loss determined by physical topography.
+The central finding is that a 10% increase in FEI exposure (20 units) leads to a 4% relative increase in the likelihood of labor market participation (2 percentage points), accounting for a sizable share of female labor force participation growth in Mexico from 2010 to 2020.
+The effect is driven exclusively by portrayals of women in non-traditional careers and narratives that frame empowerment with positive emotions, demonstrating that how empowerment is portrayed is important.
 
-Focusing primarily on Latin American telenovelas, whose pervasive cultural reach renders them an exemplary context for studying media-induced change, I analyze how media content influences economic and social outcomes. This work aligns with the University of Montreal's commitment to advancing scientific and social progress through interdisciplinary research and innovation. It also complements the Economics Department's strengths, providing fertile ground for collaboration with faculty members such as Michel Poitevin, whose scholarship on social norms intersects with my focus on cultural narratives, and Laëtitia Renée, whose expertise in gender economics resonates with my examination of female labor market outcomes.
-
-In my job market paper, "Does Watching Women Work, Work? The Effect of Television on Female Labor Outcomes," I introduce a novel Female Empowerment Index developed by applying advanced generative AI techniques to almost two thousand telenovela synopses. This measure, innovatively augmenting the widely recognized Bechdel-Wallace test, captures narratives concerning female employment status and empowerment. Employing an instrumental variable strategy leveraging Mexico's topography-induced variation in television signal reception, I establish causal evidence that increased exposure to empowering female portrayals correlates with meaningful gains in female labor force participation. These findings underscore the potential of media as an instrument for reducing labor market gender disparities.
-
-Complementing this work, my second paper, "Drama and Redistribution: The Impact of Telenovelas on Preferences for Redistribution in Latin America," uses comparative Natural Language Processing techniques—including dictionary-based methods, vector embedding, and zero-shot classification via generative AI—to measure representations of social class conflict in media narratives. The analysis reveals a counterintuitive decrease in support for redistributive policies following exposure to telenovelas depicting inequality, illuminating the complexity of media’s role in shaping economic attitudes. These papers demonstrate robust research quality and innovation in applied microeconomics, consistent with the department's emphasis on high-caliber, internationally competitive scholarship.
+A second paper, "Drama and Redistribution: The Impact of Telenovelas on Preferences for Redistribution in Latin America," complements this work by showing that telenovelas depicting inequality lead to a counterintuitive decrease in support for redistribution.
+This study's methodological contribution lies in the comparison of multiple Natural Language Processing (NLP) techniques to identify social class conflict in telenovelas.
+I compared (i) a dictionary-based approach, (ii) a vector embedding model, and (iii) a zero-shot classification using a generative AI model (ChatGPT).
+The ChatGPT model outperformed the others in accuracy (74%) and precision (80%).
+The analysis reveals that exposure to inequality telenovelas reduces support for redistributive policies by 4%.
+This is because the narratives often misrepresent the experiences of marginalized groups, framing them in ways that downplay systemic issues.
 
 Looking ahead, I intend to expand this methodological framework to encompass a broader array of cultural values across multiple media forms globally. This scaling effort will incorporate underexplored dimensions such as community trust, immigration attitudes, and environmental concerns, thereby enriching the empirical toolkit available for social science research. This initiative aligns with the University of Montreal's priorities of fostering interdisciplinary collaboration and facilitating comprehensive research projects that bridge social sciences with computational advances.
 

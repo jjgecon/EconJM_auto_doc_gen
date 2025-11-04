@@ -19,10 +19,22 @@
 
 = Teaching Statement
 
-My approach as an educator at the Helsinki Graduate School of Economics is to make economics both accessible and relevant, aligning closely with the institution’s mission to shape a sustainable future through high-quality education and societal impact. I embrace clarity and experiential learning as pillars of my teaching, translating complex economic concepts into clear terms while fostering active engagement through practical application. This dual-language method bridges formal theory and intuitive understanding, supporting diverse learners and reflecting Helsinki GSE’s commitment to responsibility and collaboration.
+My approach as an educator at the Helsinki Graduate School of Economics is to make economics both accessible and relevant, aligning closely with the institution’s mission to shape a sustainable future through high-quality education and societal impact. My goal as an educator is to make the powerful framework of economics accessible and applicable for every student.
+My teaching philosophy is built on two principles: clarity and learning by doing.
 
-For example, in teaching Price Theory, I facilitate hands-on workshops where students solve real problems collaboratively, encouraging curiosity and critical thinking consistent with the school’s values of radical creativity and entrepreneurial mindset. This environment nurtures well-being and confidence, helping students see economics as a practical toolkit for analyzing challenges in urban and transportation economics—fields central to my research and to the department’s focus.
+My first principle is to translate complex economic theories into clear, simple terms.
+Since the formal language of economics can be a barrier, I act as a translator, bridging the gap between technical jargon and students' everyday intuition.
+This means teaching in "two languages": formal and intuitive.
+For example, while tutoring student-athletes at SMU, I explain elasticity as the sensitivity of quantity demanded to price changes.
+I complement this with formulas and graphs to show how economists use these concepts, translating ideas into math for rigorous analysis.
+This approach helps students from all backgrounds grasp core concepts and build a strong foundation.
 
-My educational philosophy aligns with the job advertisement’s emphasis on quantitative methods in spatial economics and graduate student supervision. I aim to empower students to use empirical microeconomic tools effectively, fostering a supportive classroom that values diversity and inclusion, echoing Aalto University’s dedication to these principles. By integrating rigorous economic analysis with real-world applications, I contribute to Helsinki GSE’s collaborative culture and strategic priority of sustainable solutions.
+Second, research shows that learning occurs through active engagement with the content.
+In my classroom, economic principles are treated as tools to be used, not facts to be memorized.
+When I taught an undergraduate Price Theory course, I dedicated a significant portion of each class to a hands-on workshop.
+During these workshops, students tackled problems individually or in small groups while I circulated through the classroom to offer targeted guidance and ask probing questions.
+At the end of each workshop, I review the exercise with the class, reinforcing concepts in a low-stakes environment where mistakes are learning opportunities.
+The student evaluations, which averaged 4.7/5, consistently showed that students learned more from this format and enjoyed it more than traditional lectures.
+Comments frequently highlighted the supportive environment where students felt comfortable asking questions, my willingness to help, and the time dedicated to in-class examples.
 
 Ultimately, my teaching not only conveys economic theory but also prepares students to contribute meaningfully to society and research communities. Through this integration of clarity, active learning, and alignment with institutional values, I am committed to advancing Helsinki Graduate School of Economics’ mission while inspiring the next generation of economists.

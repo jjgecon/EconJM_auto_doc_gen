@@ -15,8 +15,12 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Department of Economics at the Université de Montréal.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My family and I are eager to *leave the United States*.
+We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment.
+We are also *willing to learn French* to better integrate into the local culture and academic community.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +30,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-I am particularly drawn to the Department of Economics at the University of Montreal due to its commitment to fostering interdisciplinary research that advances social and economic progress through innovative approaches. My methodological integration of generative AI to analyze cultural values aligns well with the department’s emphasis on cutting-edge research, as exemplified by my receipt of the Dedman College Interdisciplinary Institute’s Inaugural Graduate Student Summer Research and Writing Fellowship. Furthermore, my research on gender portrayals complements the expertise of faculty such as Laëtitia Renée, facilitating potential collaboration on gender economics. I am eager to contribute to the department’s international standing through active participation in research initiatives and mentoring, fully embracing the university’s support for academic excellence and integrity.
+I am particularly drawn to the Department of Economics at the University of Montreal due to its commitment to fostering interdisciplinary research that advances social and economic progress through innovative approaches. My receipt of the Dedman College Interdisciplinary Institute Fellowship underscores my commitment to interdisciplinary research. Furthermore, my research on gender portrayals complements the expertise of faculty such as Laëtitia Renée. I am eager to contribute to the department’s international standing through active participation in research initiatives and mentoring, fully embracing the university’s support for academic excellence and integrity.

@@ -15,8 +15,12 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the  Assistant Professor position in the School of Business of the Catholic University of Chile.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My wife, who is Mexican, and I, a Chilean citizen, are eager to *return to our roots in Latin America*.
+We want our newborn daughter to grow up immersed in the culture, and our search for a safe learning environment for her is the primary motivation for our move from the United States.
+
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +30,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with the Pontificia Universidad Católica de Chile's commitment to academic excellence and social contribution, particularly within the Economics & Management Department's focus on leadership formation and economic progress. By leveraging advanced AI methodologies, I contribute to rigorous, innovative approaches in analyzing cultural influences on economic behavior, resonating with UC's pioneering spirit in invention and application. For example, my job market paper evidences how media representations can shape labor force participation, demonstrating applied research relevance to social and economic development. Additionally, my commitment to mentorship and service reflects UC's value of forming well-rounded, ethical leaders as seen in my previous role tutoring student athletes, embodying the institution’s mission of integrating knowledge with societal impact.
+My commitment to mentorship and service reflects UC's value of forming well-rounded, ethical leaders as seen in my previous role tutoring student athletes, embodying the institution's mission of integrating knowledge with societal impact. In addition, my extensive experience as teaching assistant in several undergraduate and graduate courses in Chile makes me an ideal candidate to contribute to UC's academic community.

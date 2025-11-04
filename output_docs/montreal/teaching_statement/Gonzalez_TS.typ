@@ -19,11 +19,22 @@
 
 = Teaching Statement
 
-My goal as an educator is to make economics an accessible and dynamic tool that empowers every student to critically engage with complex social and economic issues. At the University of Montreal, where academic excellence and interdisciplinary collaboration are fundamental, my teaching philosophy emphasizes clarity and active learning, aligning with the department’s commitment to fostering research-driven, innovative pedagogy.
+My goal as an educator is to make economics an accessible and dynamic tool that empowers every student to critically engage with complex social and economic issues. At the University of Montreal, where academic excellence and interdisciplinary collaboration are fundamental, my teaching philosophy is built on two principles: clarity and learning by doing.
 
-I strive to demystify economic theories by translating formal concepts into intuitive explanations that resonate across diverse student backgrounds. This dual-language approach fosters inclusivity and mirrors the department’s values of scientific rigor and social relevance. For instance, while teaching elasticity, I blend clear verbal analogies with mathematical formulation to ensure robust understanding, supporting the department’s culture of promoting good research practices.
+My first principle is to translate complex economic theories into clear, simple terms.
+Since the formal language of economics can be a barrier, I act as a translator, bridging the gap between technical jargon and students' everyday intuition.
+This means teaching in "two languages": formal and intuitive.
+For example, while tutoring student-athletes at SMU, I explain elasticity as the sensitivity of quantity demanded to price changes.
+I complement this with formulas and graphs to show how economists use these concepts, translating ideas into math for rigorous analysis.
+This approach helps students from all backgrounds grasp core concepts and build a strong foundation.
 
-Furthermore, I prioritize experiential learning by integrating hands-on workshops that encourage students to apply theories practically, reflecting the university’s emphasis on learning by doing. This method not only enhances comprehension but prepares students to contribute meaningfully to ongoing research discussions, including areas resonant with departmental scholars such as social norms and gender economics.
+Second, research shows that learning occurs through active engagement with the content.
+In my classroom, economic principles are treated as tools to be used, not facts to be memorized.
+When I taught an undergraduate Price Theory course, I dedicated a significant portion of each class to a hands-on workshop.
+During these workshops, students tackled problems individually or in small groups while I circulated through the classroom to offer targeted guidance and ask probing questions.
+At the end of each workshop, I review the exercise with the class, reinforcing concepts in a low-stakes environment where mistakes are learning opportunities.
+The student evaluations, which averaged 4.7/5, consistently showed that students learned more from this format and enjoyed it more than traditional lectures.
+Comments frequently highlighted the supportive environment where students felt comfortable asking questions, my willingness to help, and the time dedicated to in-class examples.
 
 I am committed to continuous professional growth, including acquiring proficiency in French, to fully engage with the university’s multicultural community and collaborative initiatives. By actively participating in departmental research and development, I aim to contribute to its international reputation through high-quality publications and innovative research agendas that address pressing economic challenges.
 
