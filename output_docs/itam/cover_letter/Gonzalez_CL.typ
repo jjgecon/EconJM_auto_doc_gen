@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
-Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+I am applying for the  Assistant Professor position in the Center for Economic Research at ITAM.
+Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture, Gender, and Development Economics, and I expect to complete my degree by May 2026.
+
+My wife, who is Mexican, and I, a Chilean citizen, are eager to *return to our roots in Latin America*.
+We want our newborn daughter to grow up immersed in the culture, and our search for a safe learning environment for her is the primary motivation for our move from the United States.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns with ITAM's mission to foster academic excellence and develop socially responsible individuals by integrating cutting-edge AI methodologies to examine how media shapes economic behavior and social values. For instance, my job market paper provides causal evidence linking media portrayals to labor force participation among women, addressing societal issues surrounding gender roles and economic inclusion. This work resonates with the department's focus on political economy and experimental economics, complementing the research of faculty like Horacio Larreguy. Furthermore, my commitment to mentoring, demonstrated through tutoring student athletes, aligns with ITAM’s emphasis on nurturing ethical and critically-thinking leaders. Together, these experiences position me to contribute meaningfully to ITAM’s vibrant research and teaching community.
+My research aligns with ITAM's mission to foster academic excellence and develop socially responsible individuals by integrating cutting-edge AI methodologies to examine how media shapes economic behavior and social values. This work resonates with the department's focus on political economy and experimental economics, complementing the research of faculty like Horacio Larreguy. Together, it allows me to contribute meaningfully to CIE's vibrant research community.

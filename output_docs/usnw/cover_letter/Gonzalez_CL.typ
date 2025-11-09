@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the  Lecturer position in the  School of Economics at the University of New South Wales.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My family and I are eager to *leave the United States*.
+We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns deeply with UNSW's commitment to societal benefit and global impact through its exploration of how cultural narratives in entertainment shape economic behaviors and social norms. By leveraging advanced AI methodologies, I contribute to scholarly discussions on culture and pro-social behavior, resonating with the Economics Department's focus on organizational learning and leadership development. For instance, my job market paper's investigation into gender norms and labor participation highlights adaptability and social change, core values embraced by the department. Furthermore, my interdisciplinary approach exemplifies the department's emphasis on international collaboration and innovative research methods, positioning me well to contribute to the department's research community and global partnerships.
+My research examines how cultural narratives in entertainment shape economic behavior and social norms. I develop generative-AI methods to extract and quantify cultural signals from media, producing rigorous measures that directly complement Sarah Walker’s work on culture and pro‑social behavior. As an instructor and tutor to diverse students,including US and Chilean undergraduates and graduate level, I have experience adapting pedagogy to different learning needs. I would welcome the opportunity to contribute to UNSW’s academic community through both research and teaching

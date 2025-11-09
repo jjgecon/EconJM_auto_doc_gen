@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the  Postdoctoral Scholar position in the  UiS Business School in Department of Economics and Finance at University of Stavanger.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
+
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research interests align strongly with the University of Stavanger's commitment to innovation and societal impact through knowledge creation. For example, my use of generative AI to analyze cultural values in media reflects a novel approach to understanding economic behavior, resonating with the institution’s mission to explore the unknown. Additionally, my job market paper on labor participation inspired by media narratives complements the department’s focus on public economics and development economics by addressing gender roles and labor market dynamics. Furthermore, I have actively contributed to academic communities by serving as President of the Economics Graduate Club, reflecting my dedication to service and mentorship in an international research environment, which aligns well with UiS's emphasis on career development and integration. These experiences position me to meaningfully contribute to research on environmental economics and societal change within the department, supporting its interdisciplinary strengths and its role as a driving force for societal transformation.
+My research aligns with the University of Stavanger’s commitment to innovation and societal impact through knowledge creation. My job market paper complements the department’s public and development economics. I have led academic service as President of the Economics Graduate Club, demonstrating commitment to mentorship and international collaboration and matching UiS's emphasis on career development and integration. These experiences prepare me to contribute to research on environmental economics and societal change, strengthening the department’s broad interdisciplinary work and supporting its role as a catalyst for social transformation.

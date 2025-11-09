@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Postdoctoral Scholar position in the Centre d'Etude et de Recherches sur le Développement International.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
+
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with CERDI's mission to analyze the process of international development, particularly its focus on cultural and economic dynamics in low and intermediate income countries. By innovatively applying generative AI to investigate how media influences economic behaviors, my work complements CERDI’s interdisciplinary approach, straddling both microeconomic cultural impacts and broader development themes. This synergy is exemplified by my job market paper assessing the role of media in female labor market participation, which could enrich ongoing collaborations within CERDI, notably with faculty like Pierre Biscaye. Furthermore, my commitment to collaborative yet independent research mirrors CERDI’s values and its vibrant research community, ensuring active engagement and contribution to collective goals.
+My research complements CERDI’s mission to understand development in low and middle‑income countries by examining how media and culture shape economic behavior. My methodological toolkit aligns with CERDI’s interdisciplinary agenda and can be applied to studies of social norms, policy evaluation, and even environmental protection. I look forward to collaborating with CERDI researchers to adapt these approaches to new contexts and support the center’s research and training activities.

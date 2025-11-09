@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Research Fellow position in the Korea Development Institute.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My family and I are eager to *leave the United States*.
+We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with Korea Development Institute's mission to provide rigorous, science-based economic analysis that informs effective policy-making. By employing innovative AI methodologies to understand cultural influences on economic behavior, I contribute to KDI's commitment to timely, policy-relevant research that addresses pressing societal challenges such as labor force participation and inequality. For instance, my job market paper on telenovelas' impact on women's labor participation exemplifies how causal evidence from interdisciplinary approaches can guide policies fostering inclusive economic growth, a priority of KDI's Economic Department. Additionally, my experience mentoring diverse student populations complements KDI's emphasis on collaborative research and knowledge dissemination for national and international economic advancement.
+My research directly supports the Korea Development Institute’s mission to produce rigorous, evidence-based economic analysis for policy. By applying novel AI methods to extract cultural signals from media, I identify causal channels through which culture shapes labor market behavior and attitudes toward redistribution. These methods yield timely, policy-relevant evidence on labor force participation and public support for redistribution. I welcome collaboration with KDI researchers to translate findings into actionable recommendations and to disseminate results via workshops and policy briefs.

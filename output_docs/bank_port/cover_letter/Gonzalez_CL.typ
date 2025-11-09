@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Research Economists at Banco de Portugal.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
+
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-Aligning my research with Banco de Portugal's commitment to policy-relevant and innovative economic analysis, I am eager to contribute to the Economics Department's focus on central bank policies and financial intermediation. My experience integrating AI-driven methods to quantify cultural influences on economic behavior demonstrates a novel analytical approach that complements the department’s emphasis on developing new tools. For instance, my job market paper’s empirical insights into labor market dynamics resonate with the department's interest in labor and product markets. Additionally, my awarded interdisciplinary fellowship underscores my enthusiasm for collaborative, cross-field research, aligning well with the department's teamwork and knowledge exchange values.
+My research aligns with Banco de Portugal's commitment to policy-relevant and innovative economic analysis. My experience integrating AI-driven methods to quantify cultural influences on economic behavior demonstrates a novel analytical approach that complements the department’s emphasis on developing new tools. For instance, my job market paper’s empirical insights into labor market dynamics resonate with the department's interest in labor and product markets. Additionally, my awarded interdisciplinary fellowship underscores my enthusiasm for collaborative, cross-field research, aligning well with the department's teamwork and knowledge exchange values.

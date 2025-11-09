@@ -15,7 +15,7 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Economics Department at Carleton College.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
@@ -26,4 +26,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My interdisciplinary research agenda and passion for integrating technology with social science align well with Carleton College's commitment to the creative interplay of teaching, learning, and scholarship. By leveraging AI to analyze cultural values in media, I contribute novel insights pertinent to economic behaviors, exemplified by my Dedman College Interdisciplinary Institute Fellowship, which recognized this innovative approach. I share the department's dedication to addressing societal challenges such as inequality and discrimination, demonstrated in my job market paper on telenovelas' influence on labor participation and redistribution attitudes. My experience mentoring diverse students, including tutoring student athletes, complements Carleton's inclusive community values and emphasis on undergraduate engagement. I am eager to collaborate with faculty like Faress Bhuiyan to deepen research on well-being and prepare students for impactful careers.
+My interdisciplinary research agenda and passion for integrating technology with social science align well with Carleton College's commitment to the creative interplay of teaching, learning, and scholarship. By leveraging AI to analyze cultural values in media, I contribute novel insights pertinent to economic behaviors, exemplified by my Dedman College Interdisciplinary Institute Fellowship, which recognized this innovative approach. I share the department's dedication to addressing societal challenges such as inequality and discrimination, demonstrated in my work on telenovelas' influence on labor participation and support for redistribution. My experience mentoring diverse students, including tutoring student athletes, complements Carleton's inclusive community values and emphasis on undergraduate engagement. I am eager to collaborate with faculty like Faress Bhuiyan to deepen research on well-being and prepare students for impactful careers.

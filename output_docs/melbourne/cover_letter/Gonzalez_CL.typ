@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the  Assistant Professor position in the Department of Economics at the University of Melbourne.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *leave the United States*.
+We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My commitment to interdisciplinary and policy-relevant research aligns closely with the University of Melbourne’s emphasis on addressing pressing social and economic challenges through innovative methods. The Department of Economics' focus on data-driven training and real-world application resonates with my approach, particularly demonstrated by my use of generative AI to analyze cultural values impacting economic behavior. Additionally, my experience mentoring student athletes and leading graduate initiatives showcases my dedication to teaching excellence and student development, which aligns with the University’s goal of cultivating well-rounded graduates. Collaborating with globally recognized centers and scholars, such as those focusing on gender economics, would further enrich my research and contribute meaningfully to the Department's objectives.
+My research is interdisciplinary and policy‑oriented, matching the University of Melbourne’s emphasis on tackling social and economic challenges with innovative methods. I use generative AI to extract cultural values from media and measure their effects on economic behavior, an approach that aligns with the Department’s data‑driven, applied focus. I have mentored students and led graduate initiatives, demonstrating a strong commitment to teaching and student development. Collaborating with Melbourne centers and scholars in gender economics, such as Victoria Baranov, would strengthen my research and contribute to the Department.

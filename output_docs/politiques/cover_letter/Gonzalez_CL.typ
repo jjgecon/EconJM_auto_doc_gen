@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Research Economist position in the Institut des politiques publiques.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My expertise aligns strongly with the IPP's mission to influence public policy through rigorous economic analysis, particularly in the examination of culture's impact on labor markets and social behaviors. By leveraging advanced AI methodologies in my research, I contribute to the institution's commitment to technological frontiers and data-driven insights. My job market paper’s focus on female labor force participation resonates with IPP's emphasis on social and labor market policies. Furthermore, my experience collaborating across disciplines, evidenced by my award-winning interdisciplinary fellowship, prepares me to thrive within the IPP's collaborative environment spanning PSE and GENES/CREST. I am eager to engage with IPP’s vibrant community to develop impactful, policy-relevant research.
+My expertise aligns strongly with the IPP's mission to influence public policy through rigorous economic analysis, particularly in the examination of culture's impact on labor markets and social behaviors. By leveraging advanced AI methodologies in my research, I contribute to the institution's commitment to technological frontiers and data-driven insights. Furthermore, my experience collaborating across disciplines, evidenced by an awarded interdisciplinary fellowship, prepares me to thrive within the IPP's collaborative environment spanning PSE and GENES/CREST. I am eager to engage with IPP’s vibrant community to develop impactful, policy-relevant research.

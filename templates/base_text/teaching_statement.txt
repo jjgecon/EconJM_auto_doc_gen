@@ -6,7 +6,7 @@ Since the formal language of economics can be a barrier, I act as a translator, 
 This means teaching in "two languages": formal and intuitive.
 For example, while tutoring student-athletes at SMU, I explain elasticity as the sensitivity of quantity demanded to price changes.
 I complement this with formulas and graphs to show how economists use these concepts, translating ideas into math for rigorous analysis.
-This approach helps students from all backgrounds grasp core concepts and build a strong foundation.
+This principle is especially well-suited for introductory courses, which serve as the stepping stones and foundations for students as they begin to grasp core economic concepts.
 
 Second, research shows that learning occurs through active engagement with the content.
 In my classroom, economic principles are treated as tools to be used, not facts to be memorized.

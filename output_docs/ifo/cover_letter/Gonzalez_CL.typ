@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Postdoctoral Research position in the ifo Institute.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research agenda aligns closely with ifo Institute's commitment to policy-relevant and empirically rigorous economic research. By employing cutting-edge generative AI and natural language processing techniques to analyze large-scale media datasets, I provide novel insights into cultural influences on economic behavior, directly informing evidence-based policy decisions. For example, my job market paper demonstrating how media portrayals of empowered women impact labor market participation exemplifies how empirical rigor can translate into actionable societal guidance. Furthermore, my work’s interdisciplinary nature and use of advanced data methods positions me well to contribute to the institute’s diverse research centers and its emphasis on technological frontiers, while embracing opportunities for international collaboration and public engagement.
+My research agenda is strongly aligned with the ifo Institute’s focus on _Big Data Economics_. I use cutting-edge generative AI and natural language processing to analyze large-scale media datasets, extracting cultural values and allows me to explore their effects on current global issues like immigration attitudes or environmental protection. This interdisciplinary approach, combining advanced data methods with economic analysis, enables me to contribute to the institute’s research centers and technological initiatives. I am eager to collaborate internationally and engage with the public, supporting the institute’s mission to advance innovative and impactful research.

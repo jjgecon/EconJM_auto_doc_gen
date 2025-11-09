@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the  Department of Economics.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with the University of Oslo's commitment to independent and innovative scholarship that addresses societal challenges through interdisciplinary methods. By utilizing generative AI to analyze cultural narratives in entertainment media, I contribute to understanding how social norms and behaviors influence economic outcomes, resonating with the Department of Economics’ focus on behavioral economics and moral norms. For example, my job market paper demonstrates the impact of media portrayals on women's labor force participation, which complements the department’s interests in social interactions and decision-making. Moreover, my receipt of the Dedman College Interdisciplinary Institute Summer Fellowship underscores my ability to bridge disciplinary boundaries. I am motivated to join an institution that values academic freedom and fostering inclusive environments, as evidenced by my mentoring work with diverse student-athletes. These experiences position me to contribute meaningfully to the department’s research community and educational mission.
+My research aligns with the University of Oslo’s commitment to independent, interdisciplinary scholarship that addresses societal challenges. I study how social norms and behaviors shape economic outcomes, which complements the Department of Economics’ focus on behavioral economics and moral norms. A Dedman College Interdisciplinary Institute Summer Fellowship demonstrates my ability to bridge fields. I am eager to join an institution that values academic freedom and inclusivity; my mentoring of diverse student‑athletes reflects that commitment. These experiences prepare me to contribute to the department’s research community and teaching mission.

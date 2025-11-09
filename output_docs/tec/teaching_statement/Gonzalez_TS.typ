@@ -19,8 +19,25 @@
 
 = Teaching Statement
 
-My aspiration as an educator is deeply aligned with Tecnológico de Monterrey's mission to empower individuals through innovative and socially impactful knowledge. I commit to making the complex framework of economics accessible and meaningful, fostering students' capacity to apply analytical tools to pressing political, economic, and social challenges. Central to my teaching philosophy are clarity and experiential learning, which not only simplify economic concepts but actively engage students in problem-solving that mirrors real-world policy issues. This approach resonates with the Department of Economics' dedication to rigor and transformational knowledge, equipping students to contribute thoughtfully within a global and interdisciplinary context.
+My aspiration as an educator is deeply aligned with Tecnológico de Monterrey's mission to empower individuals through innovative and socially impactful knowledge.My teaching philosophy is built on two principles: clarity and learning by doing.
 
-In practice, I translate intricate economic theories into accessible language that bridges formal economic models and intuitive understanding. I complement this with hands-on workshops where students collaboratively tackle analytical problems, embodying the department's emphasis on integrating technology and data-driven methods. A notable example includes facilitating problem sets that simulate policy analysis scenarios, fostering critical thinking and ethical awareness consistent with Tecnológico's core values of integrity, empathy, and social responsibility.
+My first principle is to translate complex economic theories into clear, simple terms.
+Since the formal language of economics can be a barrier, I act as a translator, bridging the gap between technical jargon and students' everyday intuition.
+This means teaching in "two languages": formal and intuitive.
+For example, while tutoring student-athletes at SMU, I explain elasticity as the sensitivity of quantity demanded to price changes.
+I complement this with formulas and graphs to show how economists use these concepts, translating ideas into math for rigorous analysis.
+This principle is especially well-suited for introductory courses, which serve as the stepping stones and foundations for students as they begin to grasp core economic concepts.
 
-My teaching environment intentionally cultivates inclusion and collegiality, reflecting the institution's commitment to diversity and collaborative spirit. Student feedback underscores a supportive atmosphere where inquiry and innovation thrive, reinforcing their professional readiness and confidence. Ultimately, my goal is to nurture economists who are not only technically proficient but also ethical leaders, ready to engage in interdisciplinary research and contribute to socially responsible solutions, embodying the entrepreneurial and transformative ethos of Tecnológico de Monterrey.
+Second, research shows that learning occurs through active engagement with the content.
+In my classroom, economic principles are treated as tools to be used, not facts to be memorized.
+When I taught an undergraduate Price Theory course, I dedicated a significant portion of each class to a hands-on workshop.
+During these workshops, students tackled problems individually or in small groups while I circulated through the classroom to offer targeted guidance and ask probing questions.
+At the end of each workshop, I review the exercise with the class, reinforcing concepts in a low-stakes environment where mistakes are learning opportunities.
+The student evaluations, which averaged 4.7/5, consistently showed that students learned more from this format and enjoyed it more than traditional lectures.
+Comments frequently highlighted the supportive environment where students felt comfortable asking questions, my willingness to help, and the time dedicated to in-class examples.
+
+Although my formal experience as an instructor is in intermediate microeconomics, this has equipped me to effectively teach both introductory and intermediate-level courses. Additionally, I have a varied track record as a teaching assistant in intermediate macroeconomics at the undergraduate, master's, and Ph.D. levels. I have also served as a teaching assistant for more technical courses such as econometrics, with a particular focus on its practical applications. This breadth of experience demonstrates my potential to teach a wide variety of courses across the economics curriculum.
+
+I foster an inclusive, collaborative classroom that encourages inquiry and innovation. Student feedback highlights a supportive environment that builds confidence and professional readiness. My goal is to develop economists who are technically skilled, ethical, and prepared to contribute to socially responsible solutions.
+
+

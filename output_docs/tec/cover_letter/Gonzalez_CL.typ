@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the  Assistant Professor  position in the  Social Science and Government School at Tecnológico de Monterrey.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My wife, who is Mexican, and I, a Chilean citizen, are eager to *return to our roots in Latin America*.
+We want our newborn daughter to grow up immersed in the culture, and our search for a safe learning environment for her is the primary motivation for our move from the United States.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-Aligning closely with Tecnológico de Monterrey’s mission to empower innovation and social transformation, my research harnesses generative AI to extract cultural values influencing economic behavior, exemplifying the institution’s commitment to creative, technology-driven solutions. My focus on empirical methods and policy relevance resonates with the Economics Department’s emphasis on rigorous, data-oriented analysis and social impact, demonstrated through my job market paper's causal evidence linking media portrayals to labor participation—a topic that intertwines behavioral economics and governance. Furthermore, I have cultivated interdisciplinary collaboration, having been awarded the Dedman College Interdisciplinary Institute’s Summer Research Fellowship, positioning me to engage effectively across departments such as Law and International Relations. My dedication to inclusive and ethical research aligns with the university’s values of empathy, integrity, and global citizenship, fostering an academic environment grounded in respect and social responsibility.
+I have a strong record of interdisciplinary collaboration, demonstrated by receiving the Dedman College Interdisciplinary Institute's Fellowship. This experience has prepared me to contribute across disciplines within the Social Science and Government School, especially by applying my Data Science and Economics expertise. Additionally, my extensive teaching experience as an instructor, teaching assistant, tutor, and mentor in both English and Spanish, enables me to be an effective, inclusive, and innovative educator.

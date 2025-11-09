@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the  Assistant Professor position in the Department of Economics at University College London.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My commitment to UCL’s values of rigor and innovation is reflected in my development of novel generative AI methodologies that advance economic research, aligning well with the Economics Department’s emphasis on data-driven methods and interdisciplinary scholarship. I have actively embraced inclusivity and open debate in academia through leadership as President of the Economics Graduate Club, fostering a respectful and engaging community that echoes UCL’s commitment to care and respect. Additionally, my research on cultural impacts of media addresses major societal challenges such as inequality, resonating with the Department’s focus on societal issues and collaborative, cross-disciplinary approaches. This synergy positions me to contribute meaningfully to UCL’s innovative academic environment and student-centered community.
+My research methods, which use generative AI to advance economic analysis, align with UCL’s commitment to rigor, innovation, and data-driven approaches. My work connects with Stephen Hansen’s research on the use of ML/AI in economics and Michela Tincani’s studies of pro-social behavior. As President of the Economics Graduate Club, I have promoted inclusivity and open debate. These experiences prepare me to contribute to UCL’s collaborative and student-focused academic community.

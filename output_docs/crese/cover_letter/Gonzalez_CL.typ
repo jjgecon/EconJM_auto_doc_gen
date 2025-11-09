@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
-Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+I am applying for the Postdoctoral Scholar position in the Centre de Recherche sur les Stratégies Economiques.
+Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture, Gender, and Political Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
+
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,5 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-Joining CRESE represents an exciting opportunity to contribute to its commitment to rigorous, policy-relevant economic research with a collaborative and interdisciplinary focus. My work on measuring cultural values through advanced AI techniques aligns well with CRESE's methodological diversity and the department's use of empirical and experimental approaches, exemplified by my job market paper on media influence in labor participation, which integrates behavioral and economic analysis. Moreover, my experience leading research projects and mentoring aligns with CRESE’s active public engagement and teamwork culture, as I have effectively collaborated across disciplines and supervised research assistants. This synergy positions me to thrive within CRESE’s vibrant research community and contribute meaningfully to the ongoing ANR project on populism.
+Joining CRESE would be an excellent opportunity to contribute to the project "The Political Economy of Populism." My research develops AI-based measures of cultural values and complements the project's methodological diversity, offering an innovative cultural perspective on the drivers and consequences of populism.
+I have led interdisciplinary research teams, mentored research assistants, and actively engaged in public dissemination of research. These experiences align with CRESE’s collaborative, public-facing culture and would enable me to contribute immediately to the centre’s research and outreach activities.

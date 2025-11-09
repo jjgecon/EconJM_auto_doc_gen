@@ -15,8 +15,11 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the School of Business and Economics at Universidad de los Andes Chile.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My wife, who is Mexican, and I, a Chilean citizen, are eager to *return to our roots in Latin America*.
+We want our newborn daughter to grow up immersed in the culture, and our search for a safe learning environment for her is the primary motivation for our move from the United States.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +29,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My academic interests and professional ethos align closely with Universidad de Los Andes' commitment to integrating rigorous knowledge with integral education inspired by Christian values. The dynamic, collaborative environment of the Economics Department resonates with my interdisciplinary approach to research, demonstrated by my use of generative AI to analyze cultural narratives in media, which mirrors the department's emphasis on innovation and cross-field engagement. My research ethos embodies a spirit of service and personal responsibility, as seen in my causal analysis of labor participation effects, addressing societal issues with empirical rigor and ethical awareness. Additionally, my experience mentoring student athletes reflects my dedication to teaching and personal development, aligning with the department's focus on holistic growth and cultural exchange.
+My academic interests align closely with Universidad de Los Andes' commitment to integrating rigorous knowledge with integral education. The dynamic, collaborative environment of the Economics Department resonates with my interdisciplinary approach to research, demonstrated by my use of generative AI to analyze cultural narratives in media, which mirrors the department's emphasis on innovation and cross-field engagement. Additionally, I have extensive experience mentoring, teaching, and tutoring a diverse range of students, including U.S. student-athletes and Chilean undergraduates and graduatesaligning with the department's focus on holistic growth and cultural exchange.

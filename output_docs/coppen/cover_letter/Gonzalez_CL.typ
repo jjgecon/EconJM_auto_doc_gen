@@ -15,8 +15,10 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Department of Economics at Copenhagen Business School.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+As a Spanish national, my family and I are eager to *return to Europe* so our newborn daughter can grow up immersed in European culture. We are seeking a community with a safe learning environment, a key factor in our decision to *leave the United States*.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +28,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with Copenhagen Business School's commitment to transformative and interdisciplinary economic inquiry that addresses societal challenges. By using innovative AI methodologies to analyze media’s influence on labor market behaviors and cultural values, I contribute to CBS’s mission of positive societal impact through collaboration and curiosity-driven research. For example, my job market paper revealing how exposure to empowered female characters influences female labor participation illustrates my dedication to socially relevant economic questions, resonating with CBS's values of transformation and joint responsibility. My teaching and mentoring experiences further reflect the department’s emphasis on high-quality education and pedagogical innovation, preparing students for meaningful contributions in a global business environment.
+My research closely aligns with Copenhagen Business School’s transformative and interdisciplinary mission to address societal challenges. My teaching and mentoring experience reflects the department’s commitment to high-quality education and pedagogical innovation, preparing students for impactful careers in a global business environment. Additionally, my dedication to fostering a professional and supportive community is demonstrated by my tenure as president of the SMU Econ Grad Club, where I organized workshops and mentoring programs to advance graduate students’ academic and professional development.
