@@ -15,8 +15,12 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Research Economist position in the AI Tech Studio division at CyberAgent.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
+
+My family and I are eager to *leave the United States*.
+We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment.
+We are also *willing to learn Japanese* as soon as possible to better integrate into the local culture and academic community.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
 I develop novel methods using generative AI to extract cultural values from TV shows and test how these values affect individuals' behaviors and attitudes.
@@ -26,4 +30,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with CyberAgent's commitment to innovation and interdisciplinary collaboration, particularly at the intersection of economics and machine learning. By employing generative AI to derive cultural insights from media, I contribute novel methodologies that resonate with your mission to revitalize industries through internet technologies. My job market paper, which causally links media portrayals to labor market outcomes, exemplifies rigorous empirical work with real-world impact, aligning with CyberAgent's focus on practical solutions. Moreover, receiving the Dedman College Interdisciplinary Institute's Inaugural Graduate Student Summer Research and Writing Fellowship reflects my dedication to integrating diverse fields, fostering teamwork, and driving forward-thinking research. I am eager to join a meritocratic environment that prizes creativity, adaptability, and ethical standards, further enhancing my growth and collaborative contributions within your AI Lab Economics Team.
+My research aligns closely with CyberAgent's commitment to innovation and collaboration, particularly at the intersection of economics and machine learning. By employing generative AI to derive cultural insights from media, I contribute methodologies that resonate with your mission to revitalize industries through internet technologies. Receiving the Dedman College Interdisciplinary Institute's Graduate Student Summer Research and Writing Fellowship reflects my dedication to integrating diverse fields. I am eager to join an environment that prizes creativity, adaptability, and ethical standards at the AI Lab Economics Team.

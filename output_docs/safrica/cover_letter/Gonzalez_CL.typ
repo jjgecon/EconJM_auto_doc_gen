@@ -15,7 +15,7 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the  Postdoctoral Scholar position in the Laboratory for the Economics of Africa’s Past & Impumelelo Economic Growth Lab.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
 
 My research explores how entertainment media both reflects and shapes economic behavior.
@@ -26,4 +26,4 @@ The effects are driven exclusively by portrayals of women in non-traditional car
 A second paper shows that telenovelas focused on inequality reduce support for redistribution by downplaying or trivializing issues of economic disparity.
 My future work will generalize this approach to measure broader cultural values and use AI to analyze diverse media for a comprehensive study of culture.
 
-My research aligns closely with Stellenbosch University's commitment to interdisciplinary scholarship and societal relevance, particularly within the Economics Department's focus on South Africa and structural economic change. By employing generative AI to analyze cultural influences on economic behavior, I contribute to innovative methodologies that echo the department’s emphasis on technological frontiers. My work on telenovelas not only addresses cultural dimensions of labor market participation – a topic crucial to South African economic development – but also connects with broader historical narratives akin to those explored by Prof Johan Fourie. Moreover, my experience mentoring student athletes and engaging in community service demonstrates a dedication to teaching and leadership consistent with the university’s values. These elements collectively position me as an ideal candidate to advance the department’s research agenda while fostering impactful academic and policy collaborations.
+My research on telenovelas addresses the cultural factors influencing labor market participation, a topic highly relevant to South African economic development and aligns with the historical perspectives studied by Prof. Johan Fourie. Additionally, my experience mentoring student athletes and participating in community service reflects a strong commitment to teaching and leadership, which are central to the university’s values. Together, these qualifications position me to contribute meaningfully to the department’s research goals and to foster productive academic and policy collaborations.
