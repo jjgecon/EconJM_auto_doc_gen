@@ -15,7 +15,7 @@
   ),
 )
 
-I am applying for the POSITION position in the INSTITUTION.
+I am applying for the Assistant Professor position in the Heinz College of Information Systems and Public Policy at Carnegie Mellon University.
 Currently, I am a PhD candidate in Economics at Southern Methodist University, specializing in Applied Microeconomics with an emphasis on Culture and Gender Economics, and I expect to complete my degree by May 2026.
 
 My research explores how entertainment media both reflects and shapes economic behavior.

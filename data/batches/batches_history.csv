@@ -39,7 +39,7 @@ created_at,description,model,cat_type,batch_id,status,processing_status,input_fi
 19:30.8,Generate Teaching Statements,gpt-4.1-mini,ts,batch_69091c6455ac8190bab322c03467b49e,completed,True,file-VQYndPwv61toutPBqj2Pjt,file-3iTr4U2U2Ab7PwaXF3nv8u,
 2025-11-17 19:11:15.704079,Generate Cover Letters,gpt-4.1-mini,cl,batch_691bc7b406cc819092477b65cdfdca09,completed,True,file-5JtEDZhrdF4FrmknUoy1dc,file-GGYrV3gJVGaWH2czx1FFti,
 2025-11-17 19:11:17.950792,Generate Research Statements,gpt-4.1-mini,rs,batch_691bc7b588e88190931093e9f21c88b3,completed,True,file-C22y68Z1LwyuCaR7n9GWpX,file-27dtuLtCBhgowGRroXZn8S,
-2025-11-17 19:11:20.031984,Generate Teaching Statements,gpt-4.1-mini,ts,batch_691bc7b7a3108190938e1c64ebe17253,in_progress,False,file-5hX9Y3niroem6LdtJkx23P,,
+2025-11-17 19:11:20.031984,Generate Teaching Statements,gpt-4.1-mini,ts,batch_691bc7b7a3108190938e1c64ebe17253,completed,True,file-5hX9Y3niroem6LdtJkx23P,file-EyEX3SHpjFyw89F4D4VXPr,
 2025-11-17 22:23:18.738190,Generate Cover Letters,gpt-4.1-mini,cl,batch_691bf4b64dac81908246c00d69a1fe1d,completed,True,file-Hf5fFs1sUr9HntZidZGktG,file-MSFynyNQvi6wJNWgqcA6BB,
 2025-11-17 22:23:20.170137,Generate Teaching Statements,gpt-4.1-mini,ts,batch_691bf4b78bc081909616b76b49beb3a1,completed,True,file-7GixJjqHvTAz2SvQG119HN,file-NAxdx4Mqt9hcRBnDWPNhWk,
 21:21.4,Generate Cover Letters,gpt-4.1-mini,cl,batch_68f1a822d2cc819093a03c7ff02bf319,completed,True,file-GxfFru1JUzBNv5eA9N45sY,file-MpFxdYCjoMdDha9wxJzxU3,
