@@ -25,3 +25,20 @@ Southern Methodist University
 Assistant Professor of Economics
 mgovia@smu.edu
 214-768-3237
+
+---------------------------------------------
+LLM prompts
+
+- For Job add use 
+    ```
+    summarize the job add in a few bullet points. Prioritize the attributes, qualitites they look for in a candidate
+    ```
+
+- For the isntitutional values use 
+    ```
+    summarize the institution mission and values in a few bullet points
+    ```
+    
+- For econ research department use 
+    ```
+    summarize the departmen or institution or center values and research topics in a few bullet points. Make emphasis on potential co-authors and researcg/teaching groups described there and write it in the file
