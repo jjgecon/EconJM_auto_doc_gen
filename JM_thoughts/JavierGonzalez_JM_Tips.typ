@@ -34,6 +34,11 @@ The examples of how I structured my answers will be around a _quote_ block, so y
   - Locations (US, Europe, Latin America, Asia, etc)
 
 - show a timeline of applications
+- Signals:
+  - Remember that you have 2 signals for the AEA JOE and 10 signal for the European Job Market (need to puit links)
+  - The common advice here is that you send a signal where your committee does not know anyone AND that you think there is a chance they will hire you
+    - In other words, do not waste your signals in MIT, Harvard, Chicago, or top in EU
+  - However, I don't know if they did anything for me
 
 === Results
 
@@ -49,15 +54,12 @@ The examples of how I structured my answers will be around a _quote_ block, so y
 == General Tips
 
 - Your Job Market Paper should be finished by August before the market
+  - This mean written with all the most important pieces
 
 - Your network and your advisor's network is key to get interviews
   - This is the time to use the network you have been building during your academic career
     - reach out to MA advisor or back-home professors that are willing to help you
   - Make sure your advisor is willing to reach out to their network on your behalf on the places you want to go
-
-- DO NOT GO into econjobrumors if you are stressed:
-  - they are potentially just rumors
-  - most anxious candidates will post, and this anxiousness is contagious
 
 == Aplications
 
@@ -78,6 +80,10 @@ We want our newborn daughter to grow up in a different cultural environment and 
 
 == Waiting for Interviews
 
+- RESIT the urge to check EconJobRumors!
+  - You will cave at one point, but note that because of the anonimity there is no way to verify the claims
+  - So usually what happens is that a small rumors starts to spiral out of control with plenty of anxious candidates in the discussion 
+
 - #link("https://www.aeaweb.org/econtrack")[Econtrack] is a resource to keep track of the AEA JOE listing, but it's not a complete or good tracker
   - HOWEVER, do not trust any updates without the check "verified by an official of this institution"
   - Then any person with an account can update the status of a job to interviews, when in reality they are still processing applications
@@ -94,18 +100,22 @@ We want our newborn daughter to grow up in a different cultural environment and 
 Maybe a table where each row is 5mins and a color represents a broad category should be better to explain this
 
 - Assistant professor:
-  1. Talk about yout JMP (10mins)
-  2. Research Agenda (10mins)
-  3. Teaching Philosophy (5mins)
-  4. Why our department? (5mins)
+  + Talk about yout JMP (10mins)
+  + Research Agenda (10mins)
+  + Teaching Philosophy (5mins)
+  + Why our department? (5mins)
 
 - Postdocs:
-  1. Talk about yout JMP (10mins)
-  2. Research Agenda in relations to project (5mins)
-  3. What skill can you bring to the proposed projects (10mins)
-  4. Why our department? (5mins)
+  + Talk about yout JMP (10mins)
+  + Research Agenda in relations to project (5mins)
+  + What skill can you bring to the proposed projects (10mins)
+  + Why our department? (5mins)
 
-- Consulting Industry:
+- Consulting Industry (Analysis Group)#footnote[AG does this ... and sort of ask for economist to measure the damages or cost of some litigations. They seem to value speed and simplicity over complex models. However, this is completly random, and who is making the interview sets up the questions.]:
+  + Talk about yout JMP (15mins)
+  + Explain IV to a jury/judge (5mins)
+  + What do you like more about the work? (5mins)
+  + Do you have any questions for us? (5mins)
 
 === Advice
 
@@ -170,7 +180,9 @@ Maybe a table where each row is 5mins and a color represents a broad category sh
 
 
 == Resources
-- #link("https://www.aeaweb.org/resources/students/grad-prep/job-market")[AEA Job Market Resources]
+- #link("https://www.aeaweb.org/resources/students/grad-prep/job-market")[AEA Prep. Job Market Resources]
+- #link("https://www.aeaweb.org/about-aea/committees/job-market")[AEA JOE Committee on the Job Market] videos and documents
 - #link("https://www.aeaweb.org/resources/students/grad-prep/job-market")[_A Guide and Advice for economists on the U.S. Junior Academic Job Market 2018-2019_] by John Cawley
 - #link("https://econjobmarket.org/videos")[EJM Informational discussions and webinars]
 - #link("https://asheweb.org/")[American Society of Hispanic Economists (ASHE)] for mock interviews
+- #link("https://res.org.uk/event-listing/european-job-market-for-economists/?utm_campaign=Dotdigital&utm_medium=email&utm_source=Royal%20Economic%20Society&dm_i=7O8I,2D6GZ,61HKR5,4O6T9,1")[European Job Market for Economists (EJME)] with #link("https://www.europeanjobmarketofeconomists.org/guides-candidates-recruiters")[Guides for Candidates and workshops]
