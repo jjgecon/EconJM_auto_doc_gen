@@ -92,13 +92,15 @@ There is plenty of advice on how to prepare each of these documents, so I will n
 
 == Set-up
 
-Describe here the set-up using `vscode` and #link("https://typst.app/docs/")[`typst`]. You can think of `typst` as a LaTeX replacement with modern syntax and instant preview (no need to compile the `.typ` file everytime you want to see a change).
+I used `vscode` that both generated documents using `python` and allowed me to modify the documents with #link("https://typst.app/docs/")[`typst`]. You can think of `typst` as a LaTeX replacement with modern syntax and instant preview (no need to compile the `.typ` file everytime you want to see a change).
 
 My set up can be devided into 3 main components:
 
 + Gather info about job add, department, and school/project if it is a post doc
+  - This can be time consuming as you might want to read faculty pages, so take it into consideration
 + Let a LLM read the addition information + CV to create a single paragraph to be at the end of the Cover letter to indicate fit with the position
 + Use `typst` to modify the cover letter template
+  - Make sure you get the position + institution right
   - add personal reasons to apply to that position
   - Modify the LLM generated paragraph to make it more personal
 
@@ -168,19 +170,23 @@ In the 2025-26 cycle, the #link("https://www.europeanjobmarketofeconomists.org/a
 
 == Common Structure
 
-- Assistant professor:
-  + Talk about yout JMP (10mins)
-  + Research Agenda (10mins)
-  + Teaching Philosophy (5mins)
-  + Why our department? (5mins)
+Assistant professor:
++ Talk about yout JMP (10mins)
++ Research Agenda (10mins)
++ Teaching Philosophy (5mins)
++ Why our department? (5mins)
 
-- Postdocs:
-  + Talk about yout JMP (10mins)
-  + Research Agenda in relations to project (5mins)
-  + What skill can you bring to the proposed projects (10mins)
-  + Why our project? (5mins)
+Postdocs:
++ Talk about yout JMP (10mins)
++ Research Agenda in relations to project (5mins)
++ What skill can you bring to the proposed projects (10mins)
++ Why our project? (5mins)
 
-- Consulting Industry (Analysis Group)#footnote[AG does this ... and sort of ask for economist to measure the damages or cost of some litigations. They seem to value speed and simplicity over complex models. However, this is completly random, and who is making the interview sets up the questions.]:
+Apparently Industry jobs vary quite a lot depending on the firm (e.g. consulting or data-scince). #link("linkedin.com/in/mohsen-foroughifar-800350266")[Mohsen Foroughifar] put it best when talking about the Marketing Academic Job in his #link("https://www.linkedin.com/posts/mohsen-foroughifar-800350266_marketing-academic-job-market-post-5-activity-7406439233487433728-i2yI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEMbI8BtSc1yt88uuZBJ3Mj2fUPJCm4HEU")[LinkedIn post].
+
+In my experience with #link("https://www.analysisgroup.com/")[Analysis Group], they were more interested in the econometric techniques and how I defended them than I expected.
+My first-round interview followed this structure:
+
   + Talk about yout JMP (15mins)
   + Explain Econ concept to a jury/judge (5mins)
   + What do you like more about the research work? (5mins)
