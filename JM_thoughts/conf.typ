@@ -22,7 +22,7 @@
 ) = {
   set text(font: "Georgia")
 
-  set page(margin: 1.8cm)
+  set page(margin: 1.8cm, numbering: "1")
 
   set quote(block: true)
   show quote: set text(style: "italic")
@@ -51,7 +51,7 @@
   ]
   // Author
   align(center)[
-    by #text(size: 10pt, style: "italic")[#author#footnote[#thanks]] #link( "https://jjgecon.github.io/" )[ (website) ] #link( "https://jjgecon.github.io/" )[ (latest version) ]
+    by #text(size: 10pt, style: "italic")[#author#footnote(numbering: "*")[ #h(0.1cm)#thanks]] $-$ #link( "https://jjgecon.github.io/" )[ (website) ]  $-$ #link( "https://jjgecon.github.io/" )[ (latest version) ] $-$ #datetime.today().display()
   ]
 
   v(.4cm)

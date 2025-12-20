@@ -4,25 +4,32 @@
 #show: conf.with(
   title: "The Hidden Curriculum of the Econ Job Market",
   author: "Javier Gonzalez",
-  thanks: "Thanks to Fernanda Da Silva for encouranging me to write down these tips so that other SMU students can get a little more context while navigating the job market.",
+  thanks: "Thanks to Fernanda Da Silva for encouranging me to write down these tips so that other SMU students can get more context while navigating the job market. This document also served me as a personal journal to reflect on my own experience and keep my sanity.",
 )
 
-Despite the abundance of guides, webinars, and official resources, I found that much of the advice available was shaped by pre-COVID experiences or tailored to candidates from top-ranked institutions. These "hidden curriculum" elements include not just the logistics of applications and interviews, but also the subtle expectations, networking strategies, and unspoken norms that can make a significant difference in outcomes. My goal here is to shed light on these less-discussed facets, especially from the perspective of someone navigating the market from a lower-ranked school in the current environment.
+Despite the abundance of guides, webinars, and official resources, I found that much of the advice available was shaped by pre-COVID experiences or tailored to candidates from top-ranked institutions. These "hidden curriculum" elements include not just the logistics of applications and interviews, but also the subtle expectations, networking strategies, and unspoken norms that can make a significant difference in outcomes. My goal here is to complement the current advice with the experience of a candidate from a lower-ranked school.
 
-Take this with a grain of salt, as this is my personal experience on the job market in the 2025-26 cycle as a Ph.D. Candidate from Southern Methodist University.
+Take the advice in this document with a grain of salt, as this is my personal experience on the job market in the 2025-26 cycle as a Ph.D. Economics Candidate from Southern Methodist University.
 
-The tips in this document will build upon the following resources which I found particularly helpful.
+I found the following resources particularly helpful:
 
-- #link("https://www.aeaweb.org/resources/students/grad-prep/job-market")[_A Guide and Advice for economists on the U.S. Junior Academic Job Market 2018-2019_] by John Cawley (outdated but with usefull information)
+- #link("https://www.aeaweb.org/content/file?id=869")[_A Guide and Advice for economists on the U.S. Junior Academic Job Market 2018-2019_] by John Cawley (outdated but with usefull information)
 - #link("https://www.aeaweb.org/resources/students/grad-prep/job-market")[AEA Prep. Job Market Resources]
 - #link("https://www.aeaweb.org/about-aea/committees/job-market")[AEA JOE Committee on the Job Market] videos and documents
 - #link("https://econjobmarket.org/videos")[EJM Informational discussions and webinars]
 - #link("https://res.org.uk/event-listing/european-job-market-for-economists/?utm_campaign=Dotdigital&utm_medium=email&utm_source=Royal%20Economic%20Society&dm_i=7O8I,2D6GZ,61HKR5,4O6T9,1")[European Job Market for Economists (EJME)] with #link("https://www.europeanjobmarketofeconomists.org/guides-candidates-recruiters")[Guides for Candidates and workshops]
 
+*Housekeeping*
 
-Lastly, the examples of how I structured my answers will be around a _quote_ block, so you can easily identify them, like the following
+The advice in the _Advice_ sections are in no particular order.
+
+I will skip the _offer bargaining_ stage as I don't think I can add to the discussion. Please refer #link("https://www.aeaweb.org/content/file?id=869")[John Cawley's guide] and always seek advice from your advisor.
+
+The examples of how I structured my answers will be around a _quote_ block, so you can easily identify them, like the following
 
 #quote(attribution: [Javier Gonzalez])[My future research will be dedicated to expanding this methodological pipeline ...]
+
+#pagebreak()
 
 #outline()
 
@@ -40,6 +47,16 @@ This is the time to use the network you have been building during your academic 
 Reach out to MA advisor or back-home professors that are willing to help you.
 Make sure your advisor is willing to reach out to their network on your behalf on the places you want to go.
 Ask for the letters at least 1 month before the closest application deadlines.
+
+Practice your JMP talk often and well before the market: repeated rehearsal helps you anticipate common questions (in my case, my JMP raises concerns about reverse causality, which I address this on slide 2), develop concise answers, and project confidence during interviews and fly-outs. Get practice by presenting at workshops, brownbags, student seminars, conferences, and by running your talk by seminar speakers, peers, and advisors.
+
+Expand your network strategically by connecting with people who work in the markets you target. Attend major regional conferences and workshops to build relationships with faculty and researchers who can later vouch for you or forward your CV to hiring committees. These contacts often help by sending informal emails or making introductions that make a real difference in getting noticed. For example, if you want to target the Spanish market, prioritize attending the #link("https://asesec.org/simposio-de-la-asociacion-espanola-de-economia/")[Simposio de la Asociación Española de Economía (AEE)] and use that opportunity to meet potential connections in person.
+
+Create your academic website early.
+Use a ready-made template and host it on GitHub Pages to save time and avoid reinventing the wheel.
+Follow the #link("https://github.com/academicpages/academicpages.github.io")[academicpages] guide to get a clean, professional site up quickly.
+Use an LLM to draft and update content so you do not need to know HTML. Prominently display the essentials: CV, Job Market Paper, a one-paragraph research summary, and clear contact information. Keep navigation and filenames obvious, make the site mobile-friendly, and ensure the key documents are one click away. Hiring committees skim hundreds of applications, and small frictions can make them stop.
+
 
 #pagebreak()
 
@@ -60,35 +77,35 @@ There is plenty of advice on how to prepare each of these documents, so I will n
 
 == Strategy
 
-- general descriptive statistics of the applications sent
-  - Number of applications sent
-  - Types of positions (assistant prof, postdoc, other)
-  - Locations (US, Europe, Latin America, Asia, etc)
+I applied to 272 positions in total. With 198 (69.4%) for Assitant Professor (AP), 44 (16.1%) for Postdocs, and the rest a mixture of Lecturer and Industry positions.
 
-- Apply to everything
-  - According to #link("https://econ-jobs.com/media/academic-economics-job-market-is-contracting/")[Econ-Jobs.com], the econ academic job market has been in decline for a number of reasons, and the 2025-26 was the first post-covid to perform worse than the pandemic year.
-  - Even if the position is not a great fit (Finance dept. instead of Econ) let the committee decide if you are a good fit or not
-    - sometimes department just want an excellent candidate and not necessarily have in mind a field
-  - That said I did avoided some places: Middle East, China, and India.
+My main strategy was to apply broadly. Evidence that the academic economics job market is contracting (see #link("https://econ-jobs.com/media/academic-economics-job-market-is-contracting/")[Econ-Jobs.com] and #link("https://www.linkedin.com/posts/johnalist_aea-job-market-update-the-numbers-dont-activity-7407077665037381632-_vNX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEMbI8BtSc1yt88uuZBJ3Mj2fUPJCm4HEU")[John List's post]) suggested fewer and less predictable openings, so casting a wide net increased my chances of getting noticed. Even when a position did not appear to be a perfect fit (for example, a finance department instead of economics), I still applied and let the committee decide if I was a good match. Many departments prefer to hire an outstanding candidate even if the precise subfield differs. 
+
+@geo_apps shows the geographical distributions of applications I sent. I sent 140 applications to institutions in the U.S. + LATAM (51.5%) , 111 (40.8%) to Europe, 13 to Asia (predominatly Japan), 7 to Australia, and 1 to South Africa.
+I purpoisely avoided applying to add in China and the Middle East.
 
 #figure(caption: "Geographical distribution of my applications", placement: auto)[
   #image("figs/geo_apps.png")
 ] <geo_apps>
 
-- show a timeline of my applications
-  - cummulative applications sent by date
+@app_timeline, shows the timeline of my applications.
+I started to work on application materials in early September and sent my first batch of applications by mid-October.
+The most important deadline for applications is November 15 (solid black line), as many departments have this as their target deadline.#footnote[This is because most departments in the U.S. go over applications in Thanksgiving break, and will have  interviews by mid-December.]
+I also set up my own target deadlines (grey vertical lines) to have batches of applications ready.
+The idea is that you target 2-5 days before the advertized target deadline just have some leeway in case of technicals issues in the application procedures.
+
+Applications take time.
+@app_timeline also shows the number of applications I sent each day.
+You can see that I had days with 10+ applications sent, these were mostly 8 hours of applications with around 10 applications only using the AEA JOE or EJM platforms.#footnote[These platforms make the application process easier as you can upload all your documents once and then just select them for each application.]
+However, some institutions also require you to send the application through their own platform, which can be time consuming as you need to re-upload all documents and fill in personal information again.
+Create a LinkedIn profile! This will make it easier to autofill some of the personal information required in some of these platforms.
 
 #figure(caption: "Application Timeline", placement: auto)[
-  #image("figs/cumsum_apps.png", width: 80%)
+  #image("figs/cumsum_apps.png", width: 90%)
   #fig_notes(width: 90%)[
   The grey vertical lines represent the target deadlines that I sent myself to have a batch of apps ready. The most important deadline is November 15 represented by the solid black line.
   ]
 ] <app_timeline>
-
-- Set up deadlines before the advertized target deadlines.
-  - Most departments have a target deadline around mid-November (Nov 15)
-  - However, many departments will start reviewing applications as soon as they receive them
-  - The most I could do in a day was 20 applications
 
 == Set-up
 
@@ -122,69 +139,89 @@ Examples:
 #quote[My family and I are eager to *leave the United States*.
 We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment. We are also *willing to learn Japanese* as soon as possible to better integrate into the local culture and academic community]
 
-No need to tailor your Teaching Statement or your Research Statement
-Most positions outside of the U.S. do not even ask for these statements
-I started personalizing these but I genuinly think they don't care that much
-You will eventually talk about these topics in the interviews
+You do not need to over‑tailor your Teaching or Research statements. 
+Many non‑U.S. positions, most do not even request them and, when they are submitted, committees often give them only cursory attention.
+I personalized mine, but in practice hiring decisions tend to hinge more on the Job Market Paper and your interview performance, where these topics will surface naturally.
 
-Signals:
-Remember that you have 2 signals for the AEA JOE and 10 signal for the European Job Market (need to puit links)
+Use your *signals*.
+Remember that you have 2 signals for the #link("https://www.aeaweb.org/joe/signal")[AEA JOE] and 10 signal for the #link("https://www.europeanjobmarketofeconomists.org/job-listings")[EJME].
 The common advice here is that you send a signal where your committee does not know anyone AND that you think there is a chance they will hire you
 In other words, do not waste your signals in MIT, Harvard, Chicago, or top in EU
-However, I don't know if they did anything for me. No institutions I sent my signals to invited me to interview
+However, I don't know if they did anything for me. No institutions I sent my signals to invited me to interview, which is either I send the wrong signals or they don't care that much about them.
+That said, #link("https://david-schindler.de/")[David Schindler] has stated that European institutions do pay attention to signals.
+
+On the EJM you can link a 1‑minute JMP spiel; I uploaded one and it received about 60 views (roughly 40 from the EJM platform). That exposure generated some engagement and the exercise forced me to refine and rehearse a concise 1‑minute presentation, which is valuable practice for interviews.#footnote[A viewer appreciated that the video connected to my AI methodology.]
+
+#figure(caption: "Weekly Status", placement: auto)[
+  #image("figs/weekly_status.png", width: 90%)
+  #fig_notes(width: 90%)[
+    The count limit is set to 25 to emphasize the small activity/updates received. The total number of applications is 250+.
+    ]
+] <week_status>
 
 == Waiting
 
-RESIT the urge to check EconJobRumors!
-You will cave at one point, but note that because of the anonimity there is no way to verify the claims
-So usually what happens is that a small rumors starts to spiral out of control with plenty of anxious candidates in the discussion 
+Resist the urge to check EconJobRumors!
+You might cave once, but anonymous posts cannot be verified, and small rumours often spiral out of control, amplifying anxiety among candidates.
+Focus instead on reliable sources and your own preparations.
 
-#link("https://www.aeaweb.org/econtrack")[Econtrack] is a resource to keep track of the AEA JOE listing, but it's not a complete or good tracker
-HOWEVER, do not trust any updates without the check "verified by an official of this institution"
-Then any person with an account can update the status of a job to interviews, when in reality they are still processing applications
+#link("https://www.aeaweb.org/econtrack")[Econtrack] can be a useful aggregator for AEA JOE listings, but it is incomplete and sometimes unreliable because any user can change a job's status. Do not treat its updates as definitive unless an entry is explicitly "verified by an official of this institution".
+Use Econtrack for convenience, but keep your own tracker with links and timestamps and confirm key updates from institutional sources before acting on them.
 
-In contrast, I feel like the status from the EJM is more reliable
-You did not get an interview when the status changes to "Interview scheduling completed"
-That said, I do think that if you see "Scheduling interviews" and have not received an inteview invitation, there is a high prob. you did not make the cut
-Note that not all position use the EJM for interviews and some post might be "Reviewing applications" indefinetly
+In my experience the EJM status updates tend to be relatively reliable and can give you a useful signal about where a search stands. For example, when a job shows #highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white)["Interview scheduling completed"]] status it usually means the committee has moved to arranging interviews; if you see that status and have not received an invitation, there is a high probability you did not make the cut. Conversely, a visible #highlight(fill: rgb("#d52b8c"), top-edge: 1em)[#text(fill: white)["Scheduling interviews"]] without an invitation is likewise a strong signal you did not make the cut.
+
+That said, platforms vary and not every position uses EJM for scheduling or status updates. Some postings remain in #highlight(fill: rgb("#0e1fed"), top-edge: 1em)[#text(fill: white)["Reviewing applications"]] for long periods, and does not necessarily imply imminent they will send interview invites soon. 
+As an example, i received a postdoc interview invite from an institution whose EJM status remained in #highlight(fill: rgb("#0e1fed"), top-edge: 1em)[#text(fill: white)["Reviewing applications"]] until January.
+Because of these differences, the most reliable information is to ask if your advisor if they have a *close connection* in the institution and is willing to ask around.
 
 I started to recieve rejections in mid-November as you can see in @week_status.
 Most positions will not give you any news.
 So if you get to mid-December and the application target deadline has long passed, it is likely that you did not make it to the interview stage.
 In my case, 92% of all my applications did not receive any updates.
 
-#figure(caption: "Weekly Status", placement: auto)[
-  #image("figs/weekly_status.png", width: 80%)
-  #fig_notes(width: 90%)[
-    The count limit is set to 25 to emphasize the small activity/updates received. The total number of applications is 250+.
-    ]
-] <week_status>
+_What is you don't hear anything after mid-December?_
+In the 2025-26 cycle, the #link("https://www.europeanjobmarketofeconomists.org/about-ejme")[European Job Market for Economists (EJME)] urged departments to conduct virtual interviews between December 15 and December 18.
+The #link("https://www.aeaweb.org/news/guidance-25-26-job-market-sept-2-2025")[AEA JOE Committee] recommended that interviews should be held after December 3, when the signal went out.
+Therefore, it is likely you did not make it to the interview stage in this first round.
+This does not mean that you are doomed!
+
+There are 3 reasons why you can still have a chance.
+First, the timeline is a little different for postdoc positions. Some might want to wait for the AP positions to finish their matching, so they can pick from the remaining candidates.
+They have the incentive to do this since in general an offer from a AP position is more attractive than a postdoc.
+Second, some institutions also more later in the market.
+These departments have a similar incentive as postdocs, since an offer from a higher ranked institution is more attractive.
+Third, there is a #link("https://www.aeaweb.org/joe/scramble/")[market scramble] where unmatched institutions and candidates can find each other in March.
+Remember that you need to register to participate in the scramble so be on the lookout for the registration dates.#footnote[For the year 2025, the registration for both institutions and candidates was March 6-12.]
 
 #pagebreak()
 
 = Interviews
 
-I got my first interview invite at the end of November for an AP position in LATAM. By December 12 I have received 5 interview invites (2 AP, 2 Postdoc, 1 Consulting).
+I got my first interview invite at the end of November for an Assistant Professor (AP) position in LATAM.
+By December 12 I have received 5 interview invites (2 AP, 2 Postdoc, 1 Consulting).
+That means that only 5 out of my 272 applications (1.8%) resulted in an interview.
+#footnote[This is way bellow the rate reported by #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] where thye find people interview for 10-20% of the positions they apply to. However, their 80% of their sample comes from a top 50 institutions, pre-COVID times, and with a booming academic job market.]
+Almost all of my interviews virtually in December before the holiday break (before December $18^("th")$).
 
-In the 2025-26 cycle, the #link("https://www.europeanjobmarketofeconomists.org/about-ejme")[European Job Market for Economists (EJME)] urged departments to conduct virtual interviews between December 15 and December 18. Between this time I did not receive any interview invites from the EU, ...
+
 
 == Common Structure
 
-Assistant professor:
+*_Assistant professor:_* ($n=2$)
 + Talk about yout JMP (10mins)
 + Research Agenda (10mins)
 + Teaching Philosophy (5mins)
 + Why our department? (5mins)
 
-Postdocs:
+*_Postdocs:_* ($n=2$)
 + Talk about yout JMP (10mins)
 + Research Agenda in relations to project (5mins)
 + What skill can you bring to the proposed projects (10mins)
 + Why our project? (5mins)
 
-Apparently Industry jobs vary quite a lot depending on the firm (e.g. consulting or data-scince). #link("linkedin.com/in/mohsen-foroughifar-800350266")[Mohsen Foroughifar] put it best when talking about the Marketing Academic Job in his #link("https://www.linkedin.com/posts/mohsen-foroughifar-800350266_marketing-academic-job-market-post-5-activity-7406439233487433728-i2yI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEMbI8BtSc1yt88uuZBJ3Mj2fUPJCm4HEU")[LinkedIn post].
+*_Industry interviews_*vary quite a lot depending on the firm (e.g. consulting or data-scince). #link("linkedin.com/in/mohsen-foroughifar-800350266")[Mohsen Foroughifar] put it best when talking about the Marketing Academic Job in his #link("https://www.linkedin.com/posts/mohsen-foroughifar-800350266_marketing-academic-job-market-post-5-activity-7406439233487433728-i2yI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEMbI8BtSc1yt88uuZBJ3Mj2fUPJCm4HEU")[LinkedIn post].
 
-In my experience with #link("https://www.analysisgroup.com/")[Analysis Group], they were more interested in the econometric techniques and how I defended them than I expected.
+In my experience interviewing with #link("https://www.analysisgroup.com/")[Analysis Group], they focused more on econometric techniques and on how I defended them than I had expected; in other words, they were stricter about technical skills than I anticipated.
 My first-round interview followed this structure:
 
   + Talk about yout JMP (15mins)
@@ -194,60 +231,58 @@ My first-round interview followed this structure:
 
 == Advice
 
+Treat the interview as a conversation.
+Where you need to walk the fine line of having a perfect Job Market spiel combined with the flexibility to answer questions and adapt to the interviewers' interests.
+Although standard advice recommends having 1‑, 5‑, and 10‑minute versions of your JMP (the "onion" idea), I have found a clear 3–4 minute spiel works best for most interviews.
+It is short enough to hold attention yet long enough to convey the core contribution, identification, and main results.
+Practice this version until you can adjust depth on the fly depending on the audience, because interviewers will often interrupt with questions.
+Answer briefly, then steer them back to the main points you still want to make. Above all, sound genuinely excited about your research and about joining the department or postdoc project, and use concise, practiced phrases to highlight why your work and fit matter.
+
 Always start your JMP spiel with a version of the following:
 #quote[I am an `MAIN_FIELD` economist, working in the intersection of `SECOND_FIELD` and `THIRD_FIELD`. My JMP ...]
 
-This helps the committee to place you within the field, and understand better your work. So if you are answering a question used econometric methods, or a macro model, etc.
+This helps the committee to place you within the field, and understand better your work.
 
 #quote(attribution: [Javier Gonzalez])[I am an Applied economist, working in the intersection of Culture and Media. My JMP shows that when women grow up watching female empowered content on TV shows they are more likely to work as an adult ...]
 
-Although the advice is to have a 1min, 5min, and a 10m spiel of your JMP (onion idea) I have found that a good 3-4min version works best for most interviews.
-You can always adjust the depth of your explanation depending on the audience.
-They will most likely ask questions
+Practice your interview skills early and often. My own abilities improved dramatically after $7^("th")$ interview. 
+The first few are where you make most mistakes, learn to control your nerves, and refine your answers.
+Ask your department to organize mock interviews with faculty, talk with seminar speakers when possible, and practice with peers who are also on the market.
+The #link("https://asheweb.org/")[American Society of Hispanic Economists (ASHE)] sometimes offers mock interviews as well.
 
-The interviews should be more of a conversation.
-that means you need to have practiced your 3-4min spiel enough times so you can be flexible.
-the interviewrs might ask question in between, and if you have not hit all the point you wanted to make, take them back to your main points.
-This also means that you want to sound excited about your research and joining the department or project for postdoc
+Concrete evidence of what you have already done is a far stronger signal than what you only plan to do. If you are already working on an idea, place it within your broader field, describe the progress to date (drafts, preliminary results, datasets, code, or presentations), and state the next steps and an approximate timeline. Highlight tangible outputs that committees can verify.
 
-Practice your interview skills.
-You would be surprised how good my interview skills got after the 7th (counting mock interviews).
-You really make mistakes in the first few, and you learn to control your nerves.
-talk with speakers if your department allows it.
-beg the department to set up mock interviews with faculty.
-practice with peers that are also on the market. you can even ask me!
-#link("https://asheweb.org/")[American Society of Hispanic Economists (ASHE)] sometimes offers mock interviews
+If you have teaching experience, summarize it concisely and with metrics: courses taught, level (undergraduate/graduate), enrollment, notable innovations (new syllabus, active‑learning methods), and any evaluation scores or representative praise. 
 
-Stronger signal is alwasys what you have done, than what you plan to do.
-If you are already working on an idea, relate to it with you overall field and explain what do you have so far.
-If you have already been an instructor, comment on these experince
+In interviews, confidently highlight and *brag* about your relevant accomplishments. If you have published papers, let them know by summarizing their main contribution; if you were an instructor with strong evaluations, cite specific metrics or examples.
+Use these accomplishments as concrete evidence of your ability to deliver.
 
-In the interviews you are meant to impress the committee, so BRAG about your accomplishements whenever they are relevant.
-Meaning, if you have already published papers BRAG ABOUT THEM! Then talk about your future agenda.
-If you were an instructor with good evals, BRAG about it in the interview.
-If you have tons of teaching experience, BRAG about it in teaching schools
+When answering "Why our department/project/firm?" lead with personal reasons rather than only professional ones.
+Committees want to know you will be committed to living and working in their community.
+Briefly explain concrete personal motivations (for example, that you want to live in Europe rather than the U.S.) and add a concise reason to make the motivation believable and to complement the professional fit.
 
-When they ask if you have any questions it has been recommended to Say that you don't have any, but if you do that you will reach out and comment on your exciment for the position#footnote[Recommended by #link("https://spot.colorado.edu/~antmanf/")[Francisca Antman] and #link("https://david-schindler.de/")[David Schindler].].
-I also tried to show that I did my research before the position:
-- The videos introducing the department to undergraduate has good production value
-- The research agenda of the postdoc is exciting because of ...
-
-EXCEPTION: if you are in an industry interview, do ask questions
-I mainly asked about the specifics of the position or job
-    - What does a _Associate (Generalist)_ mean?
-    - How much autonomy will I have to take cases?
-    - Are there cases of new hires who failed to build up a reputation?
-
-For the question Why our department/project/firm?.
-Personal reasons > Profesional reasons.
-It is more informative that you want to live in EU rather than the U.S. for EU postions (with a reason).
 These are some of the examples I used:
 
-- Family objectives
+- Family objectives (e.g. what do we want for our newborn daughter)
 - Have _relatively close_ family in the area 
 - Co-authors or alumni in your network are in the area
 
 #quote(attribution: [Javier Gonzalez])[I want my newborn daugther to grow up immersed in the Latin American culture ... I also have two SMU alumni living in the city ...]
+
+When they ask if you have any questions it has been recommended to Say that you don't have any, but if you do that you will reach out and comment on your exciment for the position. #footnote[Recommended by #link("https://spot.colorado.edu/~antmanf/")[Francisca Antman] and #link("https://david-schindler.de/")[David Schindler].]
+I also tried to show that I did my research before the position:
+
+- The videos introducing the department to undergraduate has good production value ...
+- The research agenda of the postdoc is exciting because of ...
+
+If you are in an industry or consulting interview, do ask questions
+I mainly asked about the specifics of the position or job in my interview with #link("https://www.analysisgroup.com/")[Analysis Group]:
+
+    - What does a _Associate (Generalist)_ mean?
+    - How much autonomy will I have to take cases?
+    - Are there cases of new hires who failed to build up a reputation?
+
+
 
 Regularly communicate with your advisor. they will know the best strategy to move forward.
 they will give you some advice on how to answer specific questions. 
@@ -257,18 +292,33 @@ keep it short and sweet.
 if you made a mistake in the interview, you can use this opportunity to correct it (try to do this a couple hours after the interview).
 reiterate your exciment for the position
 
+== Waiting
+
+At this point you will hear back from all postions you interviewed for and let you know if you are invited to fly-outs.
+They should typically let you know within 1-2 weeks after the interview.
+
+Same advice applies as before, prioritize your mental health, get some work done if you can (it will make you feel productive), and *avoid* EconJobRumors at all cost.
+
 #pagebreak()
 
 = Fly-outs
 
+I got 2 fly-out invitations. One AP position in LATAM and one Postdoc in Australia. This ends up being a 40% conversion rate from interviews to fly-outs.#footnote[This rate is similar to what #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] found.]
+
 == Common Structure
 
+For regular AP positions:
 
+blah blah blah ...
+
+Since COVID, some institutions have moved to a online fly-out, where you sit down on your computer and have 1-1 meetings with faculty and present your job market paper virtually.
 
 Postdoc:
 No common structure here and will depends on the projects/team. In my case I had to present my JMP in 1 hour to the team (4 people).
 
 == Advice
+
+Here there will be more logistic to take into consideration
 
 Similar to the interviews, do not have your prefered place first.
 You gain experience and practice with each fly-out. 
@@ -279,13 +329,33 @@ As soon as you get a fly-out invitation, tell your advisor.
 Politics now play a huge role and you want to send the best signals possible to maximize your offer chances.
 Your advisor will help you navigate this process.
 
+I was suggested to always arrive a day before the fly-out invitation and hopefully morning or midday
+This is to not have time pressure if you miss a connection or flight.
+At the end the hotel will be payed for the night, so no need to save the department's money here.
+
+== Waiting
+
+At this point you did all you can. That means that this will be the most stressful and emotional part of the market.
+
+Prioritize your mental health. 
+
+As remember what my M.A. advisor told me: 
+
+#quote(attribution: [#link("https://sites.google.com/site/franciscoparro1")[Francisco Parro]])[All you need to have is one offer. When you get one, you know for sure that you will have a [job] next year.]
+
 #pagebreak()
 
 = Reflexions: What made my profile attractive?
 
-- Willing to relocate anywhere
-  - this is particularly hard for those with significant others or family
-  - I know there are resources for those who enter the market as a couple, I do not have this experince so please refer to other resoruces.
-- Novel method of AI applied to my research question
-- My committe was pushing me within their networks
-  - They called their networks and sent emails to make them look at your CV
+Several concrete factors made my profile more attractive than it might have looked on paper.
+First, I was explicit about my willingness to relocate anywhere, which broadened the set of institutions that considered me seriously.
+I recognize this is a difficult ask for candidates with partners or families; being open to relocation is a signal that you will accept a wider variety of offers, but it also comes with real costs.
+If you are in a dual‑career situation, seek out resources and advice on partner hiring and relocation support early, and communicate constraints clearly when appropriate.#footnote[#link("https://www.aeaweb.org/content/file?id=869")[John Cawley's guide] dicusses this in more detail.]
+
+Second, my job‑market profile emphasized a novel AI‑based methodology applied to a traditional economics question.
+The timing, when many departments were actively exploring applied AI, meant committees were sometimes willing to take a chance on a candidate from a lower‑ranked program if the work brought fresh tools and perspectives.
+Having clear, reproducible code, concise explanations of identification and robustness, and a one‑paragraph elevator pitch about why the method matters for the substantive question helped reduce perceived risk and made the contribution easier to evaluate.
+
+Finally, strong advocacy from my committee amplified these signals. My advisors actively promoted my work within their networks by making introductions, forwarding my CV, and flagging my job‑market paper to colleagues who might be hiring.
+Those personal endorsements translated into more careful consideration from search committees and, in some cases, direct invites to interview.
+In combination, explicit geographic flexibility, a timely methodological edge, and proactive committee outreach materially improved how hiring committees perceived my candidacy.
