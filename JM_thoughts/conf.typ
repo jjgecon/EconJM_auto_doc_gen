@@ -51,7 +51,7 @@
   ]
   // Author
   align(center)[
-    by #text(size: 10pt, style: "italic")[#author#footnote(numbering: "*")[ #h(0.1cm)#thanks]] $-$ #link( "https://jjgecon.github.io/" )[ (website) ]  $-$ #link( "https://jjgecon.github.io/" )[ (latest version) ] $-$ #datetime.today().display()
+    by #text(size: 10pt, style: "italic")[#author#footnote(numbering: "*")[ #h(0.1cm)#thanks]] $-$ #link( "https://jjgecon.github.io/" )[ (website) ]  $-$ #link( "https://github.com/jjgecon/EconJM_auto_doc_gen/blob/master/JM_thoughts/JavierGonzalez_JM_Tips.pdf" )[ (latest version) ] $-$ #datetime.today().display()
   ]
 
   v(.4cm)
