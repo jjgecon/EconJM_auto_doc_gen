@@ -233,6 +233,10 @@ Examples:
 #quote[My family and I are eager to *leave the United States*.
 We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment. We are also *willing to learn Japanese* as soon as possible to better integrate into the local culture and academic community]
 
+#highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white)[#smallcaps[IMPORTANT]]]: If you are female, you have to think through if you want to disclose family information in your cover letter, interviews, and fly-outs.
+In my case, a family signaled that I wanted to leave the US and find a career elsewhere with my starting family, where most people in the search committee can relate with.
+Some people who will read the same phrase for a female candidate might think that she will need tenure clock extension or maternity leave in the near future, which might potentially hurt your chances.
+
 You do not need to tailor your Teaching or Research statements. 
 Many non‑U.S. positions do not even request them.
 I personalized mine, but in practice hiring decisions tend to hinge more on the Job Market Paper and your interview performance, where these topics will surface naturally.
@@ -297,10 +301,11 @@ Remember that you need to register to participate in the scramble so be on the l
 = Interviews
 
 I got my first interview invite at the end of November for an Assistant Professor (AP) position in LATAM.
-In total, I have received 9 interview invites (5 AP, 3 Postdoc, 1 Consulting).
-That means that only 9 out of my 272 applications (3.3%) resulted in an interview.
+In total, I have received 10 interview invites (5 AP, 4 Postdoc, 1 Consulting).
+That means that only 10 out of my 272 applications (3.7%) resulted in an interview.
 #footnote[This is way bellow the rate reported by #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] where they find people interview for 10-20% of the positions they apply to. However, 80% of their sample comes from a top 50 institutions, pre-COVID times, and with a booming academic job market.]
 I participated in five interviews virtually in December before the holiday break (before December $18^("th")$), and the rest interviews where held in December and early January.
+#footnote[Even some postdoc position sent an interview invitation on January $26^"th"$.]
 
 #figure(caption: "Weekly Status")[
   #image("figs/weekly_status.png", width: 90%)
@@ -441,7 +446,13 @@ If you made a mistake in the interview, you can use this opportunity to correct 
 #footnote[This happened in almost all of my interviews, and I feel they appreciated the clarification.]
 Remember to reiterate your excitement for the position.
 
-Now, since most of the interviews will be online, make sure to have a good quality webcam and microphone. #link("https://www.economics.harvard.edu/sites/g/files/omnuum5991/files/econ/files/zoom_interview_guide.pdf")[Claudia Golding and Lawrence F Katz] have some good tips in how to do a great Zoom interview. #link("https://jjgecon.github.io/assets/resources/zoom_talk_tips.pdf")[Ben Golub and Shengwu Li] has some tips on how to set up your environment for online interviews.
+Most of the interviews will be online, make sure to have a good quality webcam and microphone. #link("https://www.economics.harvard.edu/sites/g/files/omnuum5991/files/econ/files/zoom_interview_guide.pdf")[Claudia Golding and Lawrence F Katz] have some good tips in how to do a great Zoom interview. #link("https://jjgecon.github.io/assets/resources/zoom_talk_tips.pdf")[Ben Golub and Shengwu Li] has some tips on how to set up your environment for online interviews.
+
+#highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white)[#smallcaps[IMPORTANT]]]: If you are female, it is *ilegal* for any search committee to ask you about your family plans during the interview.
+#footnote[At least for E.U. institutions.]
+They might infer this information from other questions, but you are not obligated to answer these type of questions.
+Always be polite, and if you feel uncomfortable with any question, you can always deflect it or say that you prefer not to answer it.
+Remember that some people in search committees might want to discriminate agaisnt you if you plan to have children in the near future, so be mindfull on what information you want to disclose.
 
 == Waiting
 
@@ -460,6 +471,7 @@ Where they commented that I was _waitlisted_ for a fly-out, which can either be 
 If more than 2 weeks have passed since your interview, you can reach out to the contact person (usually the admin or the chair of the committee) to ask for an update on the status of your application.
 
 Same advice applies as before. Prioritize your mental health and *avoid* EconJobRumors.
+
 I also suggest that you try to be a little bit productive during this waiting period.
 This does not mean that you have to solely work on your JMP or dissertation.
 I for instance, didn't get a lot of free time to do some work, outside of preparing and polishing my job market talks.
@@ -474,7 +486,6 @@ In one particular fly-out, I cited 2-3 of these new papers which related to my w
 Congrats!
 You made it to the final stage. Getting a fly-out invitation means that you are a finalist, but you are still competing with other 5-6 candidates for the position.
 To put things into perspective, I was competing with candiates from Standford, UC Berkeley, Minnesota, Northwestern, and UT Austin (all top U.S. schools) for a fly-out in a LATAM high ranked econ. department.
-#footnote[A way to scope out your competition is to check the _seminar_ series of the department you are flying out to. Candidates will present their work in these seminars and the department need to advertize the events to students and other faculty through public channels. #highlight(fill: red)[#text(fill: white, size: 1.2em)[#smallcaps("warning")]] I do not recocomend this because you might get in your own head and it might affect your performance in the fly-out itself.]
 
 I got 3 fly-out invitations. Two AP position in LATAM and one Postdoc in Australia. This ends up being a 34% conversion rate from interviews to fly-outs.
 #footnote[This rate is similar to what #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] found.]
@@ -562,12 +573,28 @@ Try to have the presentation on a pendrive, that way you avoid most technical is
 That said, also keep other copies of that presentation in your email, cloud storage, even phone that you can easily access.
 #link("https://www.aeaweb.org/content/file?id=869")[John Cawley's guide] even describes a horror story where the candidate needed to fish for her pendrive in an elevator shute.
 
+A way to scope out your competition is to check the _seminar_ series of the department you are flying out to. Candidates will present their work in these seminars and the department need to advertize the events to students and other faculty through public channels. #highlight(fill: red)[#text(fill: white, size: 1.2em)[#smallcaps("warning")]] I do not recocomend to do this before the fly-out because you might get in your own head and it might affect your performance in the fly-out itself.
+
 == Waiting
 
 At this point you did all you can.
 That means that this will be the most stressful and emotional part of the market.
 Because, you are waiting to hear if you got an offer or not and at this point is completly out of your control. 
 #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] finds that around the probability of receiving an offer after a fly-out is around 50%.
+
+Another tool, bur always use with #highlight(fill: red)[#text(fill: white, size: 1.2em)[#smallcaps("caution")]].
+I tried to give all the facts about the interviews and fly-outs to an LLM to guage my chances of an offer.
+Note that these models are more *optimistic than reality*, but it can give you some reasons as to why there is  adelay on the news and maybe suggest when it's the rigth time to reach out for an update.
+In some cases, it also helped in challenging some of my assumptions with the given data.
+For instance, some of the reasons for a delay for my favorite place was that they were still deliberating internally, and that offers will not go out soon because they needed to be cleared by the administration of the university.
+This was later confirmed by a conctact of my advisor in that same University.
+
+To get the best out of the models performance try to follow these tips: 
+
++ Give all the information without priming for an interpretation (e.g. avoid "X can be a good thing because ...")
++ After the prompt you can always ask it to make a critical review of their reasons/hyphothesis
++ When the models get's a fact wrong, correct it!
++ Try to keep the chats short. If the answers start to be repetitive or does not update with new information, reset the chat by adding the extra info to the starting prompt.
 
 *Prioritize your mental health!*
 

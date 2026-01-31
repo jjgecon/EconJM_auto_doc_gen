@@ -46,7 +46,7 @@ LLM prompts
 
 - For Job add use 
     ```
-    summarize the job add in a few bullet points. Prioritize the attributes, qualitites they look for in a candidate
+    summarize the job add in a few bullet points. Prioritize the attributes*, qualitites they look for in a candidate
     ```
 
 - For the isntitutional values use 
