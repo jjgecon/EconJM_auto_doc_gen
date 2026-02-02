@@ -103,6 +103,7 @@ Before the market#footnote[Hopefully during the 3rd or 4th year of your Ph.D.] e
 Attend regional conferences and workshops to build relationships with faculty who can later tell the hiring committees so they _at least_ take a look at your application.
 For example, if you want to target the Spanish market, prioritize attending the #link("https://asesec.org/simposio-de-la-asociacion-espanola-de-economia/")[Simposio de la Asociación Española de Economía (AEE)] and use that opportunity to meet potential connections in person.
 #footnote[If you are an SMU student, remember that you have a budget of \$1000 for conference travel with the #link("https://www.smu.edu/moody/funding/moody-grad-student-travel-grant")[Graduate Student Travel Grant] from the Moody school.]
+If you are a Latin American student, consider attenting the #link("https://www.lacea.org/")[Latin American and Caribbean Economic Association (LACEA)] annual meeting.
 
 _How should you start networking at these events?_ 
 Approach presenters after their talk and asking a question about their work.
@@ -448,6 +449,11 @@ Remember to reiterate your excitement for the position.
 
 Most of the interviews will be online, make sure to have a good quality webcam and microphone. #link("https://www.economics.harvard.edu/sites/g/files/omnuum5991/files/econ/files/zoom_interview_guide.pdf")[Claudia Golding and Lawrence F Katz] have some good tips in how to do a great Zoom interview. #link("https://jjgecon.github.io/assets/resources/zoom_talk_tips.pdf")[Ben Golub and Shengwu Li] has some tips on how to set up your environment for online interviews.
 
+Keep both your website AND the department's website about job market candidates updated! Interviewers will either use your website or the department's website to prepare for the interview.
+This might happen because the department's website is higher ranked in Google search results, than your website.
+#footnote[This is why they recommend to generate a lot of traffic to your personal website with your existing social network. That way, when committee search for your proflie with "FIRST_NAME LAST_NAME econ" you want to appear in the first results.]
+In my experience, during a fly-out interview the professor was looking at the department's website rather than mine and had older information.
+
 #highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white)[#smallcaps[IMPORTANT]]]: If you are female, it is *ilegal* for any search committee to ask you about your family plans during the interview.
 #footnote[At least for E.U. institutions.]
 They might infer this information from other questions, but you are not obligated to answer these type of questions.
@@ -638,6 +644,9 @@ I recognize this is a difficult ask for candidates with partners or families; be
 Second, my job‑market profile emphasized a novel AI‑based methodology applied to a traditional economics question.
 The timing, when many departments were actively exploring applied AI, meant committees were sometimes willing to take a chance on a candidate from a lower‑ranked program if the work brought fresh tools and perspectives.
 This _novel_ and popular toolset helped me land the postdoc fly-outs, where they needed researchers with Natural Language Processing skills to contribute to their projects.
+
+Thrid, I was able to have several publications before the job market.
+#todo[expand pubs point]
 
 Finally, strong advocacy from my committee amplified these signals. My advisors actively promoted my work within their networks by making introductions, forwarding my CV, and flagging my job‑market paper to colleagues who might be hiring.
 Those personal endorsements translated into more careful consideration from search committees and, in some cases, direct invites to interview.
