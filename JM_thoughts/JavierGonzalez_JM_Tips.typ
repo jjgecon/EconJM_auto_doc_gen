@@ -1,5 +1,5 @@
 #import "conf.typ": *
-#import "@preview/dashy-todo:0.1.3": todo
+#import "@preview/dashy-todo:0.1.3": todo 
 
 #outline(title: "TODOs", target: figure.where(kind: "todo"))
 
@@ -21,27 +21,29 @@ I found the following resources particularly helpful:
 - #link("https://res.org.uk/event-listing/european-job-market-for-economists/?utm_campaign=Dotdigital&utm_medium=email&utm_source=Royal%20Economic%20Society&dm_i=7O8I,2D6GZ,61HKR5,4O6T9,1")[European Job Market for Economists (EJME)] with #link("https://www.europeanjobmarketofeconomists.org/guides-candidates-recruiters")[Guides for Candidates and workshops]
 
 *Housekeeping*
-
 The advice in the _Advice_ sections are in no particular order.
 
-I will skip the _offer bargaining_ stage as I don't think I can add to the discussion. Please refer #link("https://www.aeaweb.org/content/file?id=869")[John Cawley's guide] and always seek advice from your advisor.
+I will skip the _offer bargaining_ and the _market scramble_ stages as I have nothing valuable to offer. Please refer #link("https://www.aeaweb.org/content/file?id=869")[John Cawley's guide] and always seek advice from your advisor if you are in any of those stages.
 
-The examples of my answers will be around a _quote_ block, so you can easily identify them, like the following
-
+The examples of my answers will be displayed on a _quote_ block, so you can easily identify them:
 #quote(attribution: [Javier Gonzalez])[My future research will be dedicated to expanding this methodological pipeline ...]
 
 This document is sort of informal, so please excuse any typos or grammatical horrors and unclear phrasing.
 
 If you have any comments or suggestions don't hesitate to contact me.
 
-*Aknowledgement*
+#v(1fr)
 
-Special thanks to #link("https://www.linkedin.com/in/fernanda-da-silva-3a8b60142?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FNzHz67rSPOOBvYSa6ODLA%3D%3D")[Fernanda Da Silva] for encouranging me to write down this document so that other SMU students can be more informed while navigating the job market.
-It also served me as a personal journal to reflect on my own experience, a way to keep my sanity, and keept me occupied in the waiting periods of each stage.
+#line(length: 100%, stroke: .1pt)
 
+#text(size:.85em)[
+  *Aknowledgements*
+  Special thanks to #link("https://www.linkedin.com/in/fernanda-da-silva-3a8b60142?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FNzHz67rSPOOBvYSa6ODLA%3D%3D")[Fernanda Da Silva] for encouranging me to write down this document so that other SMU students can be more informed while navigating the job market.
+  It also served me as a personal journal to reflect on my own experience, a way to keep my sanity, and keept me occupied in the waiting periods of each stage.
 
-
-*Declaration of generative AI and AI-assisted technologies*: During the preparation of this work the author used generative AI models (e.g. Gemini) in order to check grammar and spelling, search for related literature, and coding support. After using this tool/service,the author reviewed and edited the content as needed and take full responsibility for the content.
+  *Declaration of generative AI and AI-assisted technologies*
+  During the preparation of this work the author used generative AI models (e.g. Gemini) in order to check grammar and spelling, search for related literature, and coding support. After using this tool/service,the author reviewed and edited the content as needed and take full responsibility for the content.
+]
 
 #pagebreak()
 
@@ -166,7 +168,7 @@ There is plenty of advice on how to prepare each of these documents, so I will n
 
 == Strategy
 
-I targeted to apply to 272 positions in total. With 198 (69.4%) for Assitant Professor (AP), 44 (16.1%) for Postdocs, and the rest a mixture of Lecturer, Industry, and Non-profit positions.
+I targeted to apply to 272#todo[update application numbers] positions in total. With 198 (69.4%) for Assitant Professor (AP), 44 (16.1%) for Postdocs, and the rest a mixture of Lecturer, Industry, and Non-profit positions.
 
 My main strategy was to apply broadly.
 #footnote[This was also the advice from almost everyone I talked to, including my advisor.]
@@ -197,7 +199,7 @@ The idea is that you target 2-5 days before the advertized target deadline just 
 #figure(caption: "Application Timeline", placement: auto)[
   #image("figs/cumsum_apps.png", width: 90%)
   #fig_notes(width: 90%)[
-  The grey vertical lines represent the target deadlines that I sent myself to have a batch of apps ready. The most important deadline is November 15 represented by the solid black line.
+  The grey vertical lines represent the target deadlines that I sent myself to have a batch of apps ready. The most important deadline is November 15 represented by the solid black line.#todo[add a line for when I decided to stop the search completly]
   ]
 ] <app_timeline>
 
@@ -302,7 +304,7 @@ Remember that you need to register to participate in the scramble so be on the l
 = Interviews
 
 I got my first interview invite at the end of November for an Assistant Professor (AP) position in LATAM.
-In total, I have received 10 interview invites (5 AP, 4 Postdoc, 1 Consulting).
+In total, I have received 10#todo[update interview invitation numbers] interview invites (5 AP, 4 Postdoc, 1 Consulting).
 That means that only 10 out of my 272 applications (3.7%) resulted in an interview.
 #footnote[This is way bellow the rate reported by #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] where they find people interview for 10-20% of the positions they apply to. However, 80% of their sample comes from a top 50 institutions, pre-COVID times, and with a booming academic job market.]
 I participated in five interviews virtually in December before the holiday break (before December $18^("th")$), and the rest interviews where held in December and early January.
@@ -336,7 +338,7 @@ Example 1:
 Example 2\*:
 + Present a paper close to the project (15mins)
 + What potential ideas or projects for the agenda? (5mins)
-+ Questions (Xmins)
++ Questions (10mins)
 
 _\*After this type of interview there was no fly-out._
 
@@ -493,7 +495,7 @@ Congrats!
 You made it to the final stage. Getting a fly-out invitation means that you are a finalist, but you are still competing with other 5-6 candidates for the position.
 To put things into perspective, I was competing with candiates from Standford, UC Berkeley, Minnesota, Northwestern, and UT Austin (all top U.S. schools) for a fly-out in a LATAM high ranked econ. department.
 
-I got 3 fly-out invitations. Two AP position in LATAM and one Postdoc in Australia. This ends up being a 34% conversion rate from interviews to fly-outs.
+I got 3#todo[update the numberof fly-out you have received] fly-out invitations. Two AP position in LATAM and one Postdoc in Australia. This ends up being a 34% conversion rate from interviews to fly-outs.
 #footnote[This rate is similar to what #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] found.]
 
 The fly-out invitations came around 1-2 weeks after the interview.
@@ -591,11 +593,14 @@ Because, you are waiting to hear if you got an offer or not and at this point is
 Another tool, bur always use with #highlight(fill: red)[#text(fill: white, size: 1.2em)[#smallcaps("caution")]].
 I tried to give all the facts about the interviews and fly-outs to an LLM to guage my chances of an offer.
 Note that these models are more *optimistic than reality*, but it can give you some reasons as to why there is  adelay on the news and maybe suggest when it's the rigth time to reach out for an update.
-In some cases, it also helped in challenging some of my assumptions with the given data.
-For instance, some of the reasons for a delay for my favorite place was that they were still deliberating internally, and that offers will not go out soon because they needed to be cleared by the administration of the university.
-This was later confirmed by a conctact of my advisor in that same University.
+In some cases, it can help to you to understand like institutional constraints, search commmitee's strategy, or the subtle political language of the email exchanges.
+However, the best information you can get about your status is by asking your contact in the committee or make your advisor contact someone in their network who is part of the same institution to see if they heard a _rumor_ about the search status.
 
 To get the best out of the models performance try to follow these tips: 
+
++ On the prompt use this start: 
+  
+  `I need help to understand the chances of receiving an offer from a fly-out. Please be critical in your analysis. Here is the information I have about my interviews and fly-outs: ...`
 
 + Give all the information without priming for an interpretation (e.g. avoid "X can be a good thing because ...")
 + After the prompt you can always ask it to make a critical review of their reasons/hyphothesis
@@ -612,22 +617,51 @@ My M.A. advisor told me (in the context of Ph.D. applications) the following:
 
 = Offers
 
-I received XXX offers.#todo[fix this number]
-Thus the conversion rate from fly-outs to offers is about 67%.#todo[change if needed]
+I received XXX offers.#todo[update number of offers]
+Thus the conversion rate from fly-outs to offers is about YY%.
 
 @offer_timeline shows all the offers I received. My first offers came by xxxxxx#todo[change date when first offer is received] and ended , as suggested by @app_timeline.
+
+Now, I have to bring some #text(fill: p_red)[bad news] for those in lower ranked schools looking for Assistant Professor position.
+If you reached the fly-out stage and you have competition from higher ranked schools (or even top 10), the committee deems that your research quality is on par with those candidates.
+However, this is where the marginal gain of prestige really hits you hard.
+If you signal that you really want to be in that department, that means that you become a _safety_ candidate for the committee.
+In other words, they know that if they make you an offer you will mot likely accept it.
+#footnote[I still recommend that you play the card of "I really want to be in this department" because without it you might not even get to the  fly-out stage to begin with.]
+In turn, this makes the higher ranked candidates more of a _reach_, taking from the university applications lingo, and the strategy of the committee is to make an offer to the _reach_ candidate and if they reject it, then they will make an offer to the _safety_ candidate.
+The reason is simple, they need to tell the university that they had a new hire and "MIT" looks way better than "SMU".
+#footnote[There are other non-observable differences like a conection to the department at MIT rather than SMU, which can also be an strategic play (as higher ranked schools tend to also have editors of top journals, etc).]
+
+There is a sliver of hope for us in lower ranked schools. Prestige doesn't play a role in postdoc positions.
+They mostly care that you have the skills to contribute to their projects, and that you are a good fit for the team.
+
+The decision of which offer to choose is very personal.
+However, a key varaible in this decision is the timing.
+You will likely need to face the trade-off between accepting an offer early, or rejecting a for sure offer in the hope of getting a better one later.
+This gets further complicated if you receive an offer from a postdoc postion, while in the process of interview/fly-outs to AP positions.
+In my case, #todo()[talk about the timing of when I decided stop the search and posible postdoc + AP?]
 
 #figure(caption: "My Offers")[
   #set text(size:0.95em)
   #table(columns:5,
   [Institution], [School],[Position],[Date],[Deadline],
-  [Pontificia Universidad Catolica],[Government],[Assistant Professor],[01/27/2026],[01/30/2026],
-  [UNSW at Sydney],[Economics],[Postdoc],[02/03/2026],[02/12/2026],
+  [Universidad de los Andes],[Economics],[Assistant Professor],[02/27/2026],[],
+  [UNSW at Sydney],[Economics],[Postdoc],[02/14/2026],[],
   )
-  #todo[update the whole table ]
+  #todo[update the whole table offers table]
 ] <offer_timeline>
 
-I will skip the _Advice_ in the bargaining stage as I don't think I can add to the discussion.
+Rejections at this stage hurt a lot, especially from places I was very excited about and had high hopes.
+
+I think there were a couple things that made it easier for me to move on.
+First, I notified my family, advisor, and close friends and after talking with them I felt better. 
+They let me voice all my frustration with the process and breaking the news made it materialize more and easier to let go.
+Second, I drafted a email to answer to the rejection emails that same day, but I did not send it. 
+The idea is that you stop thinking to much about the rejection and will help you move on.
+On that same idea, I quickly put the name of the instituion on my #link("https://jjgecon.github.io/assets/JGonzalez_cv_fails.pdf")[CV of Failures] which again helped me to not overthink and focus on other processes.
+
+
+I don't really have any advice for the bargaining stage.
 Please refer #link("https://www.aeaweb.org/content/file?id=869")[John Cawley's guide] and always seek advice from your advisor and committee.
 
 #pagebreak()
