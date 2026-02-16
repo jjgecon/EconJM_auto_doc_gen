@@ -65,3 +65,21 @@ Before running the jupyter notebook, please follow the instructions to completly
 - I'm using `gpt-4.1-mini`, but you might benefir from more expensive models.
     - this can be modified within the notebook.
 - The templates only render when in `output_docs` due to the file path to the SMU logo. You can change the folder structure so that templates can also be compiled in the `template/` folder.
+
+# Connecting to Jupyter Notebook with VSCode
+
+1. Need to modify the following lines in the `.vscode/settings.json`
+
+    ```
+        "python.defaultInterpreterPath": "${workspaceFolder}/automatization/.venv/bin/python",
+        "python.terminal.activateEnvironment": true,
+        "python-envs.pythonProjects": []
+    ```
+
+    This will ensure that you can see the default environment
+
+2. Then use the command pallete and select the `Python: Select Interpreter`
+
+3. Once in here, select the option `Use Python from "python.defaultInterpreterPath" setting`
+
+4. The you can then select the Kernel in the Jupyter Notebook

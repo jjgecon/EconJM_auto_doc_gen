@@ -261,6 +261,10 @@ On the EJM you can link a 1‑minute JMP spiel.
 I uploaded one and it received about 60 views, with over 70% of the views coming from a link in the frontpage of my website.
 That exposure generated _some_ engagement and the exercise forced me to refine and rehearse a concise 1‑minute presentation, which is valuable practice for interviews.#footnote[A viewer appreciated that the video connected to my AI methodology.]
 
+Unless you have accepted an offer, do not stop applying to positions.
+As you can see in @app_timeline, I took a brake of application in January, but I tried to restart it in February.
+In February, I found a postdoc position that could have been a good match, but by february the January deadline passed.
+
 == Waiting
 
 Resist the urge to check EconJobRumors!
@@ -585,12 +589,19 @@ A way to scope out your competition is to check the _seminar_ series of the depa
 
 == Waiting
 
-At this point you did all you can.
-That means that this will be the most stressful and emotional part of the market.
-Because, you are waiting to hear if you got an offer or not and at this point is completly out of your control. 
-#link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] finds that around the probability of receiving an offer after a fly-out is around 50%.
+Not going to sugar coat it. This is the worst waiting period. Because silence in this case can mean anything: offer, waiting list for the offer, or just the committee doesn't want to get rid of you in case everyone else bails out.
+Beign optimistic, it can mean that they have selected you for the position and is just an administrative delay.
+At the same time, it can also mean that you are not the prefered candidate, but you are the runner-up.
+Meaning that they are waiting to see if the prefered candidate accepts the offer, and if they don't, they will offer you the position.
+In this case they have the incentive to keep you waiting and most likely will not tell you any updates.
+SOme search committees even have the policy of not telling someone that is ranked last in their fly-out list for the position, becuase search committee want insurance against the case of a failed search.
+So there is a lot of waiting and uncertainty during this period where silence in this last stage that can mean from you got the offer, or if the first round rejects you get it, or we are keeping you in the dark just in case everyone rejects our offer.
 
-Another tool, bur always use with #highlight(fill: red)[#text(fill: white, size: 1.2em)[#smallcaps("caution")]].
+However, at this point you did all you can and whether you get an offer or not and at this point is completly out of your control. 
+And statistics might be on our side, #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] finds that around the probability of receiving an offer after a fly-out is around 50%.
+
+#highlight(fill: red)[#text(fill: white, size: 1.2em)[#smallcaps("caution")]].
+There is another tool that can help you reason about yoru chance in the silence, which is LLMS.
 I tried to give all the facts about the interviews and fly-outs to an LLM to guage my chances of an offer.
 Note that these models are more *optimistic than reality*, but it can give you some reasons as to why there is  adelay on the news and maybe suggest when it's the rigth time to reach out for an update.
 In some cases, it can help to you to understand like institutional constraints, search commmitee's strategy, or the subtle political language of the email exchanges.
@@ -632,8 +643,25 @@ In turn, this makes the higher ranked candidates more of a _reach_, taking from 
 The reason is simple, they need to tell the university that they had a new hire and "MIT" looks way better than "SMU".
 #footnote[There are other non-observable differences like a conection to the department at MIT rather than SMU, which can also be an strategic play (as higher ranked schools tend to also have editors of top journals, etc).]
 
-There is a sliver of hope for us in lower ranked schools. Prestige doesn't play a role in postdoc positions.
+The hardest part of this whole process is to receive the news that they have offered the position to someone else but you where a close second.
+#footnote[Yes, even harderd that the waiting part after the fly-out.]
+I understand that this signal quality of my research, but second place does not get you a job, and it is really hard to accept that you were not the prefered candidate for the position.
+Again, because we are from SMU this is a fact that job market candidates from lower ranked schools will have to face.
+
+There is a sliver of hope for us in lower ranked schools.
+Prestige doesn't play a role in postdoc positions.
 They mostly care that you have the skills to contribute to their projects, and that you are a good fit for the team.
+
+Now, how can you cope withthe waiting and the rejections at this stage?
+I think a coupleof things worked.
+First, I tried to be productive and focus on other processes.
+At this point, i have already received a montain of feedback for my paper and wanted to implement some of the feedback that would make my paper to be published in a better journal, so I focused on that.
+Productive does not necessarily mean working on your research, it can be anything that makes you feel good and that you can control.
+Working out, miniature painting, talkingwith classmates, go n dates with your siginificant other, play with your pets.
+If you can get outside do it!
+Second, I disabled email notifications in my phone and limited myself to check my email only once a day, and only after I had done some work on my research. 
+This helped with the anxiety of receiving an email notifcation.
+At the end of the day, ifyou receive the offer email will always be there for the next time you check your email.
 
 The decision of which offer to choose is very personal.
 However, a key varaible in this decision is the timing.

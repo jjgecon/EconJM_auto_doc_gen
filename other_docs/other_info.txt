@@ -31,6 +31,7 @@ Klaus Desmet
 Southern Methodist University
 Ruth and Kenneth Altshuler Centennial Interdisciplinary Professor
 klaus.desmet@gmail.com 
+Ruth and Kenneth Altshuler Centennial Interdisciplinary Professor
 mgovia@smu.edu
 214-768-2689
 
@@ -45,7 +46,7 @@ LLM prompts
 
 - For Job add use 
     ```
-    summarize the job add in a few bullet points. Prioritize the attributes*, qualitites they look for in a candidate
+    summarize the job add in a few bullet points. Prioritize the attributes, qualitites they look for in a candidate
     ```
 
 - For the isntitutional values use 

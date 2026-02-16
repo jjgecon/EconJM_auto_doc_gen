@@ -1,7 +1,10 @@
 {
     "workbench.colorCustomizations": {
-        "activityBar.background": "#093515",
-        "titleBar.activeBackground": "#0D4A1D",
-        "titleBar.activeForeground": "#F3FDF6"
-    }
+        "activityBar.background": "#462326",
+        "titleBar.activeBackground": "#633135",
+        "titleBar.activeForeground": "#FCF9F9"
+    },
+    "python.defaultInterpreterPath": "${workspaceFolder}/automatization/.venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python-envs.pythonProjects": []
 }

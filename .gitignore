@@ -3,3 +3,4 @@ output_docs/
 app_context/
 .venv/
 temp/
+.vscode/
