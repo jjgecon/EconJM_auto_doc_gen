@@ -168,7 +168,7 @@ There is plenty of advice on how to prepare each of these documents, so I will n
 
 == Strategy
 
-I targeted to apply to 272#todo[update application numbers] positions in total. With 198 (69.4%) for Assitant Professor (AP), 44 (16.1%) for Postdocs, and the rest a mixture of Lecturer, Industry, and Non-profit positions.
+I targeted to apply to 308 positions in total. With 198 (69.4%) for Assitant Professor (AP), 44 (16.1%) for Postdocs, and the rest a mixture of Lecturer, Industry, and Non-profit positions.
 
 My main strategy was to apply broadly.
 #footnote[This was also the advice from almost everyone I talked to, including my advisor.]
@@ -194,12 +194,18 @@ The most important deadline for applications is November 15 (solid black line), 
 I also set up my own target deadlines (grey dashed vertical lines) to have batches of applications ready.
 The idea is that you target 2-5 days before the advertized target deadline just have some leeway in case of technicals issues in the application procedures.
 
-
+It is important that you constantly send applications.
+Check both EJM and AEA JOEevery couple of weeks for new positions.
+Even with the busy interview/fly out season of January and February, new positions for post-docs and stagered AP positions can pop up.
+As you can see in @app_timeline, I took a brake of application in January, and in hindsight it was a mistake.
+However, I did restart the applications in Late January and Early February.
+#footnote[The main trigger for this was an awesome AP position in LATAM that I ended up beign a runner up for the offer.]
+In my case, the position which ultimatly offer me a job was from a postdoc position that I found in February.
 
 #figure(caption: "Application Timeline", placement: auto)[
   #image("figs/cumsum_apps.png", width: 90%)
   #fig_notes(width: 90%)[
-  The grey vertical lines represent the target deadlines that I sent myself to have a batch of apps ready. The most important deadline is November 15 represented by the solid black line.#todo[add a line for when I decided to stop the search completly]
+  The grey vertical lines represent the target deadlines that I sent myself to have a batch of apps ready. The most important deadline is November 15 represented by the solid black line.
   ]
 ] <app_timeline>
 
@@ -308,10 +314,10 @@ Remember that you need to register to participate in the scramble so be on the l
 = Interviews
 
 I got my first interview invite at the end of November for an Assistant Professor (AP) position in LATAM.
-In total, I have received 10#todo[update interview invitation numbers] interview invites (5 AP, 4 Postdoc, 1 Consulting).
-That means that only 10 out of my 272 applications (3.7%) resulted in an interview.
+In total, I have received 13 interview invites (5 AP, 7 Postdoc, 1 Consulting).
+That means that only 13 out of my 308 applications (4.2%) resulted in an interview.
 #footnote[This is way bellow the rate reported by #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] where they find people interview for 10-20% of the positions they apply to. However, 80% of their sample comes from a top 50 institutions, pre-COVID times, and with a booming academic job market.]
-I participated in five interviews virtually in December before the holiday break (before December $18^("th")$), and the rest interviews where held in December and early January.
+I participated in five interviews virtually in December before the holiday break (before December $18^("th")$), and the rest interviews where held in December, early January, and even February.
 #footnote[Even some postdoc position sent an interview invitation on January $26^"th"$.]
 
 #figure(caption: "Weekly Status")[
@@ -499,8 +505,11 @@ Congrats!
 You made it to the final stage. Getting a fly-out invitation means that you are a finalist, but you are still competing with other 5-6 candidates for the position.
 To put things into perspective, I was competing with candiates from Standford, UC Berkeley, Minnesota, Northwestern, and UT Austin (all top U.S. schools) for a fly-out in a LATAM high ranked econ. department.
 
-I got 3#todo[update the numberof fly-out you have received] fly-out invitations. Two AP position in LATAM and one Postdoc in Australia. This ends up being a 34% conversion rate from interviews to fly-outs.
+I got several fly-out invitations. Two AP position in LATAM and several postdocs in Australia, France, and Switzerland.
+This ends up being a XX% #todo[calculate this conversion rate] conversion rate from interviews to fly-outs.
 #footnote[This rate is similar to what #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] found.]
+
+Note that for Postdocs, the fly-out stage is often skipped. They either just inteview you, or make you do a preentation to understand your research agenda.
 
 The fly-out invitations came around 1-2 weeks after the interview.
 #footnote[One of my fly-out invitations came on the same week. However, the did mention they wanted to finish the search before February.]
@@ -587,6 +596,17 @@ That said, also keep other copies of that presentation in your email, cloud stor
 
 A way to scope out your competition is to check the _seminar_ series of the department you are flying out to. Candidates will present their work in these seminars and the department need to advertize the events to students and other faculty through public channels. #highlight(fill: red)[#text(fill: white, size: 1.2em)[#smallcaps("warning")]] I do not recocomend to do this before the fly-out because you might get in your own head and it might affect your performance in the fly-out itself.
 
+In this final stage, either on AP position or post-docs, disregard the advice to not ask questions about the prospect.
+Here asking question showsd that you are interested in the position.
+Asuming you come from a low ranked school as myself, you need to play the interested card really well, as it can give you the edge over higher ranked candidates.So ask questions about the organization of the post-doc, the tenure-track requirements, teaching load, salary expectations, how is it to live with your family, easy access to healthcare or childcare, etc.
+
+Once you get the invitation for a fly-out the offers seems to be so close and you start to how would it look like if you accepted an offer from that institution.
+So you get overly excited about the prospect of moving there.
+This is normal, and arguably will help you to show your enthusiam while you are in the fly-out.
+But, it is also normal that you get a sort of reality check when your chances of getting an offer are not as high as you expected.
+Remember that a fly-out is just the last stage of the process in whch you have control over, but that does not imply that you will have an inminent offer.
+So know that getting excited is normal as well as beign let down when you do not get the offer.
+
 == Waiting
 
 Not going to sugar coat it. This is the worst waiting period. Because silence in this case can mean anything: offer, waiting list for the offer, or just the committee doesn't want to get rid of you in case everyone else bails out.
@@ -629,9 +649,9 @@ My M.A. advisor told me (in the context of Ph.D. applications) the following:
 = Offers
 
 I received XXX offers.#todo[update number of offers]
-Thus the conversion rate from fly-outs to offers is about YY%.
+Thus the conversion rate from fly-outs from all positions to offers is about YY%.#footnote[I'm including those postdocs, where I passed the original shortlist and advances to the interview/job talk stage.]
 
-@offer_timeline shows all the offers I received. My first offers came by xxxxxx#todo[change date when first offer is received] and ended , as suggested by @app_timeline.
+My first offer came by February 20$""^("th")$ and ended it pretty much ended my aplications, as suggested by @app_timeline.
 
 Now, I have to bring some #text(fill: p_red)[bad news] for those in lower ranked schools looking for Assistant Professor position.
 If you reached the fly-out stage and you have competition from higher ranked schools (or even top 10), the committee deems that your research quality is on par with those candidates.
@@ -652,41 +672,42 @@ There is a sliver of hope for us in lower ranked schools.
 Prestige doesn't play a role in postdoc positions.
 They mostly care that you have the skills to contribute to their projects, and that you are a good fit for the team.
 
-Now, how can you cope withthe waiting and the rejections at this stage?
-I think a coupleof things worked.
-First, I tried to be productive and focus on other processes.
-At this point, i have already received a montain of feedback for my paper and wanted to implement some of the feedback that would make my paper to be published in a better journal, so I focused on that.
-Productive does not necessarily mean working on your research, it can be anything that makes you feel good and that you can control.
-Working out, miniature painting, talkingwith classmates, go n dates with your siginificant other, play with your pets.
-If you can get outside do it!
-Second, I disabled email notifications in my phone and limited myself to check my email only once a day, and only after I had done some work on my research. 
-This helped with the anxiety of receiving an email notifcation.
-At the end of the day, ifyou receive the offer email will always be there for the next time you check your email.
-
 The decision of which offer to choose is very personal.
 However, a key varaible in this decision is the timing.
 You will likely need to face the trade-off between accepting an offer early, or rejecting a for sure offer in the hope of getting a better one later.
 This gets further complicated if you receive an offer from a postdoc postion, while in the process of interview/fly-outs to AP positions.
-In my case, #todo()[talk about the timing of when I decided stop the search and posible postdoc + AP?]
+In my case, I received a posstdoc postion at a top institution in the EU, but I was still in the process of interviewing for AP positions in LATAM.
+I decided that I would accept the postdoc offer, even if I had the chance to get an AP position, because the extra research experience and the prestige of the postdoc would increase my chances of getting a better AP position in the next job market cycle in EU.
 
-#figure(caption: "My Offers")[
-  #set text(size:0.95em)
-  #table(columns:5,
-  [Institution], [School],[Position],[Date],[Deadline],
-  [Universidad de los Andes],[Economics],[Assistant Professor],[02/27/2026],[],
-  [UNSW at Sydney],[Economics],[Postdoc],[02/14/2026],[],
-  )
-  #todo[update the whole table offers table]
-] <offer_timeline>
+// #figure(caption: "My Offers")[
+//   #set text(size:0.95em)
+//   #table(columns:5,
+//   [Institution], [School],[Position],[Date],[Deadline],
+//   [Universidad de los Andes],[Economics],[Assistant Professor],[02/27/2026],[],
+//   [UNSW at Sydney],[Economics],[Postdoc],[02/14/2026],[],
+//   )
+//   #todo[update the whole table offers table]
+// ] <offer_timeline>
 
 Rejections at this stage hurt a lot, especially from places I was very excited about and had high hopes.
-
 I think there were a couple things that made it easier for me to move on.
+
 First, I notified my family, advisor, and close friends and after talking with them I felt better. 
 They let me voice all my frustration with the process and breaking the news made it materialize more and easier to let go.
+
 Second, I drafted a email to answer to the rejection emails that same day, but I did not send it. 
 The idea is that you stop thinking to much about the rejection and will help you move on.
 On that same idea, I quickly put the name of the instituion on my #link("https://jjgecon.github.io/assets/JGonzalez_cv_fails.pdf")[CV of Failures] which again helped me to not overthink and focus on other processes.
+
+Third, I tried to be productive and focus on other processes.
+At this point, I have already received a montain of feedback for my paper and wanted to implement some of the feedback that would make my paper to be published in a better journal, so I focused on that.
+Productive does not necessarily mean working on your research, it can be anything that makes you feel good and that you can control.
+Working out, miniature painting, talkingwith classmates, go n dates with your siginificant other, play with your pets.
+If you can get outside do it!
+
+Fourth, I disabled email notifications in my phone and limited myself to check my email only once a day, and only after I had done some work on my research. 
+This helped with the anxiety of receiving an email notifcation.
+At the end of the day, ifyou receive the offer email will always be there for the next time you check your email.
 
 
 I don't really have any advice for the bargaining stage.

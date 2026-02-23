@@ -68,6 +68,8 @@ Before running the jupyter notebook, please follow the instructions to completly
 
 # Connecting to Jupyter Notebook with VSCode
 
+## MacOS
+
 1. Need to modify the following lines in the `.vscode/settings.json`
 
     ```
@@ -83,3 +85,13 @@ Before running the jupyter notebook, please follow the instructions to completly
 3. Once in here, select the option `Use Python from "python.defaultInterpreterPath" setting`
 
 4. The you can then select the Kernel in the Jupyter Notebook
+
+## Windows
+
+In Windows it appears that you need to get into `Scripts`
+
+1. Then use the command pallete and select the `Python: Select Interpreter`
+
+2. Enter path to interpreter
+
+3. Select the `python.exe` in `Scritps/python.exe`
