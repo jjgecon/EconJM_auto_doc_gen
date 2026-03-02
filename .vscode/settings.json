@@ -2,7 +2,15 @@
     "workbench.colorCustomizations": {
         "activityBar.background": "#462326",
         "titleBar.activeBackground": "#633135",
-        "titleBar.activeForeground": "#FCF9F9"
+        "titleBar.activeForeground": "#FCF9F9",
+        "titleBar.inactiveBackground": "#462326",
+        "titleBar.inactiveForeground": "#281416",
+        "statusBar.background": "#542A2D",
+        "statusBar.foreground": "#FCFAFA",
+        "statusBar.debuggingBackground": "#542A2D",
+        "statusBar.debuggingForeground": "#FCFAFA",
+        "statusBar.noFolderBackground": "#542A2D",
+        "statusBar.noFolderForeground": "#FCFAFA"
     },
     "python.defaultInterpreterPath": "${workspaceFolder}/automatization/.venv/bin/python",
     "python.terminal.activateEnvironment": true,
