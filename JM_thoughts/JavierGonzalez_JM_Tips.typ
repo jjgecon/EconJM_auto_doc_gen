@@ -1,8 +1,6 @@
 #import "conf.typ": *
 #import "@preview/dashy-todo:0.1.3": todo 
 
-#outline(title: "TODOs", target: figure.where(kind: "todo"))
-
 #show: conf.with(
   title: "The Hidden Curriculum of the Econ Job Market",
   author: "Javier Gonzalez",
@@ -168,13 +166,13 @@ There is plenty of advice on how to prepare each of these documents, so I will n
 
 == Strategy
 
-I targeted to apply to 308 positions in total. With 198 (69.4%) for Assitant Professor (AP), 44 (16.1%) for Postdocs, and the rest a mixture of Lecturer, Industry, and Non-profit positions.
+I targeted to apply to 308 positions in total. With 213 (69.2%) for Assitant Professor (AP), 57 (18.5%) for Postdocs, and the rest a mixture of Lecturer, Industry, and Non-profit positions.
 
 My main strategy was to apply broadly.
 #footnote[This was also the advice from almost everyone I talked to, including my advisor.]
 The academic economics job market is contracting (see #link("https://econ-jobs.com/media/academic-economics-job-market-is-contracting/")[Econ-Jobs.com] and #link("https://www.linkedin.com/posts/johnalist_aea-job-market-update-the-numbers-dont-activity-7407077665037381632-_vNX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEMbI8BtSc1yt88uuZBJ3Mj2fUPJCm4HEU")[John List's post]) with fewer and less predictable openings. 
 Even when a position did not appear to be a good fit (e.g. a finance department instead of economics), I still sent an application.
-Many departments prefer to hire an outstanding candidate even if they are expert of another related field. @geo_apps shows the geographical distributions of applications of my applications. I sent 140 applications to institutions in the U.S. and LATAM (51.5%) , 111 (40.8%) to Europe, 13 to Asia (predominatly Japan), 7 to Australia, and 1 to South Africa.
+Many departments prefer to hire an outstanding candidate even if they are expert of another related field. @geo_apps shows the geographical distributions of applications of my applications. I sent applications to institutions in the U.S. and LATAM (51.5%) ,  (40.8%) to Europe, to Asia (predominatly Japan), 7 to Australia, and 1 to South Africa.
 #footnote[I purposely avoided applying to any job postings in China and the Middle East. These are places I wouldn't want to move to even if I got the offer.]
 
 #figure(caption: "Geographical distribution of my applications", placement: auto)[
@@ -506,7 +504,7 @@ You made it to the final stage. Getting a fly-out invitation means that you are 
 To put things into perspective, I was competing with candiates from Standford, UC Berkeley, Minnesota, Northwestern, and UT Austin (all top U.S. schools) for a fly-out in a LATAM high ranked econ. department.
 
 I got several fly-out invitations. Two AP position in LATAM and several postdocs in Australia, France, and Switzerland.
-This ends up being a XX% #todo[calculate this conversion rate] conversion rate from interviews to fly-outs.
+This ends up being a 30% conversion rate from interviews to fly-outs.
 #footnote[This rate is similar to what #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] found.]
 
 Note that for Postdocs, the fly-out stage is often skipped. They either just inteview you, or make you do a preentation to understand your research agenda.
@@ -648,10 +646,9 @@ My M.A. advisor told me (in the context of Ph.D. applications) the following:
 
 = Offers
 
-I received XXX offers.#todo[update number of offers]
-Thus the conversion rate from fly-outs from all positions to offers is about YY%.#footnote[I'm including those postdocs, where I passed the original shortlist and advances to the interview/job talk stage.]
-
 My first offer came by February 20$""^("th")$ and ended it pretty much ended my aplications, as suggested by @app_timeline.
+Thus the conversion rate from fly-outs from all positions to offers is about 25%.#footnote[I'm including those postdocs, where I passed the original shortlist and advances to the interview/job talk stage.]
+Why I stoped? because the offer dominated almost all other opportunities, and it came after achieving second place in two of the other processes.
 
 Now, I have to bring some #text(fill: p_red)[bad news] for those in lower ranked schools looking for Assistant Professor position.
 If you reached the fly-out stage and you have competition from higher ranked schools (or even top 10), the committee deems that your research quality is on par with those candidates.
@@ -728,8 +725,10 @@ Second, my job‑market profile emphasized a novel AI‑based methodology applie
 The timing, when many departments were actively exploring applied AI, meant committees were sometimes willing to take a chance on a candidate from a lower‑ranked program if the work brought fresh tools and perspectives.
 This _novel_ and popular toolset helped me land the postdoc fly-outs, where they needed researchers with Natural Language Processing skills to contribute to their projects.
 
-Thrid, I was able to have several publications before the job market.
-#todo[expand pubs point]
+Third, I was able to have several publications before the job market.
+I managed to publish my Master's thesis with the help of my advisor, and I participated in the #link("https://www.i4replication.org/")[Improving Replication in Economics (I4R)] initiative.
+This resulted in two publications: a replication study co-authored with my current advisor, and a meta-analysis paper in _Nature_ from the I4R games examining patterns across multiple replications.
+These publications signaled research maturity and collaborative capability to hiring committees. Being open to co-authoring opportunities and academic initiatives, can unexpectedly yield publications and visibility that strengthen your job market profile.
 
 Finally, strong advocacy from my committee amplified these signals. My advisors actively promoted my work within their networks by making introductions, forwarding my CV, and flagging my job‑market paper to colleagues who might be hiring.
 Those personal endorsements translated into more careful consideration from search committees and, in some cases, direct invites to interview.
