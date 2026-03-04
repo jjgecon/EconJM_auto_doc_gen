@@ -6,29 +6,30 @@
   author: "Javier Gonzalez",
 )
 
-Despite the abundance of guides, webinars, and official resources, I found that much of the advice available was shaped by pre-COVID experiences or tailored to candidates from top-ranked institutions. These "hidden curriculum" elements include not just the logistics of applications and interviews, but also the subtle expectations, networking strategies, and unspoken norms that can make a significant difference in outcomes. My goal here is to complement the current advice with the experience of a candidate from a lower-ranked school.
+Despite the abundance of guides, webinars, and official resources, I found that much of the advice for the economics academic job market was shaped by pre-COVID experiences or tailored to candidates from top-ranked institutions. My goal here is to complement the current advice with the experience of a candidate from a lower-ranked school.
 
-Take the advice in this document with a grain of salt, as this is my personal experience on the job market in the 2025-26 cycle as a Ph.D. Economics Candidate from Southern Methodist University.
+Take the advice in this document with a grain of salt, as this is my personal experience on the job market in the 2025-26 cycle as a Ph.D. Economics candidate from Southern Methodist University.
 
 I found the following resources particularly helpful:
 
-- #link("https://www.aeaweb.org/content/file?id=869")[_A Guide and Advice for economists on the U.S. Junior Academic Job Market 2018-2019_] by John Cawley (outdated but with usefull information)
+- #link("https://www.aeaweb.org/content/file?id=869")[_A Guide and Advice for Economists on the U.S. Junior Academic Job Market 2018-2019_] by John Cawley (outdated but with useful information)
 - #link("https://www.aeaweb.org/resources/students/grad-prep/job-market")[AEA Prep. Job Market Resources]
 - #link("https://www.aeaweb.org/about-aea/committees/job-market")[AEA JOE Committee on the Job Market] videos and documents
 - #link("https://econjobmarket.org/videos")[EJM Informational discussions and webinars]
 - #link("https://res.org.uk/event-listing/european-job-market-for-economists/?utm_campaign=Dotdigital&utm_medium=email&utm_source=Royal%20Economic%20Society&dm_i=7O8I,2D6GZ,61HKR5,4O6T9,1")[European Job Market for Economists (EJME)] with #link("https://www.europeanjobmarketofeconomists.org/guides-candidates-recruiters")[Guides for Candidates and workshops]
 
 *Housekeeping*
+
 The advice in the _Advice_ sections are in no particular order.
 
-I will skip the _offer bargaining_ and the _market scramble_ stages as I have nothing valuable to offer. Please refer #link("https://www.aeaweb.org/content/file?id=869")[John Cawley's guide] and always seek advice from your advisor if you are in any of those stages.
+I did not participate in the _offer bargaining_ and the _market scramble_ stages, and so I cannot provide firsthand experience from those stages. Please refer #link("https://www.aeaweb.org/content/file?id=869")[John Cawley's guide] and always seek advice from your advisor if you are in any of those stages.
 
 The examples of my answers will be displayed on a _quote_ block, so you can easily identify them:
 #quote(attribution: [Javier Gonzalez])[My future research will be dedicated to expanding this methodological pipeline ...]
 
-This document is sort of informal, so please excuse any typos or grammatical horrors and unclear phrasing.
+This document is somewhat informal, so please excuse any typos, grammatical errors, or unclear phrasing.
+I will be slowly working on it before August 2026.
 
-If you have any comments or suggestions don't hesitate to contact me.
 
 #v(1fr)
 
@@ -36,7 +37,7 @@ If you have any comments or suggestions don't hesitate to contact me.
 
 #text(size:.85em)[
   *Aknowledgements*
-  Special thanks to #link("https://www.linkedin.com/in/fernanda-da-silva-3a8b60142?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FNzHz67rSPOOBvYSa6ODLA%3D%3D")[Fernanda Da Silva] for encouranging me to write down this document so that other SMU students can be more informed while navigating the job market.
+  Special thanks to #link("https://www.linkedin.com/in/fernanda-da-silva-3a8b60142?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FNzHz67rSPOOBvYSa6ODLA%3D%3D")[Fernanda Da Silva] for encouranging me to write down this document.
   It also served me as a personal journal to reflect on my own experience, a way to keep my sanity, and keept me occupied in the waiting periods of each stage.
 
   *Declaration of generative AI and AI-assisted technologies*
@@ -51,101 +52,105 @@ If you have any comments or suggestions don't hesitate to contact me.
 
 = Preparing Applications
 
-The econ job market is a tirering and grouling marathon.
+The econ job market is a grueling marathon.
 
-It "starts" in the summer before the market opens (June or July), where you need to assess if you are ready for the market and if you want to participate in the next cycle.
-Talk with your advisor and committee members to get their feedback on your readiness.
+It "starts" in the summer before the market opens (June or July), when you need to assess if you are ready for the market and if you want to participate in the next cycle.
+Talk with your advisor and committee members to determine if you are ready.
 
-Your Job Market Paper should be finished by August before the market.
-This means a _polished_ draft with all pieces, figures, and tables.
+Your Job Market Paper should be finished by August, before the market.
+This means a _polished_ draft with all the figures, tables, and analyses ready.
 
-In September you will start preparing the material so that you and your letter writters are ready to send hundrends of applications.
+In September, you will start preparing the material so that you are ready to send hundreds of applications and your letter writers have enough time to write you strong letters of recommendation.
 
-October and November will be spent on sending applications.
-You will have zero time to work on your JMP during this time.
-In my case, I just had my firstborn daughter in September, which served as a good commitment device to have everything in order before her arrival.
+October and November will be spent sending applications.
+You will have zero time to work on your JMP during this period.
+In my case, I had my firstborn daughter in September, which served as a good commitment device to have everything in order before her arrival.
 
-December is where you would have the bulk of your interviews.
+December is when you will have the bulk of your interviews.
 
-By January and Febreuary you will be waiting and doing fly-outs.
+By January and February, you will be waiting and doing fly-outs.
 
-Lastly, by February and March you should have some offers. And now need to decide between offers, and most likely forgo some departments that moved slower than you wanted.
+Lastly, by February and March you should have some offers, where you need to decide between them, and most likely forgo some departments that moved slower than you wanted.
 
 This means that the actual market, not counting the preparation, lasts around *6 months*.
 
-It is a *wierd* period, with a mix of *anxiousness* and *excitement* for all the attention your work will receive.
-You will be anxiously waiting for interviews, fly-outs, and then waiting for offers.
+It is a *weird* period, with a mix of anxiety and excitement for all the attention your work will receive.
+You will be anxiously waiting for interviews, fly-outs, and then offers.
 You might have the opportunity to travel, but with a big job market presentation in mind.
-All the while you are in the middle of the end of the year holidays.
-#footnote[I was invited for an interview invitation on the $23^"th"$ and having an interview on the $29^"th"$.]
-And depending on your application strategy, this is also a time where the world seems to be extremely open, but that comes with the uncertainty that you don't know in which country you will end up next couple of years.
+All the while, you are in the middle of the end-of-year holidays.
+#footnote[I was invited for an interview on the $23^"rd"$ and had an interview on the $29^"th"$.]
+And depending on your application strategy, this is also a time when the world seems to be extremely open, but that comes with the uncertainty of not knowing in which country you will end up in the next couple of years.
 
-So it's specially important that you find ways to stay focused.
-In my case, I had a newborn daugther which kept my mind occupied.
-But, this also meant that I couldn't exercise as much as I wanted to, which is my main way to relieve stress.
-Talking about what I'm thinking to my wife, helped me stay sane during this period.
-Journaling can also help, as this document served as a journal of my experience in the market.
-I would suggest you remember what were the things you did while preparing and waiting for the answers of the first year qualifiers, as you will be in a _somewhat_ similar stress situation.
+So it's especially important that you find ways to stay focused.
+In my case, I had a newborn daughter, which kept my mind somewhat occupied.
+But this also meant that I couldn't exercise as much as I wanted to, which is my main way to relieve stress.
+Talking about what I was thinking to my wife helped me stay sane during this period.
+Journaling also helps, as this document served as a journal of my experience in the market.
+I would suggest you remember what you did while preparing and waiting for the first-year qualifier results, as you will be in a _somewhat_ similar stressful situation.
+
 Lastly, try to give yourself grace.
 In other words, do not be too hard on yourself if things do not go as planned.
-
-You will have a bad interview, have the worst presentation of your life during a fly-out, or have not received any interview invites before mid-December.
+#footnote[This is way easier said than done. I myself struggled when I received two second-place updates (that is, the first round of offers went to someone else).]
+You will have a bad interview, have the worst presentation of your life during a fly-out, or not receive any interview invites before mid-December.
 You will overthink every little detail of your application package, interview, and fly-out.
-Best you accept, see how can you make a minor improvement, and move on.
-Remember that practice makes perfect and other junior candidates are in the same boat as you are.
-
+It's best to accept it, see how you can make a minor improvement, and move on.
+Remember that practice makes perfect, and other junior candidates are in the same boat as you are.
+#footnote[There are others who will not be in the same boat as you. For a typical Assistant Professor (AP) position, you will also compete with candidates who are in postdocs or more senior AP positions.]
 == Advice
 
-Your network and your advisor's network are key to get interviews.
+Your network and your advisor's network are key to getting interviews.
 This is the time to use the network you have been building during your academic career.
 
-Before the market#footnote[Hopefully during the 3rd or 4th year of your Ph.D.] expand your network strategically by connecting with people who work in the markets you want to target (e.i. Associate Professors in EU if you want to target the EU market).
+Before the market, expand your network strategically by connecting with people who work in the markets you want to target (e.g., Associate Professors in the EU if you want to target the EU market).
+#footnote[Hopefully during the 3rd or 4th year of your Ph.D.]
 Attend regional conferences and workshops to build relationships with faculty who can later tell the hiring committees so they _at least_ take a look at your application.
 For example, if you want to target the Spanish market, prioritize attending the #link("https://asesec.org/simposio-de-la-asociacion-espanola-de-economia/")[Simposio de la Asociación Española de Economía (AEE)] and use that opportunity to meet potential connections in person.
 #footnote[If you are an SMU student, remember that you have a budget of \$1000 for conference travel with the #link("https://www.smu.edu/moody/funding/moody-grad-student-travel-grant")[Graduate Student Travel Grant] from the Moody school.]
-If you are a Latin American student, consider attenting the #link("https://www.lacea.org/")[Latin American and Caribbean Economic Association (LACEA)] annual meeting.
+If you are a Latin American student, consider attending the #link("https://www.lacea.org/")[Latin American and Caribbean Economic Association (LACEA)] annual meeting.
 
 _How should you start networking at these events?_ 
-Approach presenters after their talk and asking a question about their work.
+Approach presenters after their talk and ask them a question about their work.
 These naturally lead to longer conversations.
-You can also seek out people with similar backgrounds (for example, if you share language, culture, or even region) as a natural way to establish rapport and enter discussions.
+You can also seek out people with similar backgrounds (for example, if you share language, culture, or even region) as a natural way to start a conversation.
 
-Your advisor should be reaching out to his network in places they have connections and you have applied to.
-#link("https://www.linkedin.com/posts/maxerdemandi_academicjobmarket-phdjobmarket-academiccareers-activity-7406702145112162304-WtQA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEMbI8BtSc1yt88uuZBJ3Mj2fUPJCm4HEU")[Max Erdemandi's LinkedIn post] explains that recognized institutions such as Duke can have a far reach by broadcasting their candidates in LinkedIn or even in the faculty or alumni's network.
-For smaller or lower ranked institutions the reach is limited.
-This responsability now falls in your committee, specially your advisor.
-The best way to approach your advisor so they push for you is to be direct. Just ask: 
+Your advisor should be reaching out to their network in places where they have connections and you have applied.
+#link("https://www.linkedin.com/posts/maxerdemandi_academicjobmarket-phdjobmarket-academiccareers-activity-7406702145112162304-WtQA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEMbI8BtSc1yt88uuZBJ3Mj2fUPJCm4HEU")[Max Erdemandi's LinkedIn post] explains that recognized institutions such as Duke can have a far reach by broadcasting their candidates on LinkedIn or even in the faculty or alumni's network.
+For smaller or lower-ranked institutions, the reach is limited.
+This responsibility now falls on your committee, especially your advisor.
+The best way to approach your advisor is to be direct. Just ask: 
 #quote["Would you be willing to reach out to your network for those institutions that I am applying to? Where do you have connections? Which ones are you willing to contact on my behalf?"]
-They will then let you know if there are some limitations to who/where they can reach out.
-Don't forget to also reach out to MA advisor or letter writers for the Ph.D. that might be willing to help you.
+They will then let you know if there are some limitations to whom/where they can reach out.
+Don't forget to also reach out to your MA advisor or letter writers for the Ph.D. who might be willing to help you.
 
-Make sure your committee and/or letter writers know if you will participate on the market by *September*.
-_Who should be your letter writters? _
-#text(fill: gradient.linear(..color.map.crest,), weight: "medium")[Your advisor should be one of the letter writters], and you can chose the other 2 or 3 letter writers.
+Make sure your committee and/or letter writers know if you will participate in the market by *September*.
+_Who should be your letter writers? _
+#text(fill: gradient.linear(..color.map.crest,), weight: "medium")[Your advisor should be one of the letter writers], and you can choose the other 2 or 3 letter writers.
 They can be from the committee or not.
 
-Be strategic, choose people who know you well, can write a strong letter of recommendation, and hopefully describe you in different ways. 
-My letter writers where: (i) my advisor, (ii) a committee member who knew my research well and my work as a research assistant, (iii) and another committee member who could vouch for my teaching skills and experience.
+Be strategic: choose people who know you well, can write a strong letter of recommendation, and hopefully describe you in different ways. 
+My letter writers were: (i) my advisor, (ii) a committee member who knew my research well and my work as a research assistant, and (iii) another committee member who could vouch for my teaching skills and experience.
 
-The letter writers need time to write you a good letter, so let them know as early as September, so they can have the letters ready by mid-October.
-There are 3 potential ways that they can send the letters (in order of inconvenience for them):
-+ They upload the letter directly to the platforms (e.g. AEA JOE, EJM, Interfolio) and you then just select them when applying to each position.#footnote[There is an option in AEA JOE and EJM where each letter writter can assign an administrator, but we found that this was cumbersome, and the best way is just to let them know where they need to upload to these platforms. Make sure they select the option to automatically send the letters to each request in these platforms.]
-+ They will send the letters to an administrator. #footnote[The Graduate Advisor was in charge of this at SMU at that time.] Then you would communicate with this administrator for the best way for them to send the letters. Sometimes you just replace the letter's writer email with the administrator email in the application platform. Other times, they will require to send them by email, so you will need to coordinate with the administrator to make sure they send the letters on time.
-+ They send you the letters directly, and you upload them to each application. This is the most inconvenient for them, so try to avoid this if possible. Remember that professors are busy people, and during the end of the fall semester they might have many things going on.
+The letter writers need time to write you a good letter.
+Let them know as early as September, so they can have the letters ready by mid-October.
+There are three potential ways that they can send the letters (in order of inconvenience for them):
+
++ They upload the letter directly to the platforms (e.g., AEA JOE, EJM, Interfolio), and you then just select them when applying to each position.#footnote[There is an option in AEA JOE and EJM where each letter writer can assign an administrator, but we found that this was cumbersome, and the best way is just to let them know where they need to upload to these platforms. Make sure they select the option to automatically send the letters to each request in these platforms.]
++ They will send the letters to an administrator. #footnote[The Graduate Advisor was in charge of this at SMU at that time.] Then you would communicate with this administrator for the best way for them to send the letters. Sometimes you just replace the letter writer's email with the administrator's email in the application platform. Other times, they will require you to send them by email, so you will need to coordinate with the administrator to make sure they send the letters on time.
++ They send you the letters directly, and you upload them to each application. This is the most inconvenient for them, so try to avoid this if possible. Remember that professors are busy people, and during the end of the fall semester they might have many things going on.#footnote[Letters of recommendation are meant to be confidential, so this approach might be uncomfortable for the letter writers.]
 
 Create your academic website early.
-Use a ready-made template and host it on GitHub Pages to save time.
+Use a ready-made template and host it on GitHub Pages to save time and money.
 Follow the #link("https://github.com/academicpages/academicpages.github.io")[academicpages] guide to get a clean, professional site up quickly.
 Use an LLM to draft and update content instead of learning HTML and CSS from scratch.
-Display the essentials information in the first or landing page (e.g. CV, Job Market Paper, a one-paragraph research summary, and contact information).
+Display the essential information on the first or landing page (e.g., CV, Job Market Paper, a one-paragraph research summary, and contact information).
 Keep navigation intuitive, make the site mobile-friendly, and ensure the key documents are one click away.
-Hiring committees skim hundreds of applications, and any small frictions can make the difference between being noticed or overlooked.
+Hiring committees skim hundreds of applications, and any small friction can make the difference between being noticed or overlooked.
 
-Practice JMP talk in your department, classes, conferences before the job market season starts.
-Each presentation helps you understand the common questions your paper raises, and will allow you to anticipate these questions, develop concise answers, and project confidence during potential interviews and fly-outs.
-#footnote[In my case, my JMP raises concerns about reverse causality. The feedback I received from brownbags, workshops, and conferences led to put this concern in the first two slides to address it as quick as possible.]
+Practice your JMP talk in your department, classes, and conferences before the job market season starts.
+Each presentation helps you understand the common questions your paper raises and will allow you to anticipate these questions, develop concise answers, and project confidence during potential interviews and fly-outs.
+#footnote[In my case, my JMP raises concerns about reverse causality. The feedback I received from brownbags, workshops, and conferences led me to put this concern in the first two slides to address it as quickly as possible.]
 Get practice by presenting at workshops, brownbags, student seminars, conferences, and by running your talk by seminar speakers, peers, and advisors.
-There is plenty of material on how to create an effective research presentation, so I will not go into details here. You can find a compilation of #link("https://sites.google.com/view/econgradadvice/")[_Advice for Phd Students in Economics_] from Chris Roth and David Schindler in the topic of Presentations.
+There is plenty of material on how to create an effective research presentation, so I will not go into details here. You can find a compilation of #link("https://sites.google.com/view/econgradadvice/")[_Advice for PhD Students in Economics_] from Chris Roth and David Schindler on the topic of Presentations.
 
 #pagebreak()
 
@@ -172,7 +177,9 @@ My main strategy was to apply broadly.
 #footnote[This was also the advice from almost everyone I talked to, including my advisor.]
 The academic economics job market is contracting (see #link("https://econ-jobs.com/media/academic-economics-job-market-is-contracting/")[Econ-Jobs.com] and #link("https://www.linkedin.com/posts/johnalist_aea-job-market-update-the-numbers-dont-activity-7407077665037381632-_vNX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEMbI8BtSc1yt88uuZBJ3Mj2fUPJCm4HEU")[John List's post]) with fewer and less predictable openings. 
 Even when a position did not appear to be a good fit (e.g. a finance department instead of economics), I still sent an application.
-Many departments prefer to hire an outstanding candidate even if they are expert of another related field. @geo_apps shows the geographical distributions of applications of my applications. I sent applications to institutions in the U.S. and LATAM (51.5%) ,  (40.8%) to Europe, to Asia (predominatly Japan), 7 to Australia, and 1 to South Africa.
+Many departments prefer to hire an outstanding candidate even if they are expert of another related field.
+
+@geo_apps shows the geographical distributions of applications of my applications. I sent applications to institutions in the U.S. and LATAM (51.5%) ,  (40.8%) to Europe, to Asia (predominatly Japan), 7 to Australia, and 1 to South Africa.
 #footnote[I purposely avoided applying to any job postings in China and the Middle East. These are places I wouldn't want to move to even if I got the offer.]
 
 #figure(caption: "Geographical distribution of my applications", placement: auto)[
@@ -185,20 +192,22 @@ Start early and be organized, specially if you are also targeting 250+ applicati
 I started to work on application materials in early September and sent my first batch of applications by mid-October.
 You can see that I had days with 10+ applications sent, these were mostly 8 hours of applications with around 10 applications only using the AEA JOE or EJM platforms.#footnote[These platforms make the application process easier as you can upload all your documents once and then just select them for each application.]
 However, some institutions also require you to send the application through their own platform, which can be time consuming as you need to re-upload all documents and fill in personal information again.
+#footnote[Most US insitutions use their own platform.]
 
 Create a LinkedIn profile! This will make it easier to autofill some of the personal information required in some of these platforms.
 
 The most important deadline for applications is November 15 (solid black line), as many departments have this as their target deadline.#footnote[This is because most departments, US and EU, go over applications in Thanksgiving break aiming to hold  interviews on mid-December.]
 I also set up my own target deadlines (grey dashed vertical lines) to have batches of applications ready.
-The idea is that you target 2-5 days before the advertized target deadline just have some leeway in case of technicals issues in the application procedures.
+The idea is that you target 2-5 days before the advertised target deadline to have some leeway in case of technical issues in the application procedures.
 
 It is important that you constantly send applications.
-Check both EJM and AEA JOEevery couple of weeks for new positions.
-Even with the busy interview/fly out season of January and February, new positions for post-docs and stagered AP positions can pop up.
-As you can see in @app_timeline, I took a brake of application in January, and in hindsight it was a mistake.
-However, I did restart the applications in Late January and Early February.
-#footnote[The main trigger for this was an awesome AP position in LATAM that I ended up beign a runner up for the offer.]
-In my case, the position which ultimatly offer me a job was from a postdoc position that I found in February.
+You should only stop when you accept an offer.
+Check both EJM and AEA JOE every couple of weeks for new positions.
+Even with the busy interview/fly-out season of January and February, new positions for postdocs and staggered AP positions can pop up.
+As you can see in @app_timeline, I took a break from applications in January, and in hindsight, it was a mistake.
+However, I did restart the applications in late January.
+#footnote[The trigger for this was an awesome AP position in LATAM that I ended up being a runner-up for the offer.]
+In my case, the position which ultimately offered me a job was from a postdoc position that I applied to in February.
 
 #figure(caption: "Application Timeline", placement: auto)[
   #image("figs/cumsum_apps.png", width: 90%)
@@ -209,27 +218,27 @@ In my case, the position which ultimatly offer me a job was from a postdoc posit
 
 == Set-up
 
-I used `vscode` to generated _personalized_ documents using `python` and allowed me to modify/export the documents with #link("https://typst.app/docs/")[`typst`]. You can think of `typst` as a LaTeX replacement with modern syntax and instant preview (no need to compile the `.typ` file everytime you want to see a change).
+I used `vscode` to generate _personalized_ documents using `python` and allowed me to modify/export the documents with #link("https://typst.app/docs/")[`typst`]. You can think of `typst` as a LaTeX replacement with modern syntax and instant preview (no need to compile the `.typ` file every time you want to see a change).
 
-My set up can be devided into 3 main components:
+My setup can be divided into three main components:
 
-+ Gather info about job add, department, and school/project if it is a post doc
-  - This can be time consuming as you might want to read faculty pages, so take it into consideration
-+ Let a LLM read the addition information + CV to create a single paragraph to be at the end of the Cover letter to indicate fit with the position
++ Gather info about job ad, department, and school/project if it is a postdoc
+  - This can be time-consuming as you might want to read faculty pages, so take it into consideration
++ Let an LLM read the additional information + CV to create a single paragraph to be at the end of the cover letter to indicate fit with the position
 + Use `typst` to modify the cover letter template
-  - Make sure you get the position + institution right
-  - add personal reasons to apply to that position
-  - Modify the LLM generated paragraph to make it more personal
+  - Make sure you get the position and institution right
+  - Add personal reasons to apply to that position
+  - Modify the LLM-generated paragraph to make it more personal
 
-If you want to see my full set-up please check this  #link("https://github.com/jjgecon")[repo], in particular the `personalize_docs.ipynb` notebook.
+If you want to see my full setup, please check this #link("https://github.com/jjgecon")[repo], in particular the `personalize_docs.ipynb` notebook.
 
-Keep a `.txt` file with all the extra information you will always copy and paste. In this repo the file is `other_docs/other_info.txt`.
+Keep a `.txt` file with all the extra information you will always copy and paste. In this repo, the file is `other_docs/other_info.txt`.
 
 == Advice
 
-In your cover letter always emphasize the fit with the postion.
+In your cover letter, always emphasize the fit with the position.
 In other words, you need to tailor the cover letter to each position.
-Personal reason here are very important.
+Personal reasons here are very important.
 Do not be afraid to *bold* the key phrases that you want the committee to remember about you.
 Examples:
 
@@ -240,54 +249,48 @@ Examples:
 #quote[My family and I are eager to *leave the United States*.
 We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment. We are also *willing to learn Japanese* as soon as possible to better integrate into the local culture and academic community]
 
-#highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white)[#smallcaps[IMPORTANT]]]: If you are female, you have to think through if you want to disclose family information in your cover letter, interviews, and fly-outs.
-In my case, a family signaled that I wanted to leave the US and find a career elsewhere with my starting family, where most people in the search committee can relate with.
-Some people who will read the same phrase for a female candidate might think that she will need tenure clock extension or maternity leave in the near future, which might potentially hurt your chances.
+#highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white)[#smallcaps[IMPORTANT]]]: If you are female, you have to think through whether you want to disclose family information in your cover letter, interviews, and fly-outs.
+In my case, mentioning family signaled that I wanted to leave the US and find a career elsewhere with my family, which most people in the search committee can relate to.
+Some people who read the same phrase for a female candidate might think that she will need a tenure clock extension or maternity leave in the near future, which might potentially hurt your chances.
 
 You do not need to tailor your Teaching or Research statements. 
-Many non‑U.S. positions do not even request them.
-I personalized mine, but in practice hiring decisions tend to hinge more on the Job Market Paper and your interview performance, where these topics will surface naturally.
+Many non‑US positions do not even request them.
 
-However, you should put effort in preparing these documents.
+However, you should put effort into preparing these documents.
 The research statement helps you clarify your research agenda and future plans, while the teaching statement allows you to reflect on your teaching philosophy and experience.
 Both of these topics *will* come up in your interviews.
 
-Use your *signals*.
-Remember that you have 2 signals for the #link("https://www.aeaweb.org/joe/signal")[AEA JOE] and 10 signal for the #link("https://www.europeanjobmarketofeconomists.org/job-listings")[EJME].
-The common advice here is that you send a signal where your committee does not know anyone and that you think there is a chance they will hire you.
-In other words, do not waste your signals in MIT, Harvard, Chicago, or top in EU.
+Use your signals.
+Remember that you have 2 signals for the #link("https://www.aeaweb.org/joe/signal")[AEA JOE] and 10 signals for the #link("https://www.europeanjobmarketofeconomists.org/job-listings")[EJME].
+The common advice here is that you send a signal where your committee does not know anyone and where you think there is a chance they will hire you.
+In other words, do not waste your signals on MIT, Harvard, Chicago, or top institutions in the EU.
 
-That said, I don't know if they did anything for me.
-No institutions I sent my signals to invited me to interview, which is either I send the wrong signals or these particular institutions don't care that much about them.
+I'm uncertain whether my signals had any impact. The institutions I signaled to did not invite me to interview, which could mean either I chose the wrong targets or these institutions simply don't weigh signals heavily in their decision-making.
 #link("https://david-schindler.de/")[David Schindler] stated that European institutions do pay attention to the EJME signals.
 
 On the EJM you can link a 1‑minute JMP spiel.
-I uploaded one and it received about 60 views, with over 70% of the views coming from a link in the frontpage of my website.
+I uploaded one and it received about 60 views, with over 70% of the views coming from a link on the front page of my website.
 That exposure generated _some_ engagement and the exercise forced me to refine and rehearse a concise 1‑minute presentation, which is valuable practice for interviews.#footnote[A viewer appreciated that the video connected to my AI methodology.]
-
-Unless you have accepted an offer, do not stop applying to positions.
-As you can see in @app_timeline, I took a brake of application in January, but I tried to restart it in February.
-In February, I found a postdoc position that could have been a good match, but by february the January deadline passed.
 
 == Waiting
 
 Resist the urge to check EconJobRumors!
-You might cave once, but anonymous posts cannot be verified, and small rumours often spiral out of control making ALL candidates anxious.
+You might cave once, but anonymous posts cannot be verified, and small rumors often spiral out of control, making ALL candidates anxious.
 
 Focus instead on more "reliable" sources.
 
-#link("https://www.aeaweb.org/econtrack")[Econtrack] can be informative for AEA JOE listings, but it can sometimes unreliable because any user can upload a status change. Do not treat its updates as definitive unless an entry is explicitly "verified by an official of this institution".
+#link("https://www.aeaweb.org/econtrack")[Econtrack] can be informative for AEA JOE listings, but it can sometimes be unreliable because any user can upload a status change. Do not treat its updates as definitive unless an entry is explicitly "verified by an official of this institution".
 
-The EJM status updates tend to more reliable and can give you a useful signal about where a search stands for a particular position. For example, when a job shows #highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white)["Interview scheduling completed"]] status it usually means the committee will not send out more interview invitations. If you see that status and have not received an invitation, there is a high probability you did not make the cut. 
+The EJM status updates tend to be more reliable and can give you a useful signal about where a search stands for a particular position. For example, when a job shows #highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white)["Interview scheduling completed"]] status, it usually means the committee will not send out more interview invitations. If you see that status and have not received an invitation, there is a high probability you did not make the cut. 
 
 At the same time, a visible #highlight(fill: rgb("#d52b8c"), top-edge: 1em)[#text(fill: white)["Scheduling interviews"]] without an invitation is likewise a strong signal you did not make the cut.
 
-Some postings remain in #highlight(fill: rgb("#0e1fed"), top-edge: 1em)[#text(fill: white)["Reviewing applications"]] for long periods, and does not necessarily imply  will send interview invites soon. 
+Some postings remain in #highlight(fill: rgb("#0e1fed"), top-edge: 1em)[#text(fill: white)["Reviewing applications"]] for long periods, and this does not necessarily imply they will send interview invites soon. 
 As an example, I received a postdoc interview invite from an institution whose EJM status remained in #highlight(fill: rgb("#0e1fed"), top-edge: 1em)[#text(fill: white)["Reviewing applications"]] until January.
 
-The most reliable information is to ask if your advisor if they have a *close connection* in the institution you want to know and they are willing to ask around.
+The most reliable information is to ask your advisor if they have a close connection in the institution you want to know about and if they are willing to ask around.
 
-Most positions will not give you any news.
+*Most positions will not give you any news.*
 I did not receive any updates from 92% of my applications.
 So if you get to mid-December and the application target deadline has long passed, it is likely that you did not make it to the interview stage.
 
@@ -296,16 +299,16 @@ In the 2025-26 cycle, the #link("https://www.europeanjobmarketofeconomists.org/a
 The #link("https://www.aeaweb.org/news/guidance-25-26-job-market-sept-2-2025")[AEA JOE Committee] recommended that interviews should be held after December 3, when the signal went out.
 Therefore, it is likely you did not make it to the interview stage in this first round.
 
-This does not mean that you are doomed!
+Does this mean that you are doomed? *NO!*
 
-There are 3 reasons why you can still have a chance.
+There are three reasons why you can still have a chance.
 First, the timeline is a little different for postdoc positions.
 Some might want to wait for the AP positions to finish their matching, so they can pick from the remaining candidates.
-They have the incentive to do this since in general an offer from a AP position is more attractive than a postdoc for candidates.
+They have the incentive to do this since, in general, an offer from an AP position is more attractive than a postdoc for candidates.
 Second, some institutions also wait to send their interview invites.
-These departments have a similar incentive as postdocs, since an offer from a higher ranked institution is more attractive.
+These departments have a similar incentive as postdocs, since an offer from a higher-ranked institution is more attractive.
 Third, there is a #link("https://www.aeaweb.org/joe/scramble/")[market scramble] where unmatched institutions and candidates can find each other in March.
-Remember that you need to register to participate in the scramble so be on the lookout for the registration dates.#footnote[For the year 2025, the scramble registration for both institutions and candidates was March 6-12.]
+Remember that you need to register to participate in the scramble, so be on the lookout for the registration dates.#footnote[For the 2025-26 cycle, the scramble registration for both institutions and candidates was March 6-12.]
 
 #pagebreak()
 
@@ -314,9 +317,9 @@ Remember that you need to register to participate in the scramble so be on the l
 I got my first interview invite at the end of November for an Assistant Professor (AP) position in LATAM.
 In total, I have received 13 interview invites (5 AP, 7 Postdoc, 1 Consulting).
 That means that only 13 out of my 308 applications (4.2%) resulted in an interview.
-#footnote[This is way bellow the rate reported by #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] where they find people interview for 10-20% of the positions they apply to. However, 80% of their sample comes from a top 50 institutions, pre-COVID times, and with a booming academic job market.]
-I participated in five interviews virtually in December before the holiday break (before December $18^("th")$), and the rest interviews where held in December, early January, and even February.
-#footnote[Even some postdoc position sent an interview invitation on January $26^"th"$.]
+#footnote[This is way below the rate reported by #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)], where they find people interview for 10-20% of the positions they apply to. However, 80% of their sample comes from top 50 institutions, pre-COVID times, and with a booming academic job market.]
+I participated in five interviews virtually in December before the holiday break (before December $18^("th")$), and the rest of the interviews were held in December, early January, and even February.
+#footnote[Even some postdoc positions sent an interview invitation on January $26^"th"$ and I did an interview on December $29^"th"$.]
 
 #figure(caption: "Weekly Status")[
   #image("figs/weekly_status.png", width: 90%)
@@ -327,69 +330,69 @@ I participated in five interviews virtually in December before the holiday break
 
 == Structure
 
-*_Assistant professor_*#footnote[I also had an interview in a Gobernemt School, which had a different structure. In less 10 minutes I needed to synthesize my agenda, how it fits with the department, my teaching experience, and lastly why am I a good fit wiht the school.]:
-+ Talk about yout JMP (10mins)
-+ Research agenda (10mins)
-+ Teaching experience (5mins)
-+ Why our department? (5mins)
+*_Assistant professor_*#footnote[I also had an interview in a Government School, which had a different structure. I needed to synthesize my agenda, how it fits with the department, my teaching experience, and lastly why am I a good fit with the school in less than 10 minutes.]:
+ + Talk about your JMP (10mins)
+ + Research agenda (10mins)
+ + Teaching experience (5mins)
+ + Why our department? (5mins)
 
 *_Postdocs_*: structure depends on the search committee 
 
 Example 1:
-+ Talk about yout JMP (10mins)
-+ Research Agenda in relations to project (5mins)
-+ What skill can you bring to a proposed projects (10mins)
-+ Why our project? (5mins)
+ + Talk about your JMP (10mins)
+ + Research Agenda in relation to project (5mins)
+ + What skills can you bring to proposed projects (10mins)
+ + Why our project? (5mins)
 
 #pagebreak()
 
 Example 2\*:
-+ Present a paper close to the project (15mins)
-+ What potential ideas or projects for the agenda? (5mins)
-+ Questions (10mins)
+ + Present a paper close to the project (15mins)
+ + What potential ideas or projects for the agenda? (5mins)
+ + Questions (10mins)
 
-_\*After this type of interview there was no fly-out._
+_After this type of interview there was no fly-out._
 
-*_Industry interviews_* also vary quite a lot depending on the firm (e.g. consulting or data-science). #link("linkedin.com/in/mohsen-foroughifar-800350266")[Mohsen Foroughifar] put it best when talking about the Marketing Academic Job in his #link("https://www.linkedin.com/posts/mohsen-foroughifar-800350266_marketing-academic-job-market-post-5-activity-7406439233487433728-i2yI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEMbI8BtSc1yt88uuZBJ3Mj2fUPJCm4HEU")[LinkedIn post].
+*_Industry interviews_* also vary quite a lot depending on the firm (e.g., consulting or data-science). #link("linkedin.com/in/mohsen-foroughifar-800350266")[Mohsen Foroughifar] put it best when talking about the Marketing Academic Job in his #link("https://www.linkedin.com/posts/mohsen-foroughifar-800350266_marketing-academic-job-market-post-5-activity-7406439233487433728-i2yI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEMbI8BtSc1yt88uuZBJ3Mj2fUPJCm4HEU")[LinkedIn post].
 
-In my experience interviewing with #link("https://www.analysisgroup.com/")[Analysis Group], they focused more on econometric techniques and on how I defended them than I had expected; in other words, they were stricter about technical skills compare to academic interviews.
+In my experience interviewing with #link("https://www.analysisgroup.com/")[Analysis Group], they were stricter about technical skills compared to academic interviews.
 My first-round interview followed this structure:
-
-  + Talk about yout JMP (15mins)
+  + Talk about your JMP (15mins)
   + Explain Econ concept to a jury/judge (5mins)
-  + What do you like more about the research work? (5mins)
+  + What do you like most about the research work? (5mins)
   + Do you have any questions for us? (5mins)
 
 == Advice
 
 *Do your homework before the interview*.
-When you receive an invitation, answer (usually via email) promptly. 
-I usually asked for the prefered language, #footnote[Some of my interviews were in LATAM, where Spanish is the main language, so I asked if the interview would be in Spanish or English.] and who is going to be present in the interview, so I can research them beforehand.
+When you receive an invitation, answer (usually via email) shortly after you read it, this will signal your interest and engagement.
+#footnote[Some of my interviews were in LATAM, where Spanish is the main language, so I asked if the interview would be in Spanish or English.]
+I usually asked for the preferred language, and who is going to be present in the interview, so I can research them beforehand.
 This might give you some insights into what parts of your CV you want to highlight during the interview that most appeal to them.
-At this stage there is at least one faculty who vouches for you (that you might not know who it is), and you need to win over the rest of the committe.
+At this stage, there is at least one faculty member who vouches for you (that you might not know who it is), and you need to win over the rest of the committee.
 
 Get to know the department and institution. 
 Look at their website, their events (if they hold regular seminars or not), any YouTube videos, and groups within the department that might interest you.
 Go over the faculty and highlight some professors who are closest to you in research and look for "holes" in the department that you can fill (either in teaching and/or research).
 In my case, most of the departments lack a specialist in AI or Machine Learning, so I made sure to highlight this skill during the interview.
 
-Pay attention of what type of department it is (e.g. pure econ, governement school, business school, etc) and tailor your answers accordingly.
-For example, for teaching in a business school, I highlighted the practical skills of AI and how it can be used in the industry. For government schools, I hightlighted that my interdisciplinary research can help inform public policy.
+Pay attention to what type of department it is (e.g., pure econ, government school, business school, etc.) and tailor your answers accordingly.
+For example, for teaching in a business school, I highlighted the practical skills of AI and how it can be used in the industry. For government schools, I highlighted that my interdisciplinary research can help inform public policy.
 
-Do not have your prefered place as your first interview.
+*Do not have your preferred place as your first interview.*
 You gain experience with each interview. 
-For example, in my first interview I rambled about how I have done a bunch of programming work in the question "We are opening a new Master's program for Data Analytics, would you feel confortable teaching in it?" In other words, I gave a long-winded and convoluted answer instead of a short and direct answer on how my knowledge of AI would be benefitial for the program.
+For example, in my first interview I rambled about how I have done a bunch of programming work in response to the question "We are opening a new Master's program for Data Analytics, would you feel comfortable teaching in it?" In other words, I gave a long-winded and convoluted answer instead of a short and direct answer on how my knowledge of AI would be beneficial for the program.
 
 Always start your JMP spiel with a version of the following:
 #quote[I am an `MAIN_FIELD` economist, working in the intersection of `SECOND_FIELD` and `THIRD_FIELD`. My JMP ...]
 
-This helps the committee to place you within the field, and understand better your work.
+This helps the committee to place you within a field, and set correct expectations.
 
 #quote(attribution: [Javier Gonzalez])[I am an Applied economist, working in the intersection of Culture and Media. My JMP shows that when women grow up watching female empowered content on TV shows they are more likely to work as an adult ...]
 
 Treat the interview as a conversation.
 You need to walk the fine line of having a perfect Job Market spiel combined with the flexibility to answer questions to adapt to the interviewers' interests.
-The standard advice recommends having 1, 5, and 10‑minute versions of your JMP (the "onion").
+The standard advice recommends having 1, 5, and 10‑minute versions of your JMP (referred to as the _onion_ method).
 However, I have found a clear 3–4 minute spiel works best for most interviews.
 #footnote[The 1-min spiel is particularly useful for conferences where you potentially meet multiple people in a short period of time.]
 It is short enough to hold attention yet long enough to convey the core contribution, identification, and main results.
@@ -404,8 +407,8 @@ I answered:
 
 #quote[... similar papers have been published in Journal of Human Resources, Journal of Labor Economics, and Development Economics and Cultural Change. However, I think it can have a shot at a top 5 if my advisor approves it.]
 
-The mistake was to mention _if advisor approves it_.#footnote[My reasoning was that my advisor is my biggest critic. It is commom that junior researchers don't know where to send their paper, but in an interview it might be a red flag.]
-So avoid mentioning your advisor too much, as it signals that my advisor had a bigger role in my research that I intended.
+The mistake was to mention _if my advisor approves it_.#footnote[My reasoning was that my advisor is my biggest critic. It is commom that junior researchers don't know where to send their paper, but in an interview it might be a red flag.]
+So avoid mentioning your advisor too much, as it signals that your advisor had a bigger role in your research than intended.
 
 Practice your interview skills early and often. My own abilities improved dramatically after $7^("th")$ interview, including mocks. 
 You will make most mistakes in the first few interviews, but you start to learn to control your nerves, and refine your answers.
@@ -420,9 +423,11 @@ You might also want to mention work in progress from prominent faculty you are c
 If you have teaching experience as an instructor, tell them which course, level (undergraduate/graduate), and any evaluation scores you received.
 I would also suggest you mention your experience as a teaching assistant at SMU and on your previous institution.
 
-When answering "_Why our department/project/firm?_" personal reasons rather are more important than professional ones.
+When answering "_Why our department/project/firm?_" personal reasons are more important than professional ones.
 Committees want to know you will be committed to living and working in their country and community.
 Briefly explain concrete personal motivations (for example, that you want to live in Europe rather than the U.S.) and add a concise reason to make the motivation believable and to complement the professional fit.
+
+#v(1cm)
 
 These are some of the examples I used:
 
@@ -462,7 +467,7 @@ Most of the interviews will be online, make sure to have a good quality webcam a
 Keep both your website AND the department's website about job market candidates updated! Interviewers will either use your website or the department's website to prepare for the interview.
 This might happen because the department's website is higher ranked in Google search results, than your website.
 #footnote[This is why they recommend to generate a lot of traffic to your personal website with your existing social network. That way, when committee search for your proflie with "FIRST_NAME LAST_NAME econ" you want to appear in the first results.]
-In my experience, during a fly-out interview the professor was looking at the department's website rather than mine and had older information.
+In my experience, during a fly-out interview the professor was looking at the department's website with older information.
 
 #highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white)[#smallcaps[IMPORTANT]]]: If you are female, it is *ilegal* for any search committee to ask you about your family plans during the interview.
 #footnote[At least for E.U. institutions.]
@@ -491,7 +496,7 @@ Same advice applies as before. Prioritize your mental health and *avoid* EconJob
 I also suggest that you try to be a little bit productive during this waiting period.
 This does not mean that you have to solely work on your JMP or dissertation.
 I for instance, didn't get a lot of free time to do some work, outside of preparing and polishing my job market talks.
-So I instead used this period to catch up in some of the literature. That is, to review again papers that central and most related to your work, or to skim to through some working papers.
+So I instead used this period to catch up in some of the literature.
 You never know when you will need to keep on top of the literature for the interviews or fly-outs.
 In one particular fly-out, I cited 2-3 of these new papers which related to my work that I did not have the JMP bibliography.
 
@@ -500,28 +505,29 @@ In one particular fly-out, I cited 2-3 of these new papers which related to my w
 = Fly-outs
 
 Congrats!
-You made it to the final stage. Getting a fly-out invitation means that you are a finalist, but you are still competing with other 5-6 candidates for the position.
-To put things into perspective, I was competing with candiates from Standford, UC Berkeley, Minnesota, Northwestern, and UT Austin (all top U.S. schools) for a fly-out in a LATAM high ranked econ. department.
+You made it to the fun stage. Getting a fly-out invitation means that you are a finalist, but you are still competing with other 5-6 candidates for the position.
+To put things into perspective, I was competing with candiates from Standford, UC Berkeley, Minnesota, Northwestern, and UT Austin (all top U.S. schools) for a fly-out in a LATAM high ranked economics department.
 
-I got several fly-out invitations. Two AP position in LATAM and several postdocs in Australia, France, and Switzerland.
+I got two AP position in LATAM and four for postdocs in Australia, France, and Switzerland.
 This ends up being a 30% conversion rate from interviews to fly-outs.
 #footnote[This rate is similar to what #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] found.]
 
-Note that for Postdocs, the fly-out stage is often skipped. They either just inteview you, or make you do a preentation to understand your research agenda.
+Note that for Postdocs, the fly-out stage is often skipped. They either just inteview you, or make you do a presentation to understand your research agenda.
 
-The fly-out invitations came around 1-2 weeks after the interview.
+The fly-out invitations usually came around 1-2 weeks after the interview.
 #footnote[One of my fly-out invitations came on the same week. However, the did mention they wanted to finish the search before February.]
 Note that some institutions might take longer because of the Holiday break in late December.
 If you have not heard back after 2 weeks, reach out to the contact person for an update.
 But most likely is that you were not selected for a fly-out.
 
-Typically these the fly-outs should happen in January or February.
+These fly-outs typically happen in January or February.
 
 == Structure
 
 === Assistant Professor:
 
 It's a whole day event.
+
 You will arrive the day before.
 The day of the fly-out you will have 1-1 meetings with faculty (around 30mins each), grab lunch with those other faculty, present your JMP to the whole department (45-60mins), and finally have dinner with some faculty.
 
@@ -540,11 +546,12 @@ After 6pm, I had dinner with 2 faculty members that have a similar situation to 
 So I tried to fit in all my personal questions in this more informal.
 Overall, the day was long but manageable.
 
-Since COVID, some institutions have moved to a online fly-out, where you sit down on your computer, as if you are in person, and follow a similar schedule with out a dinner.
-This is mainly due to budget constraints in the department, where if most candidates are in the US, and they are an Argentinian instituion, flying out 5 candidates can get pretty expensive.
-However, most institutions will fly you out to their campus shortly before making an offer.
+Since COVID, some institutions have moved to an online fly-out format.
+Where you sit down on your computer and follow a similar schedule without a dinner.
+This is mainly due to budget constraints of non-US institutions, where flying out 5 candidates can get pretty expensive.
+However, most institutions will fly you out to their campus if they are planning to make an offer.
 
-In my case, I did one online fly-outs for a Gobernment School, which had a different structure than a typical econ. school. Where in an hour and a half I presented my research agenda (10mins), my JMP (30mins), and then had a Q&A with the committee (50mins).
+I did one online fly-outs for a Gobernment School, which had a different structure than a typical econ. school. Where in an hour and a half I presented my research agenda (10mins), my JMP (30mins), and then had a Q&A with the committee (50mins).
  Most of the question were related to my JMP, and some linked both my JMP with my research agenda.
 
 === Postdoc
@@ -558,83 +565,84 @@ Example 2: no fly-out and skipped to the offer stage.
 == Advice
 
 As soon as you get a fly-out invitation, tell your advisor.
-Politics now play a huge role and you want to send the best signals possible to maximize your offer chances.
+Politics now play a huge role and you want to send the best signals possible to maximize your chances of getting an offer.
 Your advisor will help you navigate this process.
 
-Here there will be more logistic to take into consideration. When to select the date, travel arrangements, accomodations, etc.
+Since this stage involves travel, there is a lot of logistics involved (e.g., when to select the date, travel arrangements, accommodations, etc.).
+
 Be sure to have a credit card with you to pay for travel, as reimbursement might take some time.
 
-Similar to the interviews, do not have your prefered place first.
+Similar to the interviews, *do not have your preferred place first*.
 You gain experience and practice with each fly-out. 
-Note however that sometimes the timing is not with you.
-That said do not chose a far away date, so that the committee does not think you want to fish for other opportunities
+Note, however, that sometimes the timing is not with you.
+That said, do not choose a far away date, so that the committee does not think you want to fish for other opportunities.
 
-I was suggested to always arrive a day before the fly-out invitation and hopefully morning or midday
-This is to not have time pressure if you miss a connection or flight.
-At the end the hotel will be payed for the night, so no need to save the department's money here.
+I was advised to always arrive a day before the fly-out invitation and in the morning or midday.
+This is to avoid any stress if you miss a connection.
+At the end of the day, the hotel will be paid for the night, so there is no need to save the department's money here.
 
 Between the interviews and the fly-out you should have your JMP talk down.
 Practice, practice, practice.
 I cannot stress this enough.
 By the time of my first fly-out, I had presented my JMP 15 times to different audiences.
 This allowed me to feel comfortable presenting it, and most importantly, comfortable answering questions on the fly.
-I had anticipated most of the questions thanks previous presentations.
+I had anticipated most of the questions thanks to previous presentations.
 Therefore, participate in as many workshops, brownbags, and conferences as possible.
 
-Do not be affraid to ask for the person you are in the interview for 5 minutes to go to the bathroom.
+Do not be afraid to ask the person you are interviewing with for 5 minutes to go to the bathroom.
 
-Make sure that you get al your personal/life questions answered during the dinner.
-This is a more informal space to ask these type of questions after the long day of thinking about research.
+Make sure that you get all your personal/life questions answered during the dinner.
+This is a more informal space to ask these types of questions after the long day of thinking about research.
 After all, once you are in a fly-out you are a finalist, and the committee wants to sell you the department.
 
-Buy a clicker, some departments do not have one available and they are relatively affordable. 
-Try to have the presentation on a pendrive, that way you avoid most technical issues. 
+Buy a clicker; some departments do not have one available and they are relatively affordable. 
+Try to have the presentation on a pendrive; that way you avoid most technical issues. 
 That said, also keep other copies of that presentation in your email, cloud storage, even phone that you can easily access.
-#link("https://www.aeaweb.org/content/file?id=869")[John Cawley's guide] even describes a horror story where the candidate needed to fish for her pendrive in an elevator shute.
+#link("https://www.aeaweb.org/content/file?id=869")[John Cawley's guide] even describes a horror story where the candidate needed to fish for her pendrive in an elevator chute.
 
-A way to scope out your competition is to check the _seminar_ series of the department you are flying out to. Candidates will present their work in these seminars and the department need to advertize the events to students and other faculty through public channels. #highlight(fill: red)[#text(fill: white, size: 1.2em)[#smallcaps("warning")]] I do not recocomend to do this before the fly-out because you might get in your own head and it might affect your performance in the fly-out itself.
+A way to scope out your competition is to check the _seminar_ series of the department you are flying out to. Candidates will present their work in these seminars and the department needs to advertise the events to students and other faculty through public channels. #highlight(fill: red)[#text(fill: white, size: 1.2em)[#smallcaps("warning")]] I do not recommend doing this before the fly-out because you might get in your own head and it might affect your performance in the fly-out itself.
 
-In this final stage, either on AP position or post-docs, disregard the advice to not ask questions about the prospect.
-Here asking question showsd that you are interested in the position.
-Asuming you come from a low ranked school as myself, you need to play the interested card really well, as it can give you the edge over higher ranked candidates.So ask questions about the organization of the post-doc, the tenure-track requirements, teaching load, salary expectations, how is it to live with your family, easy access to healthcare or childcare, etc.
+In this final stage, either in AP positions or postdocs, ask questions about the prospect.
+Here, asking questions shows that you are interested in the position.
+Assuming you come from a low-ranked school like myself, you need to play the interested card really well, as it can give you the edge over higher-ranked candidates.
+So ask questions about the organization of the postdoc, the tenure-track requirements, teaching load, salary expectations, how it is to live with your family, easy access to healthcare or childcare, etc.
 
-Once you get the invitation for a fly-out the offers seems to be so close and you start to how would it look like if you accepted an offer from that institution.
+Once you get the invitation for a fly-out, the offers seem to be so close and you start to imagine how it would look if you accepted an offer from that institution.
 So you get overly excited about the prospect of moving there.
-This is normal, and arguably will help you to show your enthusiam while you are in the fly-out.
-But, it is also normal that you get a sort of reality check when your chances of getting an offer are not as high as you expected.
-Remember that a fly-out is just the last stage of the process in whch you have control over, but that does not imply that you will have an inminent offer.
-So know that getting excited is normal as well as beign let down when you do not get the offer.
+This is normal, and arguably will help you to show your enthusiasm while you are in the fly-out.
+But it is also normal that you get a sort of reality check when your chances of getting an offer are not as high as you expected.
+Remember that a fly-out is just the last stage of the process in which you have control.
+That does not imply that you will get an offer.
+So know that getting excited is normal, as well as being let down when you do not get the offer.
 
 == Waiting
 
-Not going to sugar coat it. This is the worst waiting period. Because silence in this case can mean anything: offer, waiting list for the offer, or just the committee doesn't want to get rid of you in case everyone else bails out.
-Beign optimistic, it can mean that they have selected you for the position and is just an administrative delay.
-At the same time, it can also mean that you are not the prefered candidate, but you are the runner-up.
-Meaning that they are waiting to see if the prefered candidate accepts the offer, and if they don't, they will offer you the position.
-In this case they have the incentive to keep you waiting and most likely will not tell you any updates.
-SOme search committees even have the policy of not telling someone that is ranked last in their fly-out list for the position, becuase search committee want insurance against the case of a failed search.
-So there is a lot of waiting and uncertainty during this period where silence in this last stage that can mean from you got the offer, or if the first round rejects you get it, or we are keeping you in the dark just in case everyone rejects our offer.
+Not going to sugarcoat it. This is the worst waiting period. 
 
-However, at this point you did all you can and whether you get an offer or not and at this point is completly out of your control. 
-And statistics might be on our side, #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] finds that around the probability of receiving an offer after a fly-out is around 50%.
+Silence in this case can mean anything: offer, waiting list for the offer, or just the committee doesn't want to get rid of you in case everyone else bails out.
+Being optimistic, it can mean that they have selected you for the position and it is just an administrative delay.
+At the same time, it can also mean that you are not the preferred candidate, but you are the runner-up.
+The last case is that they want to keep you waiting and most likely will not tell you any updates.
+There is a lot of waiting and uncertainty during this stage.
+
+At this point you did all you can and whether you get an offer or not is completely out of your control. 
+And statistics might be on your side, #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] finds that the probability of receiving an offer after a fly-out is around 50%.
 
 #highlight(fill: red)[#text(fill: white, size: 1.2em)[#smallcaps("caution")]].
-There is another tool that can help you reason about yoru chance in the silence, which is LLMS.
-I tried to give all the facts about the interviews and fly-outs to an LLM to guage my chances of an offer.
-Note that these models are more *optimistic than reality*, but it can give you some reasons as to why there is  adelay on the news and maybe suggest when it's the rigth time to reach out for an update.
-In some cases, it can help to you to understand like institutional constraints, search commmitee's strategy, or the subtle political language of the email exchanges.
-However, the best information you can get about your status is by asking your contact in the committee or make your advisor contact someone in their network who is part of the same institution to see if they heard a _rumor_ about the search status.
+LLMs could be an interesting tool to help you gauge the chances of getting an offer.
 
-To get the best out of the models performance try to follow these tips: 
+I tried to give all the facts about the interviews and fly-outs to an LLM to gauge my chances of an offer. Note that these models are more *optimistic than reality*, but they can suggest reasons for delays and when to request updates. However, the best information comes from asking your contact in the committee or having your advisor reach out to someone at the institution to learn the actual search status.
+
+To get the best out of the model's performance, try to follow these tips: 
 
 + On the prompt use this start: 
   
   `I need help to understand the chances of receiving an offer from a fly-out. Please be critical in your analysis. Here is the information I have about my interviews and fly-outs: ...`
 
 + Give all the information without priming for an interpretation (e.g. avoid "X can be a good thing because ...")
-+ After the prompt you can always ask it to make a critical review of their reasons/hyphothesis
-+ When the models get's a fact wrong, correct it!
-+ Try to keep the chats short. If the answers start to be repetitive or does not update with new information, reset the chat by adding the extra info to the starting prompt.
++ After the prompt you can always ask it to make a critical review of their reasons/hypotheses
++ When the model gets a fact wrong, correct it!
++ Try to keep the chats short. If the answers start to be repetitive or do not update with new information, reset the chat by adding the extra info to the starting prompt.
 
 *Prioritize your mental health!*
 
@@ -646,35 +654,36 @@ My M.A. advisor told me (in the context of Ph.D. applications) the following:
 
 = Offers
 
-My first offer came by February 20$""^("th")$ and ended it pretty much ended my aplications, as suggested by @app_timeline.
-Thus the conversion rate from fly-outs from all positions to offers is about 25%.#footnote[I'm including those postdocs, where I passed the original shortlist and advances to the interview/job talk stage.]
-Why I stoped? because the offer dominated almost all other opportunities, and it came after achieving second place in two of the other processes.
+My first offer came on February 20$""^("th")$ and pretty much ended my applications, as suggested by @app_timeline.
+Thus, my conversion rate from fly-outs to offers was about 25%.#footnote[I'm including those postdocs, where I passed the original shortlist and advanced to the interview/job talk stage.]
+Why did I stop? Because the offer dominated almost all other opportunities, and it came after achieving second place in two of the other processes.
 
-Now, I have to bring some #text(fill: p_red)[bad news] for those in lower ranked schools looking for Assistant Professor position.
-If you reached the fly-out stage and you have competition from higher ranked schools (or even top 10), the committee deems that your research quality is on par with those candidates.
+#text(fill: p_red, weight: "bold")[Bad news] for those in lower-ranked schools looking for Assistant Professor positions.
+If you reached the fly-out stage and you have competition from higher-ranked schools (or even top 10), the committee deems that your research quality is on par with those candidates.
 However, this is where the marginal gain of prestige really hits you hard.
 If you signal that you really want to be in that department, that means that you become a _safety_ candidate for the committee.
-In other words, they know that if they make you an offer you will mot likely accept it.
-#footnote[I still recommend that you play the card of "I really want to be in this department" because without it you might not even get to the  fly-out stage to begin with.]
-In turn, this makes the higher ranked candidates more of a _reach_, taking from the university applications lingo, and the strategy of the committee is to make an offer to the _reach_ candidate and if they reject it, then they will make an offer to the _safety_ candidate.
-The reason is simple, they need to tell the university that they had a new hire and "MIT" looks way better than "SMU".
-#footnote[There are other non-observable differences like a conection to the department at MIT rather than SMU, which can also be an strategic play (as higher ranked schools tend to also have editors of top journals, etc).]
+In other words, they know that if they make you an offer you will most likely accept it.
+#footnote[I still recommend that you play the card of "I really want to be in this department" because without it you might not even get to the fly-out stage to begin with.]
+In turn, this makes the higher-ranked candidates more of a _reach_, taking from the university applications lingo, and the strategy of the committee is to make an offer to the _reach_ candidate and if they reject it, then they will make an offer to the _safety_ candidate.
+The reason is simple: they need to tell the university that they had a new hire and _MIT_ looks way better than _SMU_ when they look for the dean's approval.
+#footnote[There are other non-observable differences like a connection to the department at MIT rather than SMU, which can also be a strategic play (as higher-ranked schools tend to also have editors of top journals, etc).]
 
-The hardest part of this whole process is to receive the news that they have offered the position to someone else but you where a close second.
-#footnote[Yes, even harderd that the waiting part after the fly-out.]
-I understand that this signal quality of my research, but second place does not get you a job, and it is really hard to accept that you were not the prefered candidate for the position.
-Again, because we are from SMU this is a fact that job market candidates from lower ranked schools will have to face.
+The hardest part of this whole process is to receive the news that they have offered the position to someone else but you were a close second.
+#footnote[Yes, even harder than the waiting part after the fly-out.]
+I understand that this is a signal about the quality of my research, but second place does not get you a job.
+In addition, it is really hard to accept that you were not the preferred candidate for the position.
+Again, this is a fact that any job market candidate from lower-ranked schools will have to face.
 
-There is a sliver of hope for us in lower ranked schools.
+There is a sliver of hope for us in lower-ranked schools.
 Prestige doesn't play a role in postdoc positions.
 They mostly care that you have the skills to contribute to their projects, and that you are a good fit for the team.
 
 The decision of which offer to choose is very personal.
-However, a key varaible in this decision is the timing.
-You will likely need to face the trade-off between accepting an offer early, or rejecting a for sure offer in the hope of getting a better one later.
-This gets further complicated if you receive an offer from a postdoc postion, while in the process of interview/fly-outs to AP positions.
-In my case, I received a posstdoc postion at a top institution in the EU, but I was still in the process of interviewing for AP positions in LATAM.
-I decided that I would accept the postdoc offer, even if I had the chance to get an AP position, because the extra research experience and the prestige of the postdoc would increase my chances of getting a better AP position in the next job market cycle in EU.
+However, a key variable in this decision is the timing.
+You will likely need to face the trade-off between accepting an offer early, or rejecting an offer in the hope of getting a better one later.
+This gets further complicated if you receive an offer from a postdoc position, while in the process of interview/fly-outs to AP positions.
+In my case, I received a postdoc position at a top institution in the EU, but I was still in the process for AP positions in LATAM.
+I decided that I would accept the postdoc offer, even if I had the chance to get an AP position, because the extra research experience and the prestige of the postdoc would increase my chances of getting a better AP position in the next job market cycle in the EU.
 
 // #figure(caption: "My Offers")[
 //   #set text(size:0.95em)
@@ -686,50 +695,50 @@ I decided that I would accept the postdoc offer, even if I had the chance to get
 //   #todo[update the whole table offers table]
 // ] <offer_timeline>
 
-Rejections at this stage hurt a lot, especially from places I was very excited about and had high hopes.
-I think there were a couple things that made it easier for me to move on.
+Rejections at this stage hurt a lot, especially from places I was very excited about and had a good chance to receive an offer.
+I think there were a couple of things that made it easier for me to move on.
 
 First, I notified my family, advisor, and close friends and after talking with them I felt better. 
-They let me voice all my frustration with the process and breaking the news made it materialize more and easier to let go.
+They let me voice all my frustration with the process and breaking the news made it materialize more and made it easier to let go.
 
-Second, I drafted a email to answer to the rejection emails that same day, but I did not send it. 
-The idea is that you stop thinking to much about the rejection and will help you move on.
-On that same idea, I quickly put the name of the instituion on my #link("https://jjgecon.github.io/assets/JGonzalez_cv_fails.pdf")[CV of Failures] which again helped me to not overthink and focus on other processes.
+Second, I drafted an email to answer the rejection emails that same day, but I did not send it. 
+The idea is that you stop thinking too much about the rejection.
+On that same idea, I quickly put the name of the institution on my #link("https://jjgecon.github.io/assets/JGonzalez_cv_fails.pdf")[CV of Failures], which again helped me to not overthink and focus on other processes.
 
 Third, I tried to be productive and focus on other processes.
-At this point, I have already received a montain of feedback for my paper and wanted to implement some of the feedback that would make my paper to be published in a better journal, so I focused on that.
-Productive does not necessarily mean working on your research, it can be anything that makes you feel good and that you can control.
-Working out, miniature painting, talkingwith classmates, go n dates with your siginificant other, play with your pets.
-If you can get outside do it!
+At this point, I have already received a mountain of feedback for my paper and wanted to implement some of the feedback that would help my paper be published in a better journal.
+Productive does not necessarily mean working on your research; it can be anything that makes you feel good and that you can control.
+Working out, miniature painting, talking with classmates, going on dates with your significant other, playing with your pets.
+If you can get outside, do it!
 
-Fourth, I disabled email notifications in my phone and limited myself to check my email only once a day, and only after I had done some work on my research. 
-This helped with the anxiety of receiving an email notifcation.
-At the end of the day, ifyou receive the offer email will always be there for the next time you check your email.
+Fourth, I disabled email notifications on my phone and limited myself to checking my email only once a day. 
+This helped with the anxiety of receiving updates.
+At the end of the day, the offer email will always be there for the next time you check your email.
 
 
 I don't really have any advice for the bargaining stage.
-Please refer #link("https://www.aeaweb.org/content/file?id=869")[John Cawley's guide] and always seek advice from your advisor and committee.
+Please refer to #link("https://www.aeaweb.org/content/file?id=869")[John Cawley's guide] and always seek advice from your advisor and committee.
 
 #pagebreak()
 
 = What made my profile attractive?
 
-This is what I think made my profile attractive. That means that I don't have the actual reasons why some professors shortlisted my application for interviews.
+These reflections are educated guesses based on interview invitations and feedback received. I cannot claim with certainty why committees shortlisted my application.
 
 Several factors made my profile more attractive than others.
 First, I was explicit about my willingness to relocate anywhere, which broadened the set of institutions that considered me seriously.
-I recognize this is a difficult ask for candidates with partners or families; being open to relocation is a signal that you will accept a wider variety of offers, but it also comes with real costs.
+I recognize this is a difficult ask for candidates with partners or families.
 #footnote[If you and your partner are searching for academic positions, please read #link("https://www.aeaweb.org/content/file?id=869")[John Cawley's] section on this topic and read this #link("https://www.linkedin.com/posts/emma-zang-72245436_unpopular-academic-advice-5-negotiation-activity-7408971268588322817-5eYk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEMbI8BtSc1yt88uuZBJ3Mj2fUPJCm4HEU")[LinkedIn post from Emma Zang].]
 
-Second, my job‑market profile emphasized a novel AI‑based methodology applied to a traditional economics question.
+Second, my job‑market profile emphasized a novel AI‑based methodology.
 The timing, when many departments were actively exploring applied AI, meant committees were sometimes willing to take a chance on a candidate from a lower‑ranked program if the work brought fresh tools and perspectives.
-This _novel_ and popular toolset helped me land the postdoc fly-outs, where they needed researchers with Natural Language Processing skills to contribute to their projects.
+This _novel_ and popular toolset helped me land the postdoc fly-outs, where they needed researchers with Natural Language Processing skills to contribute to their projects, even if there wasn't a direct match of fields.
 
 Third, I was able to have several publications before the job market.
 I managed to publish my Master's thesis with the help of my advisor, and I participated in the #link("https://www.i4replication.org/")[Improving Replication in Economics (I4R)] initiative.
 This resulted in two publications: a replication study co-authored with my current advisor, and a meta-analysis paper in _Nature_ from the I4R games examining patterns across multiple replications.
-These publications signaled research maturity and collaborative capability to hiring committees. Being open to co-authoring opportunities and academic initiatives, can unexpectedly yield publications and visibility that strengthen your job market profile.
+These publications signaled research maturity and collaborative capability to hiring committees. Being open to co-authoring opportunities and academic initiatives can unexpectedly yield publications and visibility that strengthen your job market profile.
 
-Finally, strong advocacy from my committee amplified these signals. My advisors actively promoted my work within their networks by making introductions, forwarding my CV, and flagging my job‑market paper to colleagues who might be hiring.
+Finally, my dissertation committee actively promoted my work within their networks by contacting colleagues who might be on hiring committees at places I applied to.
 Those personal endorsements translated into more careful consideration from search committees and, in some cases, direct invites to interview.
-In combination, explicit geographic flexibility, a timely methodological edge, and proactive committee outreach materially improved how hiring committees perceived my candidacy.
+In combination, explicit geographic flexibility, a timely methodological edge, established publication record, and proactive committee outreach were some of the explanations for my performance on the 2025-26 academic economics job market.
