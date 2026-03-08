@@ -230,7 +230,7 @@ My setup can be divided into three main components:
   - Add personal reasons to apply to that position
   - Modify the LLM-generated paragraph to make it more personal
 
-If you want to see my full setup, please check this #link("https://github.com/jjgecon")[repo], in particular the `personalize_docs.ipynb` notebook.
+If you want to see my full setup, please check this #link("https://github.com/jjgecon/EconJM_auto_doc_gen")[repo], in particular the `personalize_docs.ipynb` notebook.
 
 Keep a `.txt` file with all the extra information you will always copy and paste. In this repo, the file is `other_docs/other_info.txt`.
 
