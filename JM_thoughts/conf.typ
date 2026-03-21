@@ -20,16 +20,17 @@
   thanks: none,
   doc,
 ) = {
-  set text(font: "Georgia")
+  set text(font: "Palatino Linotype", size: 11pt)
 
-  set page(margin: 1.8cm, numbering: "1")
+  set page(margin: 1in, numbering: "1")
 
   set quote(block: true)
+
   show quote: set text(style: "italic")
 
   show link: set text(fill: p_blue)
 
-  set par(justify: true)
+  set par(justify: true, leading: 1.2em)
 
   // Heading settings
   set heading(numbering: "1.1")

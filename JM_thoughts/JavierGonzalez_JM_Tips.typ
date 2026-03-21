@@ -33,9 +33,9 @@ I will be slowly working on it before August 2026.
 
 #v(1fr)
 
-#line(length: 100%, stroke: .1pt)
 
-#text(size:.85em)[
+#text(size:.7em)[
+  #line(length: 100%, stroke: .5pt)
   *Aknowledgements*
   Special thanks to #link("https://www.linkedin.com/in/fernanda-da-silva-3a8b60142?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FNzHz67rSPOOBvYSa6ODLA%3D%3D")[Fernanda Da Silva] for encouranging me to write down this document.
   It also served me as a personal journal to reflect on my own experience, a way to keep my sanity, and keept me occupied in the waiting periods of each stage.
@@ -249,7 +249,7 @@ Examples:
 #quote[My family and I are eager to *leave the United States*.
 We want our newborn daughter to grow up in a different cultural environment and are seeking a community with a safe learning environment. We are also *willing to learn Japanese* as soon as possible to better integrate into the local culture and academic community]
 
-#highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white)[#smallcaps[IMPORTANT]]]: If you are female, you have to think through whether you want to disclose family information in your cover letter, interviews, and fly-outs.
+#highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white, font: "Courier New", weight: "bold")[#smallcaps[IMPORTANT]]]: If you are female, you have to think through whether you want to disclose family information in your cover letter, interviews, and fly-outs.
 In my case, mentioning family signaled that I wanted to leave the US and find a career elsewhere with my family, which most people in the search committee can relate to.
 Some people who read the same phrase for a female candidate might think that she will need a tenure clock extension or maternity leave in the near future, which might potentially hurt your chances.
 
@@ -281,12 +281,12 @@ Focus instead on more "reliable" sources.
 
 #link("https://www.aeaweb.org/econtrack")[Econtrack] can be informative for AEA JOE listings, but it can sometimes be unreliable because any user can upload a status change. Do not treat its updates as definitive unless an entry is explicitly "verified by an official of this institution".
 
-The EJM status updates tend to be more reliable and can give you a useful signal about where a search stands for a particular position. For example, when a job shows #highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white)["Interview scheduling completed"]] status, it usually means the committee will not send out more interview invitations. If you see that status and have not received an invitation, there is a high probability you did not make the cut. 
+The EJM status updates tend to be more reliable and can give you a useful signal about where a search stands for a particular position. For example, when a job shows #highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white, font: "Courier New", weight: "bold")["Interview scheduling completed"]] status, it usually means the committee will not send out more interview invitations. If you see that status and have not received an invitation, there is a high probability you did not make the cut. 
 
-At the same time, a visible #highlight(fill: rgb("#d52b8c"), top-edge: 1em)[#text(fill: white)["Scheduling interviews"]] without an invitation is likewise a strong signal you did not make the cut.
+At the same time, a visible #highlight(fill: rgb("#d52b8c"), top-edge: 1em)[#text(fill: white, font: "Courier New", weight: "bold")["Scheduling interviews"]] without an invitation is likewise a strong signal you did not make the cut.
 
-Some postings remain in #highlight(fill: rgb("#0e1fed"), top-edge: 1em)[#text(fill: white)["Reviewing applications"]] for long periods, and this does not necessarily imply they will send interview invites soon. 
-As an example, I received a postdoc interview invite from an institution whose EJM status remained in #highlight(fill: rgb("#0e1fed"), top-edge: 1em)[#text(fill: white)["Reviewing applications"]] until January.
+Some postings remain in #highlight(fill: rgb("#0e1fed"), top-edge: 1em)[#text(fill: white, font: "Courier New", weight: "bold")["Reviewing applications"]] for long periods, and this does not necessarily imply they will send interview invites soon. 
+As an example, I received a postdoc interview invite from an institution whose EJM status remained in #highlight(fill: rgb("#0e1fed"), top-edge: 1em)[#text(fill: white, font: "Courier New", weight: "bold")["Reviewing applications"]] until January.
 
 The most reliable information is to ask your advisor if they have a close connection in the institution you want to know about and if they are willing to ask around.
 
@@ -469,7 +469,7 @@ This might happen because the department's website is higher ranked in Google se
 #footnote[This is why they recommend to generate a lot of traffic to your personal website with your existing social network. That way, when committee search for your proflie with "FIRST_NAME LAST_NAME econ" you want to appear in the first results.]
 In my experience, during a fly-out interview the professor was looking at the department's website with older information.
 
-#highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white)[#smallcaps[IMPORTANT]]]: If you are female, it is *ilegal* for any search committee to ask you about your family plans during the interview.
+#highlight(fill: rgb("#f41116"), top-edge: 1em)[#text(fill: white, font: "Courier New", weight: "bold")[#smallcaps[IMPORTANT]]]: If you are female, it is *ilegal* for any search committee to ask you about your family plans during the interview.
 #footnote[At least for E.U. institutions.]
 They might infer this information from other questions, but you are not obligated to answer these type of questions.
 Always be polite, and if you feel uncomfortable with any question, you can always deflect it or say that you prefer not to answer it.
@@ -600,7 +600,7 @@ Try to have the presentation on a pendrive; that way you avoid most technical is
 That said, also keep other copies of that presentation in your email, cloud storage, even phone that you can easily access.
 #link("https://www.aeaweb.org/content/file?id=869")[John Cawley's guide] even describes a horror story where the candidate needed to fish for her pendrive in an elevator chute.
 
-A way to scope out your competition is to check the _seminar_ series of the department you are flying out to. Candidates will present their work in these seminars and the department needs to advertise the events to students and other faculty through public channels. #highlight(fill: red)[#text(fill: white, size: 1.2em)[#smallcaps("warning")]] I do not recommend doing this before the fly-out because you might get in your own head and it might affect your performance in the fly-out itself.
+A way to scope out your competition is to check the _seminar_ series of the department you are flying out to. Candidates will present their work in these seminars and the department needs to advertise the events to students and other faculty through public channels. #highlight(fill: red, top-edge: 1em)[#text(fill: white, font: "Courier New", weight: "bold")[WARNING]] I do not recommend doing this before the fly-out because you might get in your own head and it might affect your performance in the fly-out itself.
 
 In this final stage, either in AP positions or postdocs, ask questions about the prospect.
 Here, asking questions shows that you are interested in the position.
@@ -628,7 +628,7 @@ There is a lot of waiting and uncertainty during this stage.
 At this point you did all you can and whether you get an offer or not is completely out of your control. 
 And statistics might be on your side, #link("https://www.nber.org/papers/w20654")[McFall et. al. (2015)] finds that the probability of receiving an offer after a fly-out is around 50%.
 
-#highlight(fill: red)[#text(fill: white, size: 1.2em)[#smallcaps("caution")]].
+#highlight(fill: red, top-edge: 1em)[#text(fill: white, font: "Courier New", weight: "bold")[CAUTION]].
 LLMs could be an interesting tool to help you gauge the chances of getting an offer.
 
 I tried to give all the facts about the interviews and fly-outs to an LLM to gauge my chances of an offer. Note that these models are more *optimistic than reality*, but they can suggest reasons for delays and when to request updates. However, the best information comes from asking your contact in the committee or having your advisor reach out to someone at the institution to learn the actual search status.
