@@ -17,6 +17,7 @@ I found the following resources particularly helpful:
 - #link("https://www.aeaweb.org/about-aea/committees/job-market")[AEA JOE Committee on the Job Market] videos and documents
 - #link("https://econjobmarket.org/videos")[EJM Informational discussions and webinars]
 - #link("https://res.org.uk/event-listing/european-job-market-for-economists/?utm_campaign=Dotdigital&utm_medium=email&utm_source=Royal%20Economic%20Society&dm_i=7O8I,2D6GZ,61HKR5,4O6T9,1")[European Job Market for Economists (EJME)] with #link("https://www.europeanjobmarketofeconomists.org/guides-candidates-recruiters")[Guides for Candidates and workshops]
+- #link("https://www.zoeplakias.com/post/preparing-for-the-academic-and-nonacademic-job-market-as-an-applied-economics-phd-student")[Preparing for the academic and nonacademic job market as an applied economics PhD student] by Zoe Plakias.
 
 *Housekeeping*
 
@@ -343,8 +344,6 @@ Example 1:
  + Research Agenda in relation to project (5mins)
  + What skills can you bring to proposed projects (10mins)
  + Why our project? (5mins)
-
-#pagebreak()
 
 Example 2\*:
  + Present a paper close to the project (15mins)
