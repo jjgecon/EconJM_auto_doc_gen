@@ -18,6 +18,7 @@ I found the following resources particularly helpful:
 - #link("https://econjobmarket.org/videos")[EJM Informational discussions and webinars]
 - #link("https://res.org.uk/event-listing/european-job-market-for-economists/?utm_campaign=Dotdigital&utm_medium=email&utm_source=Royal%20Economic%20Society&dm_i=7O8I,2D6GZ,61HKR5,4O6T9,1")[European Job Market for Economists (EJME)] with #link("https://www.europeanjobmarketofeconomists.org/guides-candidates-recruiters")[Guides for Candidates and workshops]
 - #link("https://www.zoeplakias.com/post/preparing-for-the-academic-and-nonacademic-job-market-as-an-applied-economics-phd-student")[Preparing for the academic and nonacademic job market as an applied economics PhD student] by Zoe Plakias.
+- #link("https://thelittledataset.com/2022/03/21/job-mkt/")[So you want to go on the job market] blog post by Alex Albright.
 
 *Housekeeping*
 
@@ -31,19 +32,15 @@ The examples of my answers will be displayed on a _quote_ block, so you can easi
 This document is somewhat informal, so please excuse any typos, grammatical errors, or unclear phrasing.
 I will be slowly working on it before August 2026.
 
+#pagebreak()
 
-#v(1fr)
+*Aknowledgements*
+Special thanks to #link("https://www.linkedin.com/in/fernanda-da-silva-3a8b60142?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FNzHz67rSPOOBvYSa6ODLA%3D%3D")[Fernanda Da Silva] for encouranging me to write down this document.
+It also served me as a personal journal to reflect on my own experience, a way to keep my sanity, and keept me occupied in the waiting periods of each stage.
 
+*Declaration of generative AI and AI-assisted technologies*
+During the preparation of this work the author used generative AI models (e.g. Gemini) in order to check grammar and spelling, search for related literature, and coding support. After using this tool/service,the author reviewed and edited the content as needed and take full responsibility for the content.
 
-#text(size:.7em)[
-  #line(length: 100%, stroke: .5pt)
-  *Aknowledgements*
-  Special thanks to #link("https://www.linkedin.com/in/fernanda-da-silva-3a8b60142?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FNzHz67rSPOOBvYSa6ODLA%3D%3D")[Fernanda Da Silva] for encouranging me to write down this document.
-  It also served me as a personal journal to reflect on my own experience, a way to keep my sanity, and keept me occupied in the waiting periods of each stage.
-
-  *Declaration of generative AI and AI-assisted technologies*
-  During the preparation of this work the author used generative AI models (e.g. Gemini) in order to check grammar and spelling, search for related literature, and coding support. After using this tool/service,the author reviewed and edited the content as needed and take full responsibility for the content.
-]
 
 #pagebreak()
 
